@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Entertainment one word
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
-| ---------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
-| show.accountant  | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.accountants | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.actor       | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.adult       | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.agency      | resell    | 72       | 30%    | 4      | Sav.com, LLC - 11                            | 17/10/2021 13:15 | 17/10/2025 13:15 |
-| show.airforce    | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.apartments  | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.archi       | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.army        | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.art         | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.associates  | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.at          | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.attorney    | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.auction     | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.audio       | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.auto        | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.autos       | resell    | 72       | 30%    | 4      | Spaceship, Inc.                              | 23/07/2021 14:35 | 23/07/2026 23:59 |
-| show.baby        | expiring  | 72       | 30%    | 4      | Xiamen ChinaSource Internet Service Co., Ltd | 05/09/2024 08:48 | 05/09/2025 23:59 |
-| show.band        | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.bar         | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.bargains    | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.bayern      | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.beauty      | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.berlin      | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.bet         | resell    | 72       | 30%    | 4      | Sav.com, LLC - 24                            | 03/04/2024 15:15 | 03/04/2026 15:15 |
-| show.bid         | resell    | 72       | 30%    | 4      | Porkbun                                      | 26/07/2019 14:26 | 26/07/2026 14:26 |
-| show.bike        | resell    | 72       | 30%    | 4      | Sav.com, LLC - 15                            | 31/07/2025 15:15 | 31/07/2026 15:15 |
-| show.bingo       | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.blackfriday | available | 72       | 30%    | 4      |                                              |                  |                  |
-| show.blog        | available | 72       | 30%    | 4      |                                              |                  |                  |
+| Domain          | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| --------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| show.tennis     | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.theatre    | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.tickets    | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.tienda     | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.tips       | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.tires      | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.today      | resell    | 72       | 30%    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. | 22/11/2022 15:15 | 22/11/2025 15:15 |
+| show.toys       | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.trade      | resell    | 72       | 30%    | 4      | Porkbun                                             | 29/07/2019 12:48 | 29/07/2026 12:48 |
+| show.training   | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.university | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.uno        | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.us         | resell    | 72       | 30%    | 4      | Dynadot Inc                                         | 09/03/2017 18:01 | 08/03/2026 23:59 |
+| show.vacations  | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.vana       | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.vegas      | resell    | 72       | 30%    | 4      | Dynadot Inc                                         | 02/07/2022 18:13 | 02/07/2026 18:13 |
+| show.ventures   | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.viajes     | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.vin        | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.vodka      | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.voting     | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.voto       | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.voyage     | available | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.webcam     | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.website    | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.wedding    | resell    | 72       | 30%    | 4      | GoDaddy.com, LLC                                    | 10/07/2024 22:20 | 10/07/2026 22:20 |
+| show.wiki       | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
+| show.wine       | expiring  | 72       | 30%    | 4      | Dreamscape Networks International Pte Ltd           | 16/09/2019 02:47 | 16/09/2025 02:47 |
+| show.xyz        | resell    | 72       | 30%    | 4      | Dynadot LLC                                         | 07/04/2016 15:50 | 07/04/2030 23:59 |
+| show.yoga       | premium   | 72       | 30%    | 4      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Entertainment-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
