@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Entertainment one word
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar    | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ------------ | ---------------- | ---------------- |
-| show.international | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.irish         | available | 72       | 26%    | 4      |              |                  |                  |
-| show.jetzt         | available | 72       | 26%    | 4      |              |                  |                  |
-| show.jewelry       | available | 72       | 26%    | 4      |              |                  |                  |
-| show.juegos        | available | 72       | 26%    | 4      |              |                  |                  |
-| show.kaufen        | available | 72       | 26%    | 4      |              |                  |                  |
-| show.kids          | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.kim           | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.kitchen       | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.lat           | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.law           | available | 72       | 26%    | 4      |              |                  |                  |
-| show.lawyer        | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.lease         | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.legal         | available | 72       | 26%    | 4      |              |                  |                  |
-| show.lgbt          | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.life          | resell    | 72       | 26%    | 4      | Porkbun LLC  | 06/10/2016 20:44 | 06/10/2026 20:44 |
-| show.lifestyle     | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.limited       | resell    | 72       | 26%    | 4      | Dynadot Inc  | 25/02/2025 17:35 | 25/02/2026 17:35 |
-| show.limo          | available | 72       | 26%    | 4      |              |                  |                  |
-| show.live          | resell    | 72       | 26%    | 4      | Sav.com, LLC | 20/02/2025 01:22 | 20/02/2026 01:22 |
-| show.living        | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.llc           | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.loan          | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.loans         | available | 72       | 26%    | 4      |              |                  |                  |
-| show.locker        | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.lol           | resell    | 72       | 26%    | 4      | Dynadot LLC  | 03/09/2025 08:16 | 03/09/2026 23:59 |
-| show.love          | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.ltda          | premium   | 72       | 26%    | 4      |              |                  |                  |
-| show.luxe          | available | 72       | 26%    | 4      |              |                  |                  |
-| show.luxury        | premium   | 72       | 26%    | 4      |              |                  |                  |
+| Domain           | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
+| ---------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
+| show.accountant  | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.accountants | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.actor       | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.adult       | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.agency      | resell    | 72       | 26%    | 4      | Spaceship, Inc.   | 17/10/2021 13:15 | 17/10/2026 13:15 |
+| show.airforce    | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.apartments  | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.archi       | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.army        | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.art         | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.associates  | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.at          | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.attorney    | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.auction     | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.audio       | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.auto        | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.autos       | sold      | 72       | 26%    | 4      | Spaceship, Inc.   | 23/07/2021 14:35 | 23/07/2026 23:59 |
+| show.baby        | resell    | 72       | 26%    | 4      | Spaceship, Inc.   | 16/11/2025 21:35 | 16/11/2026 23:59 |
+| show.band        | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.bar         | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.bargains    | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.bayern      | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.beauty      | premium   | 72       | 26%    | 4      |                   |                  |                  |
+| show.berlin      | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.bet         | resell    | 72       | 26%    | 4      | Sav.com, LLC - 24 | 03/04/2024 15:15 | 03/04/2027 15:15 |
+| show.bid         | resell    | 72       | 26%    | 4      | Porkbun           | 26/07/2019 14:26 | 26/07/2026 14:26 |
+| show.bike        | resell    | 72       | 26%    | 4      | Sav.com, LLC - 15 | 31/07/2025 15:15 | 31/07/2026 15:15 |
+| show.bingo       | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.blackfriday | available | 72       | 26%    | 4      |                   |                  |                  |
+| show.blog        | premium   | 72       | 26%    | 4      |                   |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Entertainment-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Entertainment one word
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
