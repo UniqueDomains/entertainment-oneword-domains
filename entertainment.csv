@@ -1495,6 +1495,7 @@ d307bf2f-c3e4-4ba7-b26c-625cf922229f,show.cars,available,2950,,72,31,4,namecheap
 d5ff0eae-8e19-41e7-a02a-a940891cfdb4,show.casa,premium,104,13,72,31,4,namecheap,,
 6e9dc31f-1f50-42b8-9d88-c8d845ba32bb,show.casino,resell,,,72,31,4,"Sav.com, LLC - 46",12/06/2025 15:15,12/06/2026 15:15
 b49205b7-57ea-4d6c-bf19-e9a3a5012e83,show.catering,premium,260,260,72,31,4,namecheap,,
+b81e5fdc-7767-4ff7-bf0d-6843b36eda5f,show.cc,resell,,,72,31,4,"GoDaddy.com, LLC",25/05/2004 13:56,25/05/2027 13:56
 38f77149-7bd1-4d2d-b968-ab3e81240a44,show.center,resell,,,72,31,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/12/2018 16:16,05/12/2026 16:16
 6ed59782-a65b-4af9-8280-3573f2debd6f,show.ceo,premium,2600,2600,72,31,4,namecheap,,
 d257260c-6de1-4a0b-b4d8-c0432f78e2e8,show.channel,premium,623.75,,72,31,4,name.com,,
@@ -1558,6 +1559,7 @@ b36fe382-75d2-4fd8-9cde-27ff82cc647f,show.eco,available,101.98,,72,31,4,namechea
 b688ef44-2964-4d21-8fbc-1349a8405d93,show.express,resell,,,72,31,4,"Sav.com, LLC - 30",19/11/2025 15:15,19/11/2026 15:15
 b25165e3-5eea-4186-96c8-9ec91ed130ad,show.fail,premium,123.75,123.75,72,31,4,name.com,,
 b7ff55a0-8297-449c-b262-d98ea732ac68,show.faith,premium,12500,125,72,31,4,name.com,,
+4b4c0536-21c9-46cb-ac15-afcba5a07895,show.family,premium,,,72,31,4,,,
 a59b01dd-a04f-4ba4-b825-b4ca8a52b0ca,show.fast,premium,325,325,72,31,4,namecheap,,
 e2bc6ab7-e0b2-4722-8e52-1b33543249f5,show.film,premium,1250,1250,72,31,4,name.com,,
 f73aeedf-e788-4f3e-abff-485e87f70470,show.finance,resell,,,72,31,4,"Spaceship, Inc.",04/11/2021 10:29,04/11/2026 10:29
@@ -1683,7 +1685,6 @@ edbeed3a-06f2-4488-bf6d-317144bd6c1a,show.parts,premium,260,260,72,31,4,namechea
 64df0177-d233-4a71-a1ee-b259dd261e4b,show.party,premium,6500,130,72,31,4,namecheap,,
 ed7d3ca2-c954-4361-893f-547aa45957b5,show.phd,premium,843.7,843.7,72,31,4,namecheap,,
 fad509d9-9e6a-4d5f-ba8a-1a6071d3c931,show.photo,resell,,,72,31,4,"NameSilo, LLC",14/12/2018 04:36,14/12/2027 04:36
-bfa0936c-5d21-4f4d-a30a-2f7ae73fd59b,show.photography,resell,,,72,31,4,"Sav.com, LLC",08/05/2021 03:06,08/05/2026 03:06
 29969f6f-3a7e-477c-8e3b-2392917bbb0d,show.pics,resell,,,72,31,4,"Spaceship, Inc.",28/11/2025 21:41,28/11/2026 23:59
 dd3a35b8-c770-4a4e-adf4-2247fa93db76,show.pictures,premium,26,26,72,31,4,namecheap,,
 9cbb5bd2-7deb-48d6-ace6-53a470b76d10,show.pink,resell,,,72,31,4,"Xiamen ChinaSource Internet Service Co., Ltd",16/08/2025 15:15,16/08/2026 15:15
@@ -1713,6 +1714,7 @@ cbe449ef-68d1-4c60-aabe-76f458730179,show.rip,resell,,,72,31,4,"GoDaddy.com, LLC
 4cf7fbd3-5655-4cbb-873f-c22438fb6f3a,show.rocks,resell,,,72,31,4,Porkbun LLC,21/03/2022 21:53,21/03/2027 21:53
 0eec8353-4567-41dd-aa1a-f2537b9775b8,show.rodeo,premium,104,10.4,72,31,4,namecheap,,
 557431c6-3542-4f8e-b6e3-e336f2f0ae4f,show.rsvp,premium,648.7,648.7,72,31,4,namecheap,,
+f0b2f7d1-5e3f-4e13-b4bb-08f34378453c,show.ryukyu,available,22.98,,72,31,4,namecheap,,
 f17952e6-ca69-48eb-8c4a-f0cf9bfcaf74,show.sale,premium,,,72,31,4,,,
 67a459b9-b85f-4fed-8035-1bf1e0b36a5a,show.sarl,available,8.98,,72,31,4,namecheap,,
 b7017cf1-5ec6-4e93-91a9-9a868fb10f0e,show.sbs,premium,143.65,574.6,72,31,4,namecheap,,
@@ -1778,6 +1780,7 @@ a423b8e1-46cc-4354-b44c-5627beae8486,show.website,premium,1625,3250,72,31,4,name
 a0db20f3-5aee-457c-9ac2-6f85e64fc3fe,show.wedding,resell,,,72,31,4,"GoDaddy.com, LLC",10/07/2024 22:20,10/07/2026 22:20
 dd077647-be0e-460c-b8d7-3de715a7b07e,show.wiki,premium,845,845,72,31,4,namecheap,,
 788c639a-902d-48b9-ac01-fb83630c906c,show.xxx,premium,310,,72,31,4,name.com,,
+8f2be966-4476-4d99-b65a-804e1db13256,show.xyz,resell,343721.2,20.99,72,31,4,Dynadot LLC,07/04/2016 15:50,07/04/2030 23:59
 d24b24fd-dee4-44bb-b000-7959015afd74,show.yoga,premium,52,52,72,31,4,namecheap,,
 87aaee35-f78f-4ba6-aad7-31d4a8e50e73,show.zip,premium,323.7,323.7,72,31,4,namecheap,,
 9fa2bdad-38ae-4b42-a04c-46080fad53d0,show.zone,resell,,,72,31,4,"DNSPod, Inc.",14/06/2024 15:15,14/06/2026 15:15
@@ -1788,7 +1791,6 @@ d24b24fd-dee4-44bb-b000-7959015afd74,show.yoga,premium,52,52,72,31,4,namecheap,,
 32f64eb8-36f1-42e7-a855-26f13e30d987,show.games,premium,,,72,24,4,,,
 fd7b15cb-fe12-4173-bcf1-431584f2b233,show.hiphop,premium,,,72,24,4,,,
 0807b884-336e-45ec-8fcb-51a514cdf67d,show.im,premium,,,72,24,4,,,
-17d0267d-30c3-42a0-ad39-e20e862c6146,show.limited,resell,,,72,24,4,Dynadot Inc,25/02/2025 17:35,25/02/2026 17:35
 c606f9f4-3574-4fae-b156-7a96381cafa4,show.men,premium,,,72,24,4,,,
 b583653b-151d-48f5-9ac6-eeda2939f3cf,show.menu,premium,,,72,24,4,,,
 646620b0-5a4e-4909-ab45-e57487ba2437,show.miami,premium,,,72,24,4,,,
@@ -7843,6 +7845,7 @@ ebc74c99-6805-4db6-8889-0be412e2421c,game.academy,resell,,,120,50,4,"Spaceship, 
 25410357-db27-4491-9e74-4ef9d0fb0fbd,game.accountant,premium,437.5,62.5,120,50,4,name.com,,
 39798682-cda5-4c65-a318-76c154796cc9,game.accountants,available,43.99,153.99,120,50,4,name.com,,
 22075ac1-de55-429e-9c88-70b0ea3807e4,game.adult,premium,310,310,120,50,4,name.com,,
+f34acecd-5236-46ce-adac-f1f65b54e396,game.agency,resell,,,120,50,4,"eNom, LLC",30/04/2014 16:52,30/04/2027 16:52
 e07bb4c4-2f4e-49b3-b7e8-83345dd65221,game.airforce,available,134.98,,120,50,4,namecheap,,
 58684dd2-0d0b-4a8e-85ce-d8824c1d5c63,game.apartments,available,19.99,83.99,120,50,4,name.com,,
 3b7fa390-1994-4df5-bf0a-84722a40dd63,game.archi,resell,,,120,50,4,"Sav.com, LLC - 2",10/07/2025 15:47,10/07/2026 15:47
@@ -7859,7 +7862,6 @@ ee309091-34cb-496d-8d86-d6773163642a,game.bayern,available,47.99,50.99,120,50,4,
 3ff6d5ee-3ab8-465b-860b-106002b445a9,game.beauty,premium,2500,2500,120,50,4,name.com,,
 97e8a843-15bf-4780-9a13-64121bcd7ef6,game.beer,resell,,,120,50,4,"GoDaddy.com, LLC",30/07/2017 01:22,30/07/2026 01:22
 32045728-42ac-4465-aa79-aa741cb18c16,game.berlin,resell,,,120,50,4,,11/07/2016 14:05,11/07/2027 14:05
-b676ec0d-4a78-4e4e-a90f-8a6ab88217ca,game.best,resell,,,120,50,4,"Porkbun, LLC",13/05/2018 10:30,13/05/2026 23:59
 202d9ac3-6223-4116-a5c6-7ab8800cf25d,game.bid,resell,,,120,50,4,"Global Domains International, Inc. DBA DomainCostClub.com",26/07/2019 14:19,26/07/2030 14:19
 73a1d92d-5028-47f1-b33a-4ddafbdebf9c,game.bio,resell,,,120,50,4,"Global Domains International, Inc. DBA DomainCostClub.com",03/06/2019 10:10,03/06/2026 10:10
 e73c783a-2015-4649-a77c-fad4e61d41da,game.black,resell,,,120,50,4,"DNSPod, Inc.",03/02/2019 10:13,03/02/2030 10:13
@@ -7870,7 +7872,6 @@ eddcd438-a91c-4deb-9c36-dd1e0614e2a7,game.bond,resell,,,120,50,4,Dynadot LLC,15/
 d30e6940-69a8-4b97-8675-24887c564933,game.boo,premium,1248.75,1248.75,120,50,4,name.com,,
 3760954f-faa4-4df0-a5a7-9cbc61565e24,game.boston,premium,500,27.99,120,50,4,name.com,,
 3d0bd807-b4e0-47dc-834d-dd070fe35417,game.bot,premium,6250,6250,120,50,4,name.com,,
-49a5fb6f-6378-429d-83bc-eb3963a153e2,game.broker,resell,,,120,50,4,"Spaceship, Inc.",11/05/2022 13:15,11/05/2026 13:15
 4e12a08f-aa79-49eb-8cca-ace07fea390a,game.cab,resell,,,120,50,4,"DNSPod, Inc.",20/02/2019 09:37,20/02/2027 09:37
 030b9a85-edab-45e6-bbab-226958a7139d,game.camera,premium,500,500,120,50,4,name.com,,
 8bf5693e-7adf-4509-b7a6-c3f9e0a1e970,game.car,available,2400,,120,50,4,namecheap,,
@@ -7879,9 +7880,10 @@ d30e6940-69a8-4b97-8675-24887c564933,game.boo,premium,1248.75,1248.75,120,50,4,n
 aa0b4e82-a420-45e8-b171-9414d440be66,game.cars,available,2950,,120,50,4,namecheap,,
 e58a3779-7681-4e66-aeb9-4c8e7b2571f6,game.casino,resell,,,120,50,4,"Go Australia Domains, LLC",30/05/2015 16:00,30/05/2026 16:00
 698bbfa1-7139-4b49-b70c-15b885aade60,game.catering,premium,82.5,82.5,120,50,4,name.com,,
-16afc826-facd-4d63-b943-bc27cd49e460,game.center,resell,,,120,50,4,"GoDaddy.com, LLC",27/06/2015 16:00,27/06/2026 16:00
+16afc826-facd-4d63-b943-bc27cd49e460,game.center,resell,,,120,50,4,"GoDaddy.com, LLC",27/06/2015 16:00,27/06/2027 16:00
 8c321186-2c50-4408-bda3-5d488cd5d7e5,game.channel,premium,1248.75,1248.75,120,50,4,name.com,,
 499fdb9a-c3ee-4821-8358-e418dd7ef148,game.chat,resell,,,120,50,4,"Chengdu West Dimension Digital Technology Co., Ltd.",17/05/2015 15:08,17/05/2027 15:08
+a5392ea4-60ef-4ab2-bdde-5fe25cb8f1f1,game.cheap,resell,,,120,50,4,Porkbun LLC,07/04/2019 18:16,07/04/2027 18:16
 40d42e3e-3d74-4298-9f10-198c9d42412e,game.christmas,resell,,,120,50,4,1API GmbH,17/06/2025 23:12,17/06/2026 23:59
 f9858869-546d-4bd1-afb4-5ea37dbd35c3,game.claims,available,19.99,86.99,120,50,4,name.com,,
 9b2d214c-b2d6-4485-b46a-cc26e75dadee,game.cleaning,premium,250,250,120,50,4,name.com,,
@@ -7897,6 +7899,7 @@ f7e2a709-f79b-4d34-b432-8a85e2984af9,game.creditcard,available,9.99,236.99,120,5
 2989e930-07fb-4365-b470-1e0b5da19f2c,game.cruises,premium,82.5,82.5,120,50,4,name.com,,
 839b576c-c15a-424d-8b39-530e0cf381b7,game.cv,premium,,,120,50,4,,,
 511698b5-afa2-4a86-b09a-2ad02f46084c,game.dad,premium,1248.75,1248.75,120,50,4,name.com,,
+5ba1860b-feb9-4d44-ab88-d95d6dd33dd0,game.day,premium,,,120,50,4,,,
 3406075f-77d5-4048-8f26-5013a0814579,game.dealer,premium,2015,2600,120,50,4,namecheap,,
 a55ff894-2d3f-4d24-817a-5a0f6e1caa4a,game.degree,premium,1250,1250,120,50,4,name.com,,
 968b5d8d-68a3-47c7-912b-5fd2bd02b3ee,game.democrat,available,9.99,43.99,120,50,4,name.com,,
@@ -8019,6 +8022,7 @@ e7b57048-120c-41d7-9f43-f649b9a03be4,game.republican,available,5.99,46.99,120,50
 80037fab-6b76-49b2-8858-bd646b166509,game.rodeo,premium,100,14.99,120,50,4,name.com,,
 7f396066-8d52-41e0-acaa-7246e9c57d09,game.rsvp,premium,1248.75,1248.75,120,50,4,name.com,,
 1d449d46-5ce4-491c-a4aa-95a9c7a30c50,game.run,resell,,,120,50,4,"Key-Systems, LLC",19/08/2015 16:00,19/08/2026 16:00
+23800bdb-45c5-4b69-9a36-d1c1b04d71cd,game.ryukyu,available,22.98,,120,50,4,namecheap,,
 1c0ebc48-649d-466a-8b58-32373f460d4d,game.sale,premium,1250,1250,120,50,4,name.com,,
 909bf71f-7af1-432d-9050-fb128dc7de08,game.sarl,premium,82.5,82.5,120,50,4,name.com,,
 8d433f98-d480-4fb6-bb6f-58ce92642862,game.science,resell,,,120,50,4,"GoDaddy.com, LLC",02/05/2018 20:17,02/05/2028 20:17
@@ -8093,7 +8097,6 @@ ef0975fd-df14-4163-9832-0867a3e859e5,game.qpon,premium,,,120,49,4,,,
 b72146fa-cfb4-47b3-9513-736879a5c8d9,game.racing,premium,,,120,49,4,,,
 4655570b-4157-45f2-ad88-124b6196af2c,game.rent,premium,,,120,49,4,,,
 b9c45fa5-cfbc-40dc-abd5-cfad852f8fd7,game.rip,premium,123.75,123.75,120,49,4,name.com,,
-23800bdb-45c5-4b69-9a36-d1c1b04d71cd,game.ryukyu,available,22.98,,120,49,4,namecheap,,
 6c898f5a-2225-401c-b109-a8593fcdf081,game.sh,resell,,,120,49,4,1API GmbH,20/06/2013 03:00,20/06/2026 03:00
 aedb68ff-f43f-4caa-a68d-3b08a80afccc,game.social,premium,,,120,49,4,,,
 60e09b6d-f68a-4570-823d-12a325a28dfc,game.software,premium,,,120,49,4,,,
@@ -8106,6 +8109,7 @@ bb9782fe-6da4-40ed-8a27-85dc958ed8b1,game.bet,resell,,,88,50,4,"GoDaddy.com, LLC
 993701ac-12b6-4158-b1d9-00037c528ba2,game.luxe,resell,,,88,50,4,"GoDaddy.com, LLC",04/05/2021 21:21,04/05/2027 21:21
 3c91846b-84b1-4ae9-8bb4-98a17265fa7d,game.mobile,premium,5000,,88,50,4,name.com,,
 316dd48c-28b4-4162-a6b5-d9a5bfc85bd9,game.place,resell,,,88,50,4,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
+81b37cd7-a188-4740-ade6-774cbf260160,game.shop,premium,12500,,88,50,4,name.com,,
 5c50674b-aaaa-45fe-a7f7-a6c922398751,game.tools,resell,,,88,50,4,"GoDaddy.com, LLC",12/08/2015 16:00,12/08/2027 16:00
 b2288b40-cef6-42cc-bb25-95deb12b5416,screen.diet,premium,,,72,32,6,,,
 552496d1-7a4c-4a84-864a-1303ea6ace0b,screen.supply,premium,,,72,32,6,,,
@@ -9246,7 +9250,6 @@ d6cfa6c2-a834-439d-9821-bd5c1e933c48,director.football,premium,,,76,15,8,,,
 c1e5e5a2-0516-47e6-8b92-1821825e12aa,director.property,premium,,,76,15,8,,,
 07579158-1aad-48d0-8970-a0db0b4bb853,director.sh,premium,,,76,15,8,,,
 62ce6bec-6f4f-434c-8f96-84b4764555f1,picture.ac,available,49.99,99,100,27,7,name.com,,
-441f5f72-6c46-43f5-9f21-fb5c18a1243a,picture.academy,resell,,,100,27,7,"NameCheap, Inc.",08/05/2023 16:44,08/05/2026 16:44
 15926693-e087-43cd-9665-78920b3b2a73,picture.accountant,premium,,,100,27,7,,,
 6f2a5083-1293-451d-ab47-b2788e9a1758,picture.accountants,premium,,,100,27,7,,,
 83b772b7-ca31-4f67-a94a-ed1d35c24a67,picture.actor,premium,,,100,27,7,,,
@@ -9308,6 +9311,7 @@ c8e3af71-345f-43bf-aba5-86a139abad46,picture.cloud,premium,,,100,27,7,,,
 3225f749-2f68-4415-a30e-aba829b90644,picture.codes,premium,,,100,27,7,,,
 2f2028dc-b778-465d-a89a-7ffd847a7b8b,picture.coffee,premium,,,100,27,7,,,
 6303f2b8-852c-4664-80c6-03ae73a315c8,picture.college,premium,,,100,27,7,,,
+a4acce00-9e48-425c-b556-086accdb3158,picture.community,resell,,,100,27,7,"Sav.com, LLC - 38",08/04/2025 15:15,08/04/2027 15:15
 832be78f-c46c-48a9-a0ff-8750f12ec018,picture.company,resell,,,100,27,7,"Spaceship, Inc.",12/09/2018 03:15,12/09/2026 03:15
 9254050b-f00b-4907-a839-03b5fd9c02ca,picture.computer,premium,,,100,27,7,,,
 c1295c8b-dc49-4fdf-8638-2b45607952d4,picture.condos,premium,,,100,27,7,,,
@@ -9428,6 +9432,7 @@ d3ed0432-62bd-4029-8a38-85afc773fb13,picture.juegos,premium,,,100,27,7,,,
 228698d8-5793-4d82-9fa5-d9aeba6a5df3,picture.kaufen,premium,,,100,27,7,,,
 b373d556-2e5e-459e-8b0f-e9f296fc3d8d,picture.kids,premium,,,100,27,7,,,
 1811d4d9-89b4-4076-88d7-adaef85981c1,picture.kim,premium,,,100,27,7,,,
+7c9ae0ec-d107-4f9a-89a0-95737fe91681,picture.la,resell,,,100,27,7,LA Domain Names,19/04/2023 09:18,19/04/2027 23:59
 4fa9f252-8887-40f0-800b-91784eef118b,picture.law,premium,,,100,27,7,,,
 3c5520b8-f672-46f4-997f-14432e2fd760,picture.lawyer,premium,,,100,27,7,,,
 085c25db-03b7-4d9f-8620-ecbd0d1fc00b,picture.lease,premium,,,100,27,7,,,
@@ -9461,6 +9466,7 @@ adf03a01-a7e2-48b6-a234-315102a0a85a,picture.luxury,premium,,,100,27,7,,,
 b73d59cd-4ae1-4746-bba8-f889a82d7488,picture.moda,premium,,,100,27,7,,,
 b7a84fd3-e9ba-4005-b11a-4c0c04bd7cd5,picture.moe,premium,,,100,27,7,,,
 059ebc48-bdcf-45a8-a48c-8cb353b7769c,picture.money,premium,,,100,27,7,,,
+bb54ba2f-9e4c-4259-858b-be951844ca0c,picture.monster,resell,,,100,27,7,"Go Daddy, LLC",22/01/2026 01:18,22/01/2027 23:59
 b394402b-676b-4bed-a2ca-068df16410f9,picture.mortgage,premium,,,100,27,7,,,
 14ace08b-f236-40c5-a6b1-25dd97245782,picture.motorcycles,premium,,,100,27,7,,,
 0e9b2c91-e215-42a9-bcc7-c80e7b251748,picture.mov,premium,,,100,27,7,,,
@@ -9575,6 +9581,7 @@ bcf896ea-432a-420b-9c4b-bf6ece188968,picture.ventures,resell,,,100,27,7,IONOS SE
 6f34218e-646d-433c-aa54-404cd99d32d7,picture.viajes,premium,,,100,27,7,,,
 3d7c1d17-325e-4ad6-9a4c-279f0d1b3763,picture.villas,premium,,,100,27,7,,,
 2a6d4f25-2a0c-48ae-8708-33232bd1d2f9,picture.vin,premium,,,100,27,7,,,
+576d3dcb-c68e-45bc-b2c8-4bae6aace2bc,picture.vision,premium,,,100,27,7,,,
 87cc978f-d10e-43c2-a4b4-5c5b7d7c6fa5,picture.vodka,premium,,,100,27,7,,,
 4019846a-edb7-4f02-bea5-e1fa6779a751,picture.vote,premium,,,100,27,7,,,
 276b3735-1af9-43b0-b34d-a02a384f0f2a,picture.voto,premium,,,100,27,7,,,
@@ -9594,7 +9601,6 @@ d5bb1048-e5a1-4271-9510-a736351755e8,picture.wine,premium,,,100,27,7,,,
 49586579-5493-4a93-ab9d-bc9774d24520,picture.bike,premium,,,100,26,7,,,
 5b03c4e0-6a1e-46b7-a092-83c75a7e7103,picture.online,premium,,,100,26,7,,,
 4a794e8f-6275-41bb-aac2-d2d647745b3b,picture.site,premium,,,100,26,7,,,
-576d3dcb-c68e-45bc-b2c8-4bae6aace2bc,picture.vision,premium,,,100,26,7,,,
 f3652a51-174c-497c-aa74-d7ef0f553185,picture.sh,available,59.99,99,100,25,7,name.com,,
 b2207a07-1023-4100-b76f-cd50e9425071,picture.art,premium,,,100,19,7,,,
 a25618de-6977-4062-a445-8519bac72f78,picture.biz,premium,7590,20,100,19,7,"Spaceship, Inc.",01/08/2019 00:01,01/08/2026 00:01
@@ -9607,7 +9613,6 @@ f81256f8-fce3-426a-bcc3-f6e4bf24c6a8,picture.im,premium,,,100,19,7,,,
 47640396-e1f3-473b-a6a5-af029351a277,picture.men,premium,,,100,19,7,,,
 bbce6b85-1747-4ec6-aa8c-feb41fb04817,picture.menu,premium,,,100,19,7,,,
 9c6c64c8-d946-4a88-b2aa-0ca284044b31,picture.mobi,premium,,,100,19,7,,,
-bb54ba2f-9e4c-4259-858b-be951844ca0c,picture.monster,premium,,,100,19,7,,,
 5c1f1fdd-fa59-4636-ad49-72095defc668,picture.music,premium,,,100,19,7,,,
 59483be8-785a-4405-ad48-9b2cb13dca50,picture.osaka,premium,,,100,19,7,,,
 a3ebac76-0e53-4572-b278-2f75a5bdc1c6,picture.party,premium,,,100,19,7,,,
@@ -9628,6 +9633,7 @@ d86559c6-81ca-4741-8a87-df0c2d8ee9a3,picture.moi,premium,1250,,82,27,7,name.com,
 ff9713e8-f918-4a01-aa3b-dbcfd29b890d,picture.new,available,549.99,,82,27,7,name.com,,
 b3010b9a-9bbd-4c6f-bd34-f142f73b1228,picture.paris,premium,365.31,,82,27,7,name.com,,
 91e90723-5ec0-405e-a817-2349fc838a6c,picture.red,resell,,,82,27,7,"Xiamen ChinaSource Internet Service Co., Ltd",24/11/2025 15:16,24/11/2026 15:16
+1cde8f7c-6c1b-4f27-bea1-6bdfb51df08b,picture.ryukyu,available,22.98,,82,27,7,namecheap,,
 f592272d-194f-4c63-8313-f36a2f38f1ab,entertainers.app,premium,,,38,40,12,,,
 c3ce9cd0-7c6e-49d3-9d5d-54df91e955c9,entertainers.cloud,premium,,,38,40,12,,,
 54c24e41-425e-40f4-912e-855dae78afa6,entertainers.com,resell,,,38,40,12,NetTuner Corp. dba Webmasters.com,19/05/1995 04:00,20/05/2026 04:00
@@ -9661,241 +9667,245 @@ e1909546-c7b9-4ba0-a5cc-8a1fbeaceed5,storytelling.cloud,premium,650,650,,60,12,n
 fd1643ea-351e-40eb-86f9-b0e748c8a1ae,storytelling.site,premium,,,,60,12,,,
 1cd57ae7-f34f-4d7b-93a9-cbfa6e83e075,storytelling.tech,premium,312.5,1250,,60,12,name.com,,
 c020cbdb-ad90-4ae7-9a17-14bbd90e1cb0,storytelling.zone,available,51.98,,,60,12,namecheap,,
-3c894b6f-5c01-44b0-b69b-d62368286adf,digital.accountants,available,43.99,153.99,100,50,7,name.com,,
-2c309686-1739-43a2-9270-341518d1f395,digital.adult,available,166.98,,100,50,7,namecheap,,
-7c678652-e52b-42d8-a8ec-97297b6104e8,digital.asia,resell,,,100,50,7,"Spaceship, Inc.",21/06/2008 07:03,21/06/2026 07:03
-dbd090da-caac-4c35-b387-8d5910f30fc2,digital.auction,resell,,,100,50,7,IONOS SE,27/02/2016 09:18,27/02/2027 09:18
-4fd9358e-9102-41c7-860a-ed1386e55bcc,digital.autos,premium,812.5,20.99,100,50,7,name.com,,
-b8c6b6a7-f29d-48c0-8ba5-ffcefee4a380,digital.baby,premium,3125,94.99,100,50,7,name.com,,
-fbdcd2b1-be0f-496b-bbb6-3c2bf38862b9,digital.bar,premium,4095,5850,100,50,7,namecheap,,
-a1951fbd-da08-4e86-bdfa-e66b42c2065a,digital.beauty,premium,2500,2500,100,50,7,name.com,,
-7bb1a31e-b602-42b8-afed-d9f8a7f75ea2,digital.bid,resell,,,100,50,7,Porkbun,26/07/2019 14:50,26/07/2026 14:50
-8ae78500-3c27-4dc4-b609-b1b8097c8a1d,digital.bike,resell,,,100,50,7,"Spaceship, Inc.",19/09/2023 15:15,19/09/2026 15:15
-d9d3e1b7-6150-4701-beaa-a17218dfb575,digital.bingo,premium,123.75,123.75,100,50,7,name.com,,
-603d2f12-e267-490a-b069-aae0114959d6,digital.bio,resell,,,100,50,7,Porkbun LLC,29/10/2023 19:02,29/10/2026 19:02
-71261429-11c7-439e-ab9c-cfe929a244ba,digital.black,resell,,,100,50,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/12/2025 15:15,08/12/2026 15:15
-fd88bb29-6e05-4286-9c3e-fa2e66294e2c,digital.blackfriday,available,134.98,,100,50,7,namecheap,,
-3ebc5e8f-0d9f-423e-b495-26682ecb011f,digital.blog,premium,3146.25,12500,100,50,7,name.com,,
-1b6ee1a8-3194-4d18-8cba-3318a05e0e97,digital.blue,resell,,,100,50,7,"Sav.com, LLC",20/07/2016 12:55,20/07/2026 12:55
-8bbd5fd5-fd72-4c87-b949-c789eede0f5e,digital.boats,premium,812.5,20.99,100,50,7,name.com,,
-2e761856-3add-4f03-a599-cf2615c9d78d,digital.bond,resell,,,100,50,7,Dynadot LLC,20/11/2020 17:09,20/11/2026 23:59
-e16c45ae-18e7-4990-aad7-b55b11ce3ca6,digital.boo,premium,623.75,623.75,100,50,7,name.com,,
-e848e1c4-47e4-4d1f-ac04-3b041ddf9c81,digital.boutique,resell,,,100,50,7,"Sav.com, LLC",18/07/2016 14:25,18/07/2026 14:25
-61632e25-67a5-4c20-8854-2629de4679f7,digital.broker,premium,6250,6250,100,50,7,name.com,,
-7a8af4c6-0c92-40f9-b7f8-a624d2850edb,digital.buzz,premium,9775,46.99,100,50,7,name.com,,
-7d823e37-971d-4339-b057-4ed6f10951ef,digital.bz,resell,,,100,50,7,Dynadot Inc,07/05/2023 12:05,07/05/2026 12:05
-5d022651-495a-4805-ab84-0bd2eda7ed80,digital.cab,premium,82.5,82.5,100,50,7,name.com,,
-49e5177d-da28-4cd4-b5a9-78f2a6cd8d0e,digital.cam,premium,1875,29.99,100,50,7,name.com,,
-c24f4b4a-f7c2-4fe8-beb2-6eb086eced87,digital.camp,resell,,,100,50,7,"Sav.com, LLC",05/09/2024 17:01,05/09/2026 17:01
-b183f316-95e0-4005-be32-7b5b7bc74849,digital.capital,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/07/2014 16:00,13/07/2027 16:00
-b3983f51-2309-4297-bd56-548c41dbee9e,digital.car,available,2400,,100,50,7,namecheap,,
-393b846b-46f1-4f27-a6d4-7080db9e0c8c,digital.cars,available,2950,,100,50,7,namecheap,,
-60833a7e-c171-4645-bf5f-b92b03a70a30,digital.casa,premium,,,100,50,7,,,
-9d928116-1970-4e0d-8b37-2ea17932cb6d,digital.cc,resell,,,100,50,7,"Spaceship, Inc.",14/10/2024 08:02,14/10/2026 08:02
-9091e8b0-1bd6-4fb2-a263-79fb2bda09e3,digital.center,resell,,,100,50,7,"Spaceship, Inc.",16/09/2020 23:17,16/09/2026 23:17
-c9c591af-368a-4a7c-9a44-728aedcc479f,digital.ceo,premium,499,499,100,50,7,name.com,,
-ba5a9851-b733-48a8-b868-c4a6b5ace682,digital.cfd,resell,,,100,50,7,Dynadot LLC,29/04/2021 00:20,29/04/2027 23:59
-ffa36bb2-3f53-4339-9de5-8633bef829bf,digital.charity,premium,250,250,100,50,7,name.com,,
-33806a09-b0f6-4c72-8ddd-a3a26a6e8c5c,digital.city,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",02/08/2015 16:00,02/08/2027 16:00
-98426a60-749b-4858-9e36-ff65f4283fae,digital.cleaning,premium,82.5,82.5,100,50,7,name.com,,
-943bae97-c984-4dab-80f2-feb3be7e6704,digital.clothing,resell,,,100,50,7,Porkbun LLC,04/09/2020 08:22,04/09/2026 08:22
-758bd45e-da19-4075-832e-8a5e89f537a2,digital.cloud,premium,12500,12500,100,50,7,name.com,,
-ec648d3c-ed08-418e-ad5b-21415d6ad364,digital.club,resell,,,100,50,7,"GoDaddy.com, LLC",26/01/2017 14:11,25/01/2027 23:59
-b5701f6c-5597-4eba-a516-e21f281bc64e,digital.co,resell,,,100,50,7,Hello Internet Corp.,25/02/2010 00:02,24/02/2027 23:59
-7cda2200-06fa-46d0-a42f-8e7c99eb9fb5,digital.codes,resell,,,100,50,7,"Spaceship, Inc.",10/07/2024 15:15,10/07/2026 15:15
-ef923c7f-677b-40f8-9df8-dd237852ff5c,digital.college,premium,12500,12500,100,50,7,name.com,,
-14b6dac0-132e-474a-b4b2-abd096351e1a,digital.condos,premium,123.75,123.75,100,50,7,name.com,,
-251916d6-3681-42f2-b253-71a5a5adef60,digital.contact,resell,,,100,50,7,"Spaceship, Inc.",06/02/2025 15:15,06/02/2027 15:15
-4b037b72-ffcf-42f2-b92d-b16c5a79daec,digital.cool,premium,250,250,100,50,7,name.com,,
-f9a970a2-f64a-49f6-9d50-af64283059e8,digital.country,available,2450,,100,50,7,namecheap,,
-e9d477f5-db77-42a5-b809-533ec763e2bf,digital.creditcard,resell,,,100,50,7,"Sav.com, LLC - 46",08/11/2025 15:15,08/11/2026 15:15
-ebd0f3e6-4175-441e-9724-ddfc793a3258,digital.cricket,premium,6250,125,100,50,7,name.com,,
-dbc6f235-3a33-427b-845b-cb9270eb80e7,digital.cruises,available,14.99,81.99,100,50,7,name.com,,
-4fdaee51-5633-4557-b762-e5071882456e,digital.cyou,premium,,,100,50,7,,,
-022662fb-695e-45f8-93ac-3a5d4e2e8436,digital.dad,premium,623.75,623.75,100,50,7,name.com,,
-364af34e-94b2-4633-85f8-88a196f102a3,digital.date,premium,375,62.5,100,50,7,name.com,,
-ab6c1630-c92f-4808-a5b0-3275e305cb56,digital.day,premium,623.75,623.75,100,50,7,name.com,,
-5eb92c47-c253-4174-b6f9-d6b0f80e12f7,digital.deal,premium,625,625,100,50,7,name.com,,
-16536cfc-f7bd-4999-81ee-6162b6e1ab08,digital.dealer,premium,2015,2600,100,50,7,namecheap,,
-a229a892-b3d6-490d-85ca-ddafff80a4d4,digital.degree,premium,1250,1250,100,50,7,name.com,,
-96055eb7-39b5-4fde-a7a0-b92a2df566f4,digital.dentist,premium,500,500,100,50,7,name.com,,
-52f61dad-2762-4738-aa8f-81d83c3e4047,digital.desi,available,22.98,,100,50,7,namecheap,,
-044b855e-d509-4752-967b-c9e08069cc68,digital.diet,premium,2600,2600,100,50,7,namecheap,,
-b58f2a78-ffeb-4f5e-b953-34ff38970fff,digital.direct,resell,,,100,50,7,"GoDaddy.com, LLC",26/07/2015 16:31,26/07/2026 16:31
-a412af20-0023-4690-a5c0-aa4634bd9c5e,digital.directory,resell,,,100,50,7,"Spaceship, Inc.",22/07/2023 15:15,22/07/2026 15:15
-aecc99bf-6c54-4427-a93e-ee4d944fc098,digital.discount,premium,82.5,82.5,100,50,7,name.com,,
-a7f55fb4-10e0-4af3-ac76-a18e2d53e98b,digital.diy,premium,1820,2600,100,50,7,namecheap,,
-5aac3efb-d1d0-4d79-a03e-b6662fb98c6f,digital.dog,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/01/2026 15:15,29/01/2027 15:15
-4562fc0a-77e4-4c2b-82f3-9960215cb4d5,digital.download,premium,6250,125,100,50,7,name.com,,
-afb57d12-7407-4835-a6fc-4a7ecd177f61,digital.eco,premium,9375,113.99,100,50,7,name.com,,
-2d9bd2b9-26d8-4f33-bbe0-dc51d3c5ca0d,digital.energy,resell,,,100,50,7,"Sav.com, LLC",11/02/2015 17:42,11/02/2027 17:42
-0a3200ca-ab95-409b-ae5a-8cf679e3316a,digital.engineer,premium,1250,1250,100,50,7,name.com,,
-ab70c3c8-1582-437d-9247-15fdaae9cec0,digital.esq,premium,811.25,811.25,100,50,7,name.com,,
-ea9a1a57-421e-4980-8499-26e250045c7b,digital.estate,resell,,,100,50,7,"Spaceship, Inc.",25/07/2023 15:15,25/07/2026 15:15
-fccde8c1-f44f-4365-b92e-b71bff8f6868,digital.expert,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2027 16:00
-8f9e84bf-067d-41c6-9d7d-a4c053e1927b,digital.exposed,premium,250,250,100,50,7,name.com,,
-79aac146-e2cf-483f-b7b6-475e600dbde5,digital.express,resell,,,100,50,7,"Spaceship, Inc.",26/09/2022 13:15,26/09/2026 13:15
-c5535f66-f4a6-40e1-bcfb-ce8ddd5f9658,digital.fail,premium,82.5,82.5,100,50,7,name.com,,
-ca4cf21f-93fb-4abc-9d71-507c84697999,digital.farm,resell,,,100,50,7,"GoDaddy.com, LLC",30/07/2015 12:18,30/07/2026 12:18
-00f40abb-f995-48b3-b950-3645cac5febb,digital.fast,resell,,,100,50,7,"Dynadot, LLC",05/10/2025 15:16,05/10/2026 15:16
-ae514099-2793-40ef-826f-ae68034b65da,digital.film,premium,625,625,100,50,7,name.com,,
-0f5b8566-0645-4ab1-aeb4-67200473d1ae,digital.financial,resell,,,100,50,7,"GoDaddy.com, LLC",27/08/2024 02:04,27/08/2026 02:04
-b297f61e-f07e-4aee-b9eb-d3e0de819cf5,digital.flowers,premium,2600,2600,100,50,7,namecheap,,
-287da041-8a11-402b-9ad3-4dcdb88701e7,digital.foo,premium,311.25,311.25,100,50,7,name.com,,
-80fe147c-c547-403e-be4c-14dc26061b31,digital.food,premium,1820,2600,100,50,7,namecheap,,
-9cee9bf9-1296-4c90-8003-d7a634e105d5,digital.fun,premium,781.25,3125,100,50,7,name.com,,
-ca74abc7-9322-4a2b-8f52-ed0d8ec5e7c8,digital.fund,resell,,,100,50,7,"Spaceship, Inc.",24/02/2023 15:15,24/02/2027 15:15
-cee25575-ed6c-4b1a-8490-23b059c3a19c,digital.furniture,resell,,,100,50,7,"Sav.com, LLC",11/02/2026 17:01,11/02/2027 17:01
-de6947cc-164c-4092-9760-cc3550a7b4a7,digital.garden,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",01/11/2023 07:04,01/11/2026 07:04
-a9650dde-a2a1-412e-9faf-468c04111800,digital.gay,premium,2400,2400,100,50,7,namecheap,,
-ea167f20-6855-45dc-991d-6d00b94391b6,digital.gives,premium,82.5,82.5,100,50,7,name.com,,
-55711e9c-58ec-400f-8e0a-96d3c47a71bb,digital.glass,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/03/2014 16:00,30/03/2027 16:00
-18105e69-c4c1-4238-bd8c-60694a6ef212,digital.global,premium,5000,62.5,100,50,7,name.com,,
-792c5296-162f-42fa-9def-b7b7f7b6ecc2,digital.graphics,premium,500,500,100,50,7,name.com,,
-4dbd9b90-55b6-4a04-b40d-1f0fcb54c900,digital.gratis,premium,250,250,100,50,7,name.com,,
-f03a3ec5-05ea-40ab-b76e-833649516af8,digital.group,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",05/06/2016 16:00,05/06/2027 16:00
-16a0b79d-0a64-44c2-9fd1-02450e90705d,digital.hair,premium,2500,2500,100,50,7,name.com,,
-8cefdf26-e535-49ec-9305-79b4715da8f6,digital.haus,resell,,,100,50,7,Cronon GmbH,20/08/2014 17:00,20/08/2026 17:00
-225ad699-5879-485c-8c58-1f525cc0b815,digital.hiv,available,184.99,184.99,100,50,7,name.com,,
-26f144a0-57f5-4e18-9faf-e8e75d68b10f,digital.holiday,premium,123.75,123.75,100,50,7,name.com,,
-d3aecafc-4dfa-4a71-b4ab-c5a0dec9bccd,digital.homes,premium,2500,2500,100,50,7,name.com,,
-19d1a760-385e-4bd7-a7a6-54533636bc07,digital.horse,resell,,,100,50,7,"Spaceship, Inc.",18/12/2020 07:56,18/12/2026 07:56
-14722573-4cd7-4e47-b3d4-b9637a6989c9,digital.host,premium,3125,6250,100,50,7,name.com,,
-c20d4631-53fa-48a1-b193-676378df50bd,digital.hot,premium,125,125,100,50,7,name.com,,
-9f9f2325-5a5f-4803-8a82-c284bd93e929,digital.how,premium,686.25,686.25,100,50,7,name.com,,
-c5e1821c-10d8-4c64-9425-6e0a079c3f6a,digital.id,resell,,,100,50,7,PT Aksara Data Digital,19/06/2017 00:19,19/06/2027 23:59
-9e4be2ee-9cec-4085-807c-c4d0a707e584,digital.immobilien,resell,,,100,50,7,"NameCheap, Inc.",16/12/2016 18:18,16/12/2026 18:18
-53f26665-1a5b-48c5-b90f-bdd03ad4cab3,digital.ing,premium,1625,1625,100,50,7,name.com,,
-d521bd6f-f4e9-4ab5-b24a-9423786af802,digital.jewelry,resell,,,100,50,7,Edomains LLC,15/01/2023 15:15,15/01/2027 15:15
-8e730782-d9ee-403a-ba97-7f97a1473ad6,digital.juegos,available,478.98,,100,50,7,namecheap,,
-2a6fe042-ad9b-4d19-ade9-55e52ca9df92,digital.kaufen,premium,,,100,50,7,,,
-7fbae6a6-b9de-4217-a168-a1a6f3f5f49e,digital.kim,resell,,,100,50,7,Porkbun LLC,10/05/2025 02:19,10/05/2026 02:19
-3ed811a4-bf2a-4c9a-bbeb-f4db5186009b,digital.kitchen,resell,,,100,50,7,Porkbun LLC,05/10/2024 15:15,05/10/2026 15:15
-8143350f-8799-49c1-a36f-f51025415bfe,digital.la,resell,,,100,50,7,TLD Registrar Solutions Ltd,18/02/2001 01:00,18/02/2027 23:59
-7a918678-930b-4882-bd1e-c9637f58e16f,digital.land,resell,,,100,50,7,"GoDaddy.com, LLC",25/07/2017 00:24,25/07/2026 00:24
-f85378ee-7533-4b62-8f4b-99d5650c48da,digital.lat,premium,2500,2500,100,50,7,name.com,,
-02036997-e7a1-4ee1-a1f1-103046dfcf8f,digital.lawyer,resell,,,100,50,7,"Spaceship, Inc.",19/07/2024 15:15,19/07/2026 15:15
-5b3daa64-493b-4580-abd1-19fa3ce42814,digital.lgbt,resell,,,100,50,7,1API GmbH,02/11/2021 18:13,02/11/2026 18:13
-cf105da4-6541-4386-80c7-fc6049050224,digital.lifestyle,premium,1820,2600,100,50,7,namecheap,,
-f72c1c8a-c032-41d7-874e-401aeba83c82,digital.lighting,resell,,,100,50,7,Porkbun LLC,29/09/2024 15:16,29/09/2026 15:16
-f814dc98-21c2-4456-b06b-ef3bf0cb886c,digital.link,resell,,,100,50,7,"Dynadot, LLC",18/03/2015 06:31,18/03/2027 06:31
-e41a7afe-acea-4f82-a0e6-caa215a3468e,digital.living,premium,1820,2600,100,50,7,namecheap,,
-b9d08f61-4722-4f5c-a2aa-103c8de6f0c6,digital.loan,premium,1250,125,100,50,7,name.com,,
-22fd508a-712e-4227-bb51-eddb2755fcea,digital.loans,premium,1000,1000,100,50,7,name.com,,
-9a975950-3391-4412-8748-0fb7cdff7c37,digital.locker,premium,13000,58.5,100,50,7,namecheap,,
-83ba5887-572e-4d51-be90-363d96b99650,digital.love,premium,5460,7800,100,50,7,namecheap,,
-4a15d7a0-3087-426c-8290-538a6676a3b2,digital.ltda,premium,60,35,100,50,7,name.com,,
-66019150-14c2-422b-b5e8-afb95fc63eba,digital.makeup,premium,2500,2500,100,50,7,name.com,,
-f9ff08ae-6a58-4fb2-a192-f602e1a5f3ee,digital.mba,resell,,,100,50,7,"Sav.com, LLC",18/11/2017 17:42,18/11/2026 17:42
-7a959c5d-005a-4401-ab8a-8f8bebda0690,digital.media,resell,,,100,50,7,1API GmbH,11/06/2015 16:00,11/06/2026 16:00
-f3157df8-9e4d-4f73-bade-425cf9b04c25,digital.meme,premium,437.5,437.5,100,50,7,name.com,,
-90efcbe8-992f-4ce0-94ce-b87f0c6bf30d,digital.men,resell,,,100,50,7,West263 International Limited,13/07/2018 09:56,13/07/2028 09:56
-004df0c0-5b46-4adb-994f-968c0cb879f9,digital.miami,resell,,,100,50,7,Hello Internet Corp.,27/02/2018 16:20,27/02/2027 16:20
-1e18b416-58c5-460a-a87c-73daddead9b7,digital.moda,resell,,,100,50,7,"NameCheap, Inc.",16/12/2016 18:18,16/12/2026 18:18
-96ef5d73-2056-439d-84d6-538d9f60cb2a,digital.moe,premium,3250,23.99,100,50,7,name.com,,
-8aa92c86-10f0-482c-b47f-5ba225fd69f3,digital.moi,premium,250,250,100,50,7,name.com,,
-23c8f645-da94-4ded-a737-08aa6df2f96f,digital.motorcycles,premium,812.5,20.99,100,50,7,name.com,,
-60dd058b-be76-48a8-ab2c-76bac79c263d,digital.mov,premium,311.25,311.25,100,50,7,name.com,,
-fc446988-8eeb-429c-ab33-e603882eb51b,digital.movie,premium,1000,1000,100,50,7,name.com,,
-791f9cfc-4185-40b1-991b-1fce100000a8,digital.mx,resell,,,100,50,7,GoDaddy.com,31/05/2009 00:00,30/05/2026 00:00
-bcb63865-2db2-4d5a-a564-0441d360a0f5,digital.new,available,549.99,549.99,100,50,7,name.com,,
-04eb4b46-6e6c-4529-8380-03ad586f7235,digital.news,premium,1250,1250,100,50,7,name.com,,
-1796aba6-8854-40ef-83a9-17e196920021,digital.nexus,premium,311.25,311.25,100,50,7,name.com,,
-a032842a-e680-44ba-9aca-1840cc7873c5,digital.now,resell,,,100,50,7,Porkbun LLC,27/09/2024 13:00,27/09/2026 13:00
-d736798d-2897-414f-addd-af9afd241cd4,digital.observer,premium,1250,1250,100,50,7,name.com,,
-701135d2-01ad-4e8e-bd3f-70f8cd7897f7,digital.ong,available,16.99,16.99,100,50,7,name.com,,
-27a2e1f6-8add-4660-a6bc-52c0d9f69462,digital.online,premium,3125,12500,100,50,7,name.com,,
-6eb53e12-f7dd-4e53-9fed-f92549261a41,digital.ooo,premium,140156.25,311.25,100,50,7,name.com,,
-0d76c25d-0a44-41f8-9b75-c409791ff7fb,digital.page,premium,623.75,623.75,100,50,7,name.com,,
-377cae6d-be87-4b07-9e94-1337d289b0dd,digital.partners,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",08/06/2014 16:00,08/06/2027 16:00
-43524804-5ee7-40f4-8c4d-27787d68011d,digital.phd,premium,811.25,811.25,100,50,7,name.com,,
-9144ccba-c4db-4f9f-8a0f-c70713a60eba,digital.photo,resell,,,100,50,7,"Spaceship, Inc.",24/10/2024 18:56,24/10/2026 18:56
-7e080bca-7ab7-4dce-a767-e43522b6de4f,digital.photography,premium,500,500,100,50,7,name.com,,
-2a6500d1-a488-46be-9e6e-59b6611bb187,digital.photos,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2015 16:00,14/06/2027 16:00
-698f1554-05e6-4ee6-99ae-c968c386a367,digital.pictures,premium,250,250,100,50,7,name.com,,
-e59e125e-b70c-4789-b142-5f73b5a514f6,digital.pink,resell,,,100,50,7,"Sav.com, LLC",30/10/2018 13:46,30/10/2026 13:46
-4dfc616e-a0f7-4c10-be12-edba22f88861,digital.pizza,premium,,,100,50,7,,,
-b44f2ea0-8e42-4531-8d0e-b26fc043545e,digital.place,resell,,,100,50,7,"Sav.com, LLC",03/09/2023 23:55,03/09/2026 23:55
-e2d5cfd3-8a1e-4f8e-be5c-62f01cf53127,digital.plus,resell,,,100,50,7,"Spaceship, Inc.",16/10/2019 09:14,16/10/2026 09:14
-ad909c22-d4ab-4aec-baf9-45852210c68c,digital.press,premium,1875,3750,100,50,7,name.com,,
-dc51c15f-2854-416c-9841-e4502d22747e,digital.prof,premium,811.25,811.25,100,50,7,name.com,,
-223f23f2-9c08-41f1-83b2-2b69495f6dd8,digital.properties,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",01/06/2014 16:00,01/06/2027 16:00
-4735e126-48c4-4626-a514-f97eed22801b,digital.protection,available,2950,,100,50,7,namecheap,,
-93c4429e-358c-424d-8aaa-42f922e48015,digital.pub,premium,1250,1250,100,50,7,name.com,,
-ead21699-4c7c-4a6a-9aaa-de33c69a6567,digital.pw,premium,374.58,749.17,100,50,7,name.com,,
-71c93ab5-f23b-4468-a4b6-5ba2e6141112,digital.qpon,premium,4687.5,27.99,100,50,7,name.com,,
-9853b60b-772e-4d7b-bb12-ed5ce7979344,digital.quest,premium,812.5,20.99,100,50,7,name.com,,
-17b9a35e-0123-417d-8431-17e5c0061b87,digital.red,resell,,,100,50,7,"Spaceship, Inc.",03/10/2023 15:15,03/10/2026 15:15
-52f337a2-eafc-4227-8f1a-c1bd1e69ae2e,digital.rehab,premium,250,250,100,50,7,name.com,,
-2f74ee0d-3ef8-4582-81f3-0f5dc15aeaad,digital.reise,premium,250,250,100,50,7,name.com,,
-9dfd88f6-49c5-4099-8176-29e7b8682647,digital.reisen,premium,500,500,100,50,7,name.com,,
-a7c4f04a-6090-4da6-8933-03b9247634a9,digital.rent,premium,625,625,100,50,7,name.com,,
-5f8e6f1b-dc1e-4d32-af2f-0c515359c183,digital.rentals,premium,250,250,100,50,7,name.com,,
-8a0e5665-e51e-404f-9199-d9c1c65ab9d1,digital.repair,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/03/2014 16:00,30/03/2027 16:00
-c6d9de7c-a4de-40d7-9024-4462353786d2,digital.republican,premium,,,100,50,7,,,
-94306c1a-9ced-42e7-a9c7-3408f9ae09c5,digital.review,premium,12500,125,100,50,7,name.com,,
-1145a2cb-7e00-4ea4-b0c4-9a2104497491,digital.reviews,premium,1000,1000,100,50,7,name.com,,
-348d0323-88a5-4dfc-911e-ceccf2df621f,digital.rich,available,149.99,299.99,100,50,7,name.com,,
-0576d8f6-3c47-4dd1-9eb3-109849885e10,digital.rip,premium,250,250,100,50,7,name.com,,
-b716802b-c92d-4c2e-8fc9-163a9dc671f5,digital.rsvp,premium,623.75,623.75,100,50,7,name.com,,
-dce9e1a0-a088-4131-9fac-36dca8018fdd,digital.salon,resell,,,100,50,7,"Sav.com, LLC - 13",02/06/2025 15:15,02/06/2026 15:15
-3e788aca-5eb0-42fa-83f7-47d05f544912,digital.sarl,available,8.98,,100,50,7,namecheap,,
-01102703-7cec-4da2-b1e3-45180ac0a69f,digital.sbs,resell,,,100,50,7,"Porkbun, LLC",03/02/2025 20:25,03/02/2027 23:59
-ed3c1dd9-7f15-49ab-ba6f-c552eaba175d,digital.services,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",06/07/2014 16:00,06/07/2027 16:00
-7bf88abb-cee3-49bb-81f8-21173c7b8b64,digital.sexy,available,2999,2999,100,50,7,name.com,,
-5cc04da1-067a-4e61-a971-c730e2b53271,digital.sh,resell,,,100,50,7,"Spaceship, Inc.",07/03/2018 14:31,07/03/2027 14:31
-c9b6c139-0145-4cc0-90ba-64688333fb13,digital.shiksha,premium,,,100,50,7,,,
-3fc02c15-4744-4d37-babf-709a5322ff7c,digital.shoes,premium,500,500,100,50,7,name.com,,
-eacad6a6-de40-47b3-81f2-a587d9a4baed,digital.shopping,premium,,,100,50,7,,,
-7025d794-8f03-4c0b-b156-4095b7443255,digital.show,resell,,,100,50,7,"Chengdu West Dimension Digital Technology Co., Ltd.",23/10/2017 04:25,23/10/2026 04:25
-98bec4a9-a35e-4da6-810e-a1869716e3e3,digital.singles,resell,,,100,50,7,"Spaceship, Inc.",14/05/2021 13:20,14/05/2026 13:20
-55448591-fa82-48ef-a0df-4bd58dbc584a,digital.site,premium,1562.5,6250,100,50,7,name.com,,
-5a04a292-83bc-4798-bdc0-06b74011d360,digital.skin,premium,2500,2500,100,50,7,name.com,,
-14f60c86-ed9f-4a23-8c5e-fd789e97e8d7,digital.solar,resell,,,100,50,7,"Sav.com, LLC",12/08/2015 16:16,12/08/2026 16:16
-f5514820-14e7-40d3-af04-9672e69251e8,digital.soy,premium,623.75,623.75,100,50,7,name.com,,
-91e127b8-6b55-46db-8867-707de880fbfa,digital.srl,premium,57.5,32.5,100,50,7,name.com,,
-0f911558-cd54-4543-987a-3c30ffd93d0b,digital.store,resell,,,100,50,7,"Spaceship, Inc.",14/09/2025 19:25,14/09/2026 23:59
-0bd24a82-720e-4f5b-b1c1-7c8b377a1a24,digital.stream,premium,3125,125,100,50,7,name.com,,
-f2560e31-3eee-494d-a40d-796c6bb1bba6,digital.sucks,available,298,,100,50,7,namecheap,,
-355de853-0177-4f9c-839c-aa388ee897e3,digital.supply,resell,,,100,50,7,Porkbun LLC,27/05/2025 09:15,27/05/2026 09:15
-48c9167d-bbbe-4f4c-aaaf-656dc1250996,digital.support,resell,,,100,50,7,Dynadot Inc,16/07/2015 02:51,16/07/2026 02:51
-0d233220-b78e-407d-9cac-bfb87eed7533,digital.surf,resell,,,100,50,7,"GoDaddy.com, LLC",25/09/2014 20:15,25/09/2026 20:15
-f8d3e148-d637-4ab2-9db9-f160b9736f14,digital.surgery,premium,123.75,123.75,100,50,7,name.com,,
-8386a545-7423-4ff8-a2d7-dc669481dd18,digital.tattoo,resell,,,100,50,7,"GoDaddy.com, LLC",06/12/2015 04:33,06/12/2026 04:33
-61feb545-56ff-416b-8509-a88a3ef67edb,digital.tech,premium,3125,12500,100,50,7,name.com,,
-e67fd5d9-795c-4629-9d1c-eeb280a3cb0d,digital.theatre,available,620,,100,50,7,namecheap,,
-00d6635b-3a62-412f-9323-51e05e64c835,digital.tickets,premium,1875,1875,100,50,7,name.com,,
-6fb2e2f4-4efa-4616-a18e-c441e4098f96,digital.tips,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",23/02/2014 16:02,23/02/2027 16:02
-d843ff3c-2a1f-475e-b9c3-b02fcd8fdad1,digital.tours,resell,,,100,50,7,"Sav.com, LLC",03/10/2019 12:16,03/10/2026 12:16
-d2ae8960-bb01-4393-a3c1-2bb0e7a35de6,digital.town,resell,,,100,50,7,Dynadot Inc,08/02/2026 03:53,08/02/2027 03:53
-2e71a4de-4d41-4f02-a932-4e9b2d903547,digital.toys,resell,,,100,50,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/07/2014 15:35,30/07/2027 15:35
-48ba2334-f439-46bb-8f86-8fdbd9172e71,digital.trading,premium,1250,1250,100,50,7,name.com,,
-7ffddd75-14a2-4f5d-98f4-c437e30e4b67,digital.uno,premium,1562.5,3125,100,50,7,name.com,,
-70b570fb-3882-4a10-9277-9eb7b933cc8c,digital.us,resell,,,100,50,7,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2027 23:59
-0e67b7c6-d5bd-4775-96eb-7c512a437384,digital.vacations,resell,,,100,50,7,"Spaceship, Inc.",04/10/2022 02:15,04/10/2026 02:15
-7478101f-3c97-462c-b6d1-531158d92b1b,digital.vana,available,2498,,100,50,7,namecheap,,
-3fb7a6ab-b0e0-466b-bac9-161fe7d36c4c,digital.viajes,available,57.98,,100,50,7,namecheap,,
-5889011d-b921-4ada-84b4-87b5d6ef81fc,digital.villas,premium,500,500,100,50,7,name.com,,
-0f983eaf-a2a7-4e0c-97cf-26730f52f289,digital.vision,resell,,,100,50,7,"Sav.com, LLC",23/08/2015 16:51,23/08/2026 16:51
-60f5e0d4-1f81-4192-ae1b-42c10943349f,digital.vodka,available,38.98,,100,50,7,namecheap,,
-04bef590-0b1e-4298-ad86-fa16a20c8d04,digital.watch,resell,,,100,50,7,"Sav.com, LLC",19/07/2015 16:00,19/07/2026 16:00
-20bd3c29-4dd9-40a9-994f-d9049c7856bc,digital.webcam,premium,125,37.99,100,50,7,name.com,,
-af0ff251-4d14-4349-9702-f78f04e51035,digital.website,premium,1562.5,3125,100,50,7,name.com,,
-19ae2d39-bfb4-4d0c-8067-3cb198d15fc1,digital.wiki,premium,812.5,812.5,100,50,7,name.com,,
-42c65ab6-b977-4305-a2c5-796418ba94f3,digital.wine,resell,,,100,50,7,"Sav.com, LLC - 12",05/10/2025 15:15,05/10/2026 15:15
-055fde3d-a4d0-41e4-bbc3-fb0f529cffc7,digital.yachts,premium,812.5,20.99,100,50,7,name.com,,
 f3f49674-1d0a-4b81-93b3-39d0b175b087,digital.yoga,premium,1000,45.99,100,50,7,name.com,,
-562e46fe-7934-438b-990c-3204722e0bc2,digital.zone,resell,,,100,50,7,"Sav.com, LLC",17/09/2024 17:24,17/09/2026 17:24
+3c894b6f-5c01-44b0-b69b-d62368286adf,digital.accountants,available,43.99,153.99,100,49,7,name.com,,
+2c309686-1739-43a2-9270-341518d1f395,digital.adult,available,166.98,,100,49,7,namecheap,,
+7c678652-e52b-42d8-a8ec-97297b6104e8,digital.asia,resell,,,100,49,7,"Spaceship, Inc.",21/06/2008 07:03,21/06/2026 07:03
+dbd090da-caac-4c35-b387-8d5910f30fc2,digital.auction,resell,,,100,49,7,IONOS SE,27/02/2016 09:18,27/02/2027 09:18
+4fd9358e-9102-41c7-860a-ed1386e55bcc,digital.autos,premium,812.5,20.99,100,49,7,name.com,,
+b8c6b6a7-f29d-48c0-8ba5-ffcefee4a380,digital.baby,premium,3125,94.99,100,49,7,name.com,,
+fbdcd2b1-be0f-496b-bbb6-3c2bf38862b9,digital.bar,premium,4095,5850,100,49,7,namecheap,,
+bdb81953-d7a3-428f-bd05-313b2be0bfe9,digital.bargains,premium,41.99,41.25,100,49,7,name.com,,
+a1951fbd-da08-4e86-bdfa-e66b42c2065a,digital.beauty,premium,2500,2500,100,49,7,name.com,,
+7bb1a31e-b602-42b8-afed-d9f8a7f75ea2,digital.bid,resell,,,100,49,7,Porkbun,26/07/2019 14:50,26/07/2026 14:50
+8ae78500-3c27-4dc4-b609-b1b8097c8a1d,digital.bike,resell,,,100,49,7,"Spaceship, Inc.",19/09/2023 15:15,19/09/2026 15:15
+d9d3e1b7-6150-4701-beaa-a17218dfb575,digital.bingo,premium,123.75,123.75,100,49,7,name.com,,
+603d2f12-e267-490a-b069-aae0114959d6,digital.bio,resell,,,100,49,7,Porkbun LLC,29/10/2023 19:02,29/10/2026 19:02
+71261429-11c7-439e-ab9c-cfe929a244ba,digital.black,resell,,,100,49,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/12/2025 15:15,08/12/2026 15:15
+fd88bb29-6e05-4286-9c3e-fa2e66294e2c,digital.blackfriday,available,134.98,,100,49,7,namecheap,,
+3ebc5e8f-0d9f-423e-b495-26682ecb011f,digital.blog,premium,3146.25,12500,100,49,7,name.com,,
+1b6ee1a8-3194-4d18-8cba-3318a05e0e97,digital.blue,resell,,,100,49,7,"Sav.com, LLC",20/07/2016 12:55,20/07/2026 12:55
+8bbd5fd5-fd72-4c87-b949-c789eede0f5e,digital.boats,premium,812.5,20.99,100,49,7,name.com,,
+2e761856-3add-4f03-a599-cf2615c9d78d,digital.bond,resell,,,100,49,7,Dynadot LLC,20/11/2020 17:09,20/11/2026 23:59
+e16c45ae-18e7-4990-aad7-b55b11ce3ca6,digital.boo,premium,623.75,623.75,100,49,7,name.com,,
+e848e1c4-47e4-4d1f-ac04-3b041ddf9c81,digital.boutique,resell,,,100,49,7,"Sav.com, LLC",18/07/2016 14:25,18/07/2026 14:25
+61632e25-67a5-4c20-8854-2629de4679f7,digital.broker,premium,6250,6250,100,49,7,name.com,,
+7a8af4c6-0c92-40f9-b7f8-a624d2850edb,digital.buzz,premium,9775,46.99,100,49,7,name.com,,
+5d022651-495a-4805-ab84-0bd2eda7ed80,digital.cab,premium,82.5,82.5,100,49,7,name.com,,
+49e5177d-da28-4cd4-b5a9-78f2a6cd8d0e,digital.cam,premium,1875,29.99,100,49,7,name.com,,
+c24f4b4a-f7c2-4fe8-beb2-6eb086eced87,digital.camp,resell,,,100,49,7,"Sav.com, LLC",05/09/2024 17:01,05/09/2026 17:01
+b183f316-95e0-4005-be32-7b5b7bc74849,digital.capital,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/07/2014 16:00,13/07/2027 16:00
+b3983f51-2309-4297-bd56-548c41dbee9e,digital.car,available,2400,,100,49,7,namecheap,,
+393b846b-46f1-4f27-a6d4-7080db9e0c8c,digital.cars,available,2950,,100,49,7,namecheap,,
+60833a7e-c171-4645-bf5f-b92b03a70a30,digital.casa,premium,,,100,49,7,,,
+9d928116-1970-4e0d-8b37-2ea17932cb6d,digital.cc,resell,,,100,49,7,"Spaceship, Inc.",14/10/2024 08:02,14/10/2026 08:02
+9091e8b0-1bd6-4fb2-a263-79fb2bda09e3,digital.center,resell,,,100,49,7,"Spaceship, Inc.",16/09/2020 23:17,16/09/2026 23:17
+c9c591af-368a-4a7c-9a44-728aedcc479f,digital.ceo,premium,499,499,100,49,7,name.com,,
+ba5a9851-b733-48a8-b868-c4a6b5ace682,digital.cfd,resell,,,100,49,7,Dynadot LLC,29/04/2021 00:20,29/04/2027 23:59
+ffa36bb2-3f53-4339-9de5-8633bef829bf,digital.charity,premium,250,250,100,49,7,name.com,,
+33806a09-b0f6-4c72-8ddd-a3a26a6e8c5c,digital.city,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",02/08/2015 16:00,02/08/2027 16:00
+98426a60-749b-4858-9e36-ff65f4283fae,digital.cleaning,premium,82.5,82.5,100,49,7,name.com,,
+943bae97-c984-4dab-80f2-feb3be7e6704,digital.clothing,resell,,,100,49,7,Porkbun LLC,04/09/2020 08:22,04/09/2026 08:22
+758bd45e-da19-4075-832e-8a5e89f537a2,digital.cloud,premium,12500,12500,100,49,7,name.com,,
+ec648d3c-ed08-418e-ad5b-21415d6ad364,digital.club,resell,,,100,49,7,"GoDaddy.com, LLC",26/01/2017 14:11,25/01/2027 23:59
+b5701f6c-5597-4eba-a516-e21f281bc64e,digital.co,resell,,,100,49,7,Hello Internet Corp.,25/02/2010 00:02,24/02/2027 23:59
+7cda2200-06fa-46d0-a42f-8e7c99eb9fb5,digital.codes,resell,,,100,49,7,"Spaceship, Inc.",10/07/2024 15:15,10/07/2026 15:15
+ef923c7f-677b-40f8-9df8-dd237852ff5c,digital.college,premium,12500,12500,100,49,7,name.com,,
+14b6dac0-132e-474a-b4b2-abd096351e1a,digital.condos,premium,123.75,123.75,100,49,7,name.com,,
+251916d6-3681-42f2-b253-71a5a5adef60,digital.contact,resell,,,100,49,7,"Spaceship, Inc.",06/02/2025 15:15,06/02/2027 15:15
+59e06fd4-4a01-4501-949e-416d0fc7c6ea,digital.cooking,premium,,,100,49,7,,,
+4b037b72-ffcf-42f2-b92d-b16c5a79daec,digital.cool,premium,250,250,100,49,7,name.com,,
+f9a970a2-f64a-49f6-9d50-af64283059e8,digital.country,available,2450,,100,49,7,namecheap,,
+e9d477f5-db77-42a5-b809-533ec763e2bf,digital.creditcard,resell,,,100,49,7,"Sav.com, LLC - 46",08/11/2025 15:15,08/11/2026 15:15
+ebd0f3e6-4175-441e-9724-ddfc793a3258,digital.cricket,premium,6250,125,100,49,7,name.com,,
+dbc6f235-3a33-427b-845b-cb9270eb80e7,digital.cruises,available,14.99,81.99,100,49,7,name.com,,
+4fdaee51-5633-4557-b762-e5071882456e,digital.cyou,premium,,,100,49,7,,,
+022662fb-695e-45f8-93ac-3a5d4e2e8436,digital.dad,premium,623.75,623.75,100,49,7,name.com,,
+364af34e-94b2-4633-85f8-88a196f102a3,digital.date,premium,375,62.5,100,49,7,name.com,,
+ab6c1630-c92f-4808-a5b0-3275e305cb56,digital.day,premium,623.75,623.75,100,49,7,name.com,,
+5eb92c47-c253-4174-b6f9-d6b0f80e12f7,digital.deal,premium,625,625,100,49,7,name.com,,
+16536cfc-f7bd-4999-81ee-6162b6e1ab08,digital.dealer,premium,2015,2600,100,49,7,namecheap,,
+a229a892-b3d6-490d-85ca-ddafff80a4d4,digital.degree,premium,1250,1250,100,49,7,name.com,,
+96055eb7-39b5-4fde-a7a0-b92a2df566f4,digital.dentist,premium,500,500,100,49,7,name.com,,
+52f61dad-2762-4738-aa8f-81d83c3e4047,digital.desi,available,22.98,,100,49,7,namecheap,,
+044b855e-d509-4752-967b-c9e08069cc68,digital.diet,premium,2600,2600,100,49,7,namecheap,,
+b58f2a78-ffeb-4f5e-b953-34ff38970fff,digital.direct,resell,,,100,49,7,"GoDaddy.com, LLC",26/07/2015 16:31,26/07/2026 16:31
+a412af20-0023-4690-a5c0-aa4634bd9c5e,digital.directory,resell,,,100,49,7,"Spaceship, Inc.",22/07/2023 15:15,22/07/2026 15:15
+aecc99bf-6c54-4427-a93e-ee4d944fc098,digital.discount,premium,82.5,82.5,100,49,7,name.com,,
+a7f55fb4-10e0-4af3-ac76-a18e2d53e98b,digital.diy,premium,1820,2600,100,49,7,namecheap,,
+5aac3efb-d1d0-4d79-a03e-b6662fb98c6f,digital.dog,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/01/2026 15:15,29/01/2027 15:15
+4562fc0a-77e4-4c2b-82f3-9960215cb4d5,digital.download,premium,6250,125,100,49,7,name.com,,
+afb57d12-7407-4835-a6fc-4a7ecd177f61,digital.eco,premium,9375,113.99,100,49,7,name.com,,
+2d9bd2b9-26d8-4f33-bbe0-dc51d3c5ca0d,digital.energy,resell,,,100,49,7,"Sav.com, LLC",11/02/2015 17:42,11/02/2027 17:42
+0a3200ca-ab95-409b-ae5a-8cf679e3316a,digital.engineer,premium,1250,1250,100,49,7,name.com,,
+ab70c3c8-1582-437d-9247-15fdaae9cec0,digital.esq,premium,811.25,811.25,100,49,7,name.com,,
+ea9a1a57-421e-4980-8499-26e250045c7b,digital.estate,resell,,,100,49,7,"Spaceship, Inc.",25/07/2023 15:15,25/07/2026 15:15
+fccde8c1-f44f-4365-b92e-b71bff8f6868,digital.expert,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2027 16:00
+8f9e84bf-067d-41c6-9d7d-a4c053e1927b,digital.exposed,premium,250,250,100,49,7,name.com,,
+79aac146-e2cf-483f-b7b6-475e600dbde5,digital.express,resell,,,100,49,7,"Spaceship, Inc.",26/09/2022 13:15,26/09/2026 13:15
+c5535f66-f4a6-40e1-bcfb-ce8ddd5f9658,digital.fail,premium,82.5,82.5,100,49,7,name.com,,
+ca4cf21f-93fb-4abc-9d71-507c84697999,digital.farm,resell,,,100,49,7,"GoDaddy.com, LLC",30/07/2015 12:18,30/07/2026 12:18
+00f40abb-f995-48b3-b950-3645cac5febb,digital.fast,resell,,,100,49,7,"Dynadot, LLC",05/10/2025 15:16,05/10/2026 15:16
+ae514099-2793-40ef-826f-ae68034b65da,digital.film,premium,625,625,100,49,7,name.com,,
+0f5b8566-0645-4ab1-aeb4-67200473d1ae,digital.financial,resell,,,100,49,7,"GoDaddy.com, LLC",27/08/2024 02:04,27/08/2026 02:04
+b297f61e-f07e-4aee-b9eb-d3e0de819cf5,digital.flowers,premium,2600,2600,100,49,7,namecheap,,
+287da041-8a11-402b-9ad3-4dcdb88701e7,digital.foo,premium,311.25,311.25,100,49,7,name.com,,
+80fe147c-c547-403e-be4c-14dc26061b31,digital.food,premium,1820,2600,100,49,7,namecheap,,
+9cee9bf9-1296-4c90-8003-d7a634e105d5,digital.fun,premium,781.25,3125,100,49,7,name.com,,
+ca74abc7-9322-4a2b-8f52-ed0d8ec5e7c8,digital.fund,resell,,,100,49,7,"Spaceship, Inc.",24/02/2023 15:15,24/02/2027 15:15
+cee25575-ed6c-4b1a-8490-23b059c3a19c,digital.furniture,resell,,,100,49,7,"Sav.com, LLC",11/02/2026 17:01,11/02/2027 17:01
+de6947cc-164c-4092-9760-cc3550a7b4a7,digital.garden,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",01/11/2023 07:04,01/11/2026 07:04
+a9650dde-a2a1-412e-9faf-468c04111800,digital.gay,premium,2400,2400,100,49,7,namecheap,,
+ea167f20-6855-45dc-991d-6d00b94391b6,digital.gives,premium,82.5,82.5,100,49,7,name.com,,
+55711e9c-58ec-400f-8e0a-96d3c47a71bb,digital.glass,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/03/2014 16:00,30/03/2027 16:00
+18105e69-c4c1-4238-bd8c-60694a6ef212,digital.global,premium,5000,62.5,100,49,7,name.com,,
+052b41da-167c-457a-9bfa-b09dc0a73e3c,digital.gmbh,premium,42.9,42.9,100,49,7,namecheap,,
+792c5296-162f-42fa-9def-b7b7f7b6ecc2,digital.graphics,premium,500,500,100,49,7,name.com,,
+4dbd9b90-55b6-4a04-b40d-1f0fcb54c900,digital.gratis,premium,250,250,100,49,7,name.com,,
+f03a3ec5-05ea-40ab-b76e-833649516af8,digital.group,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",05/06/2016 16:00,05/06/2027 16:00
+16a0b79d-0a64-44c2-9fd1-02450e90705d,digital.hair,premium,2500,2500,100,49,7,name.com,,
+8cefdf26-e535-49ec-9305-79b4715da8f6,digital.haus,resell,,,100,49,7,Cronon GmbH,20/08/2014 17:00,20/08/2026 17:00
+225ad699-5879-485c-8c58-1f525cc0b815,digital.hiv,available,184.99,184.99,100,49,7,name.com,,
+26f144a0-57f5-4e18-9faf-e8e75d68b10f,digital.holiday,premium,123.75,123.75,100,49,7,name.com,,
+d3aecafc-4dfa-4a71-b4ab-c5a0dec9bccd,digital.homes,premium,2500,2500,100,49,7,name.com,,
+19d1a760-385e-4bd7-a7a6-54533636bc07,digital.horse,resell,,,100,49,7,"Spaceship, Inc.",18/12/2020 07:56,18/12/2026 07:56
+14722573-4cd7-4e47-b3d4-b9637a6989c9,digital.host,premium,3125,6250,100,49,7,name.com,,
+c20d4631-53fa-48a1-b193-676378df50bd,digital.hot,premium,125,125,100,49,7,name.com,,
+9f9f2325-5a5f-4803-8a82-c284bd93e929,digital.how,premium,686.25,686.25,100,49,7,name.com,,
+c5e1821c-10d8-4c64-9425-6e0a079c3f6a,digital.id,resell,,,100,49,7,PT Aksara Data Digital,19/06/2017 00:19,19/06/2027 23:59
+9e4be2ee-9cec-4085-807c-c4d0a707e584,digital.immobilien,resell,,,100,49,7,"NameCheap, Inc.",16/12/2016 18:18,16/12/2026 18:18
+53f26665-1a5b-48c5-b90f-bdd03ad4cab3,digital.ing,premium,1625,1625,100,49,7,name.com,,
+d521bd6f-f4e9-4ab5-b24a-9423786af802,digital.jewelry,resell,,,100,49,7,Edomains LLC,15/01/2023 15:15,15/01/2027 15:15
+8e730782-d9ee-403a-ba97-7f97a1473ad6,digital.juegos,available,478.98,,100,49,7,namecheap,,
+2a6fe042-ad9b-4d19-ade9-55e52ca9df92,digital.kaufen,premium,,,100,49,7,,,
+3ed811a4-bf2a-4c9a-bbeb-f4db5186009b,digital.kitchen,resell,,,100,49,7,Porkbun LLC,05/10/2024 15:15,05/10/2026 15:15
+8143350f-8799-49c1-a36f-f51025415bfe,digital.la,resell,,,100,49,7,TLD Registrar Solutions Ltd,18/02/2001 01:00,18/02/2027 23:59
+7a918678-930b-4882-bd1e-c9637f58e16f,digital.land,resell,,,100,49,7,"GoDaddy.com, LLC",25/07/2017 00:24,25/07/2026 00:24
+f85378ee-7533-4b62-8f4b-99d5650c48da,digital.lat,premium,2500,2500,100,49,7,name.com,,
+02036997-e7a1-4ee1-a1f1-103046dfcf8f,digital.lawyer,resell,,,100,49,7,"Spaceship, Inc.",19/07/2024 15:15,19/07/2026 15:15
+5b3daa64-493b-4580-abd1-19fa3ce42814,digital.lgbt,resell,,,100,49,7,1API GmbH,02/11/2021 18:13,02/11/2026 18:13
 d5fc96f0-2c3f-4ccf-a6d8-6408b84181c5,digital.life,resell,,,100,49,7,"GoDaddy.com, LLC",30/06/2015 06:33,30/06/2026 06:33
+cf105da4-6541-4386-80c7-fc6049050224,digital.lifestyle,premium,1820,2600,100,49,7,namecheap,,
+f72c1c8a-c032-41d7-874e-401aeba83c82,digital.lighting,resell,,,100,49,7,Porkbun LLC,29/09/2024 15:16,29/09/2026 15:16
+5f978e37-9e48-4a7b-b40d-9f90ade8877f,digital.limited,premium,,,100,49,7,,,
+f814dc98-21c2-4456-b06b-ef3bf0cb886c,digital.link,resell,,,100,49,7,"Dynadot, LLC",18/03/2015 06:31,18/03/2027 06:31
+e41a7afe-acea-4f82-a0e6-caa215a3468e,digital.living,premium,1820,2600,100,49,7,namecheap,,
+b9d08f61-4722-4f5c-a2aa-103c8de6f0c6,digital.loan,premium,1250,125,100,49,7,name.com,,
+22fd508a-712e-4227-bb51-eddb2755fcea,digital.loans,premium,1000,1000,100,49,7,name.com,,
+9a975950-3391-4412-8748-0fb7cdff7c37,digital.locker,premium,13000,58.5,100,49,7,namecheap,,
+83ba5887-572e-4d51-be90-363d96b99650,digital.love,premium,5460,7800,100,49,7,namecheap,,
+4a15d7a0-3087-426c-8290-538a6676a3b2,digital.ltda,premium,60,35,100,49,7,name.com,,
+66019150-14c2-422b-b5e8-afb95fc63eba,digital.makeup,premium,2500,2500,100,49,7,name.com,,
+f9ff08ae-6a58-4fb2-a192-f602e1a5f3ee,digital.mba,resell,,,100,49,7,"Sav.com, LLC",18/11/2017 17:42,18/11/2026 17:42
+7a959c5d-005a-4401-ab8a-8f8bebda0690,digital.media,resell,,,100,49,7,1API GmbH,11/06/2015 16:00,11/06/2026 16:00
+f3157df8-9e4d-4f73-bade-425cf9b04c25,digital.meme,premium,437.5,437.5,100,49,7,name.com,,
+90efcbe8-992f-4ce0-94ce-b87f0c6bf30d,digital.men,resell,,,100,49,7,West263 International Limited,13/07/2018 09:56,13/07/2028 09:56
+004df0c0-5b46-4adb-994f-968c0cb879f9,digital.miami,resell,,,100,49,7,Hello Internet Corp.,27/02/2018 16:20,27/02/2027 16:20
+1e18b416-58c5-460a-a87c-73daddead9b7,digital.moda,resell,,,100,49,7,"NameCheap, Inc.",16/12/2016 18:18,16/12/2026 18:18
+96ef5d73-2056-439d-84d6-538d9f60cb2a,digital.moe,premium,3250,23.99,100,49,7,name.com,,
+8aa92c86-10f0-482c-b47f-5ba225fd69f3,digital.moi,premium,250,250,100,49,7,name.com,,
+23c8f645-da94-4ded-a737-08aa6df2f96f,digital.motorcycles,premium,812.5,20.99,100,49,7,name.com,,
+60dd058b-be76-48a8-ab2c-76bac79c263d,digital.mov,premium,311.25,311.25,100,49,7,name.com,,
+fc446988-8eeb-429c-ab33-e603882eb51b,digital.movie,premium,1000,1000,100,49,7,name.com,,
+791f9cfc-4185-40b1-991b-1fce100000a8,digital.mx,resell,,,100,49,7,GoDaddy.com,31/05/2009 00:00,30/05/2026 00:00
+bcb63865-2db2-4d5a-a564-0441d360a0f5,digital.new,available,549.99,549.99,100,49,7,name.com,,
+04eb4b46-6e6c-4529-8380-03ad586f7235,digital.news,premium,1250,1250,100,49,7,name.com,,
+1796aba6-8854-40ef-83a9-17e196920021,digital.nexus,premium,311.25,311.25,100,49,7,name.com,,
+a032842a-e680-44ba-9aca-1840cc7873c5,digital.now,resell,,,100,49,7,Porkbun LLC,27/09/2024 13:00,27/09/2026 13:00
+d736798d-2897-414f-addd-af9afd241cd4,digital.observer,premium,1250,1250,100,49,7,name.com,,
+701135d2-01ad-4e8e-bd3f-70f8cd7897f7,digital.ong,available,16.99,16.99,100,49,7,name.com,,
+27a2e1f6-8add-4660-a6bc-52c0d9f69462,digital.online,premium,3125,12500,100,49,7,name.com,,
+6eb53e12-f7dd-4e53-9fed-f92549261a41,digital.ooo,premium,140156.25,311.25,100,49,7,name.com,,
+0d76c25d-0a44-41f8-9b75-c409791ff7fb,digital.page,premium,623.75,623.75,100,49,7,name.com,,
+377cae6d-be87-4b07-9e94-1337d289b0dd,digital.partners,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",08/06/2014 16:00,08/06/2027 16:00
+43524804-5ee7-40f4-8c4d-27787d68011d,digital.phd,premium,811.25,811.25,100,49,7,name.com,,
+9144ccba-c4db-4f9f-8a0f-c70713a60eba,digital.photo,resell,,,100,49,7,"Spaceship, Inc.",24/10/2024 18:56,24/10/2026 18:56
+7e080bca-7ab7-4dce-a767-e43522b6de4f,digital.photography,premium,500,500,100,49,7,name.com,,
+2a6500d1-a488-46be-9e6e-59b6611bb187,digital.photos,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2015 16:00,14/06/2027 16:00
+698f1554-05e6-4ee6-99ae-c968c386a367,digital.pictures,premium,250,250,100,49,7,name.com,,
+e59e125e-b70c-4789-b142-5f73b5a514f6,digital.pink,resell,,,100,49,7,"Sav.com, LLC",30/10/2018 13:46,30/10/2026 13:46
+4dfc616e-a0f7-4c10-be12-edba22f88861,digital.pizza,premium,,,100,49,7,,,
+b44f2ea0-8e42-4531-8d0e-b26fc043545e,digital.place,resell,,,100,49,7,"Sav.com, LLC",03/09/2023 23:55,03/09/2026 23:55
+e2d5cfd3-8a1e-4f8e-be5c-62f01cf53127,digital.plus,resell,,,100,49,7,"Spaceship, Inc.",16/10/2019 09:14,16/10/2026 09:14
+ad909c22-d4ab-4aec-baf9-45852210c68c,digital.press,premium,1875,3750,100,49,7,name.com,,
+dc51c15f-2854-416c-9841-e4502d22747e,digital.prof,premium,811.25,811.25,100,49,7,name.com,,
+223f23f2-9c08-41f1-83b2-2b69495f6dd8,digital.properties,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",01/06/2014 16:00,01/06/2027 16:00
+4735e126-48c4-4626-a514-f97eed22801b,digital.protection,available,2950,,100,49,7,namecheap,,
+93c4429e-358c-424d-8aaa-42f922e48015,digital.pub,premium,1250,1250,100,49,7,name.com,,
+ead21699-4c7c-4a6a-9aaa-de33c69a6567,digital.pw,premium,374.58,749.17,100,49,7,name.com,,
+71c93ab5-f23b-4468-a4b6-5ba2e6141112,digital.qpon,premium,4687.5,27.99,100,49,7,name.com,,
+9853b60b-772e-4d7b-bb12-ed5ce7979344,digital.quest,premium,812.5,20.99,100,49,7,name.com,,
+17b9a35e-0123-417d-8431-17e5c0061b87,digital.red,resell,,,100,49,7,"Spaceship, Inc.",03/10/2023 15:15,03/10/2026 15:15
+52f337a2-eafc-4227-8f1a-c1bd1e69ae2e,digital.rehab,premium,250,250,100,49,7,name.com,,
+2f74ee0d-3ef8-4582-81f3-0f5dc15aeaad,digital.reise,premium,250,250,100,49,7,name.com,,
+9dfd88f6-49c5-4099-8176-29e7b8682647,digital.reisen,premium,500,500,100,49,7,name.com,,
+a7c4f04a-6090-4da6-8933-03b9247634a9,digital.rent,premium,625,625,100,49,7,name.com,,
+5f8e6f1b-dc1e-4d32-af2f-0c515359c183,digital.rentals,premium,250,250,100,49,7,name.com,,
+8a0e5665-e51e-404f-9199-d9c1c65ab9d1,digital.repair,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/03/2014 16:00,30/03/2027 16:00
+c6d9de7c-a4de-40d7-9024-4462353786d2,digital.republican,premium,,,100,49,7,,,
+94306c1a-9ced-42e7-a9c7-3408f9ae09c5,digital.review,premium,12500,125,100,49,7,name.com,,
+1145a2cb-7e00-4ea4-b0c4-9a2104497491,digital.reviews,premium,1000,1000,100,49,7,name.com,,
+348d0323-88a5-4dfc-911e-ceccf2df621f,digital.rich,available,149.99,299.99,100,49,7,name.com,,
+0576d8f6-3c47-4dd1-9eb3-109849885e10,digital.rip,premium,250,250,100,49,7,name.com,,
+b716802b-c92d-4c2e-8fc9-163a9dc671f5,digital.rsvp,premium,623.75,623.75,100,49,7,name.com,,
+dce9e1a0-a088-4131-9fac-36dca8018fdd,digital.salon,resell,,,100,49,7,"Sav.com, LLC - 13",02/06/2025 15:15,02/06/2026 15:15
+3e788aca-5eb0-42fa-83f7-47d05f544912,digital.sarl,available,8.98,,100,49,7,namecheap,,
+01102703-7cec-4da2-b1e3-45180ac0a69f,digital.sbs,resell,,,100,49,7,"Porkbun, LLC",03/02/2025 20:25,03/02/2027 23:59
+ed3c1dd9-7f15-49ab-ba6f-c552eaba175d,digital.services,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",06/07/2014 16:00,06/07/2027 16:00
+7bf88abb-cee3-49bb-81f8-21173c7b8b64,digital.sexy,available,2999,2999,100,49,7,name.com,,
+5cc04da1-067a-4e61-a971-c730e2b53271,digital.sh,resell,,,100,49,7,"Spaceship, Inc.",07/03/2018 14:31,07/03/2027 14:31
+c9b6c139-0145-4cc0-90ba-64688333fb13,digital.shiksha,premium,,,100,49,7,,,
+3fc02c15-4744-4d37-babf-709a5322ff7c,digital.shoes,premium,500,500,100,49,7,name.com,,
+eacad6a6-de40-47b3-81f2-a587d9a4baed,digital.shopping,premium,,,100,49,7,,,
+7025d794-8f03-4c0b-b156-4095b7443255,digital.show,resell,,,100,49,7,"Chengdu West Dimension Digital Technology Co., Ltd.",23/10/2017 04:25,23/10/2026 04:25
+98bec4a9-a35e-4da6-810e-a1869716e3e3,digital.singles,resell,,,100,49,7,"Spaceship, Inc.",14/05/2021 13:20,14/05/2026 13:20
+55448591-fa82-48ef-a0df-4bd58dbc584a,digital.site,premium,1562.5,6250,100,49,7,name.com,,
+c2d818dd-901a-479d-9cea-9cda2d07deb2,digital.ski,premium,,,100,49,7,,,
+5a04a292-83bc-4798-bdc0-06b74011d360,digital.skin,premium,2500,2500,100,49,7,name.com,,
+14f60c86-ed9f-4a23-8c5e-fd789e97e8d7,digital.solar,resell,,,100,49,7,"Sav.com, LLC",12/08/2015 16:16,12/08/2026 16:16
+f5514820-14e7-40d3-af04-9672e69251e8,digital.soy,premium,623.75,623.75,100,49,7,name.com,,
+91e127b8-6b55-46db-8867-707de880fbfa,digital.srl,premium,57.5,32.5,100,49,7,name.com,,
+0f911558-cd54-4543-987a-3c30ffd93d0b,digital.store,resell,,,100,49,7,"Spaceship, Inc.",14/09/2025 19:25,14/09/2026 23:59
+0bd24a82-720e-4f5b-b1c1-7c8b377a1a24,digital.stream,premium,3125,125,100,49,7,name.com,,
+f2560e31-3eee-494d-a40d-796c6bb1bba6,digital.sucks,available,298,,100,49,7,namecheap,,
+355de853-0177-4f9c-839c-aa388ee897e3,digital.supply,resell,,,100,49,7,Porkbun LLC,27/05/2025 09:15,27/05/2026 09:15
+48c9167d-bbbe-4f4c-aaaf-656dc1250996,digital.support,resell,,,100,49,7,Dynadot Inc,16/07/2015 02:51,16/07/2026 02:51
+0d233220-b78e-407d-9cac-bfb87eed7533,digital.surf,resell,,,100,49,7,"GoDaddy.com, LLC",25/09/2014 20:15,25/09/2026 20:15
+f8d3e148-d637-4ab2-9db9-f160b9736f14,digital.surgery,premium,123.75,123.75,100,49,7,name.com,,
+8386a545-7423-4ff8-a2d7-dc669481dd18,digital.tattoo,resell,,,100,49,7,"GoDaddy.com, LLC",06/12/2015 04:33,06/12/2026 04:33
+57fef392-374d-4d55-8d51-bae6b153d8bf,digital.taxi,premium,,,100,49,7,,,
+61feb545-56ff-416b-8509-a88a3ef67edb,digital.tech,premium,3125,12500,100,49,7,name.com,,
+321cad90-a9c7-4b6f-b91a-1f9ce47394a2,digital.tennis,premium,,,100,49,7,,,
+e67fd5d9-795c-4629-9d1c-eeb280a3cb0d,digital.theatre,available,620,,100,49,7,namecheap,,
+00d6635b-3a62-412f-9323-51e05e64c835,digital.tickets,premium,1875,1875,100,49,7,name.com,,
+6fb2e2f4-4efa-4616-a18e-c441e4098f96,digital.tips,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",23/02/2014 16:02,23/02/2027 16:02
+1201efb6-149d-42b4-9f40-3ddd1410bb2c,digital.tires,premium,,,100,49,7,,,
+d843ff3c-2a1f-475e-b9c3-b02fcd8fdad1,digital.tours,resell,,,100,49,7,"Sav.com, LLC",03/10/2019 12:16,03/10/2026 12:16
+d2ae8960-bb01-4393-a3c1-2bb0e7a35de6,digital.town,resell,,,100,49,7,Dynadot Inc,08/02/2026 03:53,08/02/2027 03:53
+2e71a4de-4d41-4f02-a932-4e9b2d903547,digital.toys,resell,,,100,49,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/07/2014 15:35,30/07/2027 15:35
+48ba2334-f439-46bb-8f86-8fdbd9172e71,digital.trading,premium,1250,1250,100,49,7,name.com,,
+41751a7d-0dbc-4e60-8b72-7dc4e16fa475,digital.tv,resell,,,100,49,7,Dynadot Inc,27/12/2009 09:00,09/04/2031 03:59
+7ffddd75-14a2-4f5d-98f4-c437e30e4b67,digital.uno,premium,1562.5,3125,100,49,7,name.com,,
+70b570fb-3882-4a10-9277-9eb7b933cc8c,digital.us,resell,,,100,49,7,"GoDaddy.com, LLC",24/04/2002 14:02,23/04/2027 23:59
+0e67b7c6-d5bd-4775-96eb-7c512a437384,digital.vacations,resell,,,100,49,7,"Spaceship, Inc.",04/10/2022 02:15,04/10/2026 02:15
+7478101f-3c97-462c-b6d1-531158d92b1b,digital.vana,available,2498,,100,49,7,namecheap,,
+3fb7a6ab-b0e0-466b-bac9-161fe7d36c4c,digital.viajes,available,57.98,,100,49,7,namecheap,,
+5889011d-b921-4ada-84b4-87b5d6ef81fc,digital.villas,premium,500,500,100,49,7,name.com,,
+0f983eaf-a2a7-4e0c-97cf-26730f52f289,digital.vision,resell,,,100,49,7,"Sav.com, LLC",23/08/2015 16:51,23/08/2026 16:51
+60f5e0d4-1f81-4192-ae1b-42c10943349f,digital.vodka,available,38.98,,100,49,7,namecheap,,
 1da646a0-6277-4dc1-b055-fc62922e66a3,digital.voto,resell,,,100,49,7,"NameCheap, Inc.",03/09/2025 16:52,03/09/2026 16:52
-bdb81953-d7a3-428f-bd05-313b2be0bfe9,digital.bargains,premium,41.99,41.25,100,48,7,name.com,,
+04bef590-0b1e-4298-ad86-fa16a20c8d04,digital.watch,resell,,,100,49,7,"Sav.com, LLC",19/07/2015 16:00,19/07/2026 16:00
+20bd3c29-4dd9-40a9-994f-d9049c7856bc,digital.webcam,premium,125,37.99,100,49,7,name.com,,
+af0ff251-4d14-4349-9702-f78f04e51035,digital.website,premium,1562.5,3125,100,49,7,name.com,,
+19ae2d39-bfb4-4d0c-8067-3cb198d15fc1,digital.wiki,premium,812.5,812.5,100,49,7,name.com,,
+42c65ab6-b977-4305-a2c5-796418ba94f3,digital.wine,resell,,,100,49,7,"Sav.com, LLC - 12",05/10/2025 15:15,05/10/2026 15:15
+055fde3d-a4d0-41e4-bbc3-fb0f529cffc7,digital.yachts,premium,812.5,20.99,100,49,7,name.com,,
+562e46fe-7934-438b-990c-3204722e0bc2,digital.zone,resell,,,100,49,7,"Sav.com, LLC",17/09/2024 17:24,17/09/2026 17:24
 8b5bf96f-58e5-41f8-abba-7a288b8b224a,digital.bot,resell,,,100,48,7,"Dynadot, LLC",20/05/2025 02:20,20/05/2026 02:20
-052b41da-167c-457a-9bfa-b09dc0a73e3c,digital.gmbh,premium,42.9,42.9,100,48,7,namecheap,,
 cc6bd1cb-6d6f-4488-ac7f-97c34b3ed22e,digital.spot,premium,125,125,100,48,7,name.com,,
 8de69f5c-8686-4104-bdd4-d42bfe655d49,digital.channel,premium,623.75,623.75,100,47,7,name.com,,
 9ef2c93a-d5d3-4adb-9da7-dc617fb81550,digital.art,premium,,,100,46,7,,,
 2c6eada6-93bd-4d4f-82a9-5d7f61147103,digital.boston,premium,,,100,46,7,,,
-4321cee8-0272-4ae8-a63f-5a3f4fc85a02,digital.cheap,resell,,,100,46,7,Porkbun LLC,08/05/2021 10:11,08/05/2026 10:11
 c8abd205-9fc5-4400-b539-854677a0530f,digital.consulting,premium,,,100,46,7,,,
 88e1e856-d013-4f71-9e9e-2809c106a06c,digital.courses,premium,,,100,46,7,,,
 7d2693e1-1e08-4865-a8c0-31ca6efd7d0b,digital.faith,premium,,,100,46,7,,,
@@ -9923,10 +9933,11 @@ db565bcb-1e4c-40c3-8acb-69b8bd00c5d1,digital.rest,premium,,,100,46,7,,,
 5b70005f-b6d2-400b-8f63-62e574d1ef1b,digital.sydney,premium,,,100,46,7,,,
 6ac46930-054e-4bad-8582-0442ce9782b1,digital.voting,premium,,,100,46,7,,,
 bfd8440a-9aa3-448c-9949-837df8e0ea71,digital.wedding,premium,100,45.99,100,46,7,name.com,,
-f4ac6011-ab8a-4805-b09f-a8621662e2bb,digital.clinic,resell,,,86,50,7,Porkbun LLC,22/05/2020 08:29,22/05/2026 08:29
-194028b0-5777-4fd7-a6bb-203be36b8984,digital.luxe,resell,,,86,50,7,"GoDaddy.com, LLC",05/05/2021 12:50,05/05/2027 12:50
-b820ec24-c8ec-42dc-827a-c79277bd9d82,digital.mobile,premium,375,,86,50,7,name.com,,
-bce51e51-9568-4930-ab15-30936b0b9c12,digital.onl,resell,,,86,50,7,Porkbun LLC,22/11/2018 12:30,22/11/2026 12:30
+f4ac6011-ab8a-4805-b09f-a8621662e2bb,digital.clinic,resell,,,86,49,7,Porkbun LLC,22/05/2020 08:29,22/05/2026 08:29
+194028b0-5777-4fd7-a6bb-203be36b8984,digital.luxe,resell,,,86,49,7,"GoDaddy.com, LLC",05/05/2021 12:50,05/05/2027 12:50
+b820ec24-c8ec-42dc-827a-c79277bd9d82,digital.mobile,premium,375,,86,49,7,name.com,,
+bce51e51-9568-4930-ab15-30936b0b9c12,digital.onl,resell,,,86,49,7,Porkbun LLC,22/11/2018 12:30,22/11/2026 12:30
+16645d1d-f418-4d59-9865-fe142107c9e6,digital.ryukyu,available,22.98,,86,49,7,namecheap,,
 66b2cbdc-9a6f-4d7e-bfe5-bd13b41c4504,press.ing,premium,,,79,7,5,,,
 e357ff45-eedf-4c3b-9961-05adbc168bf5,press.academy,resell,,,66,29,5,Automattic Inc.,06/06/2021 15:47,06/06/2027 15:47
 d4306feb-3705-4daf-aabf-53148b53ebb8,press.accountant,premium,,,66,29,5,,,
@@ -9988,14 +9999,3 @@ e1b040a8-e666-40d6-8239-86035a12b888,press.city,resell,,,66,29,5,"Spaceship, Inc
 581773aa-a14d-440e-82cd-4402ba493171,press.clinic,premium,,,66,29,5,,,
 6fd4a96c-3615-42a5-be88-eefe17e7f321,press.clothing,premium,,,66,29,5,,,
 87b8e39a-dd2d-4c49-95d3-2ff4d51d995a,press.club,resell,,,66,29,5,"GoDaddy.com, LLC",03/11/2023 21:02,03/01/2027 17:11
-c9a5e838-9ac7-4c91-a544-c8f5b78bc506,press.co,resell,,,66,29,5,Hello Internet Corp.,24/02/2010 23:06,23/02/2027 23:59
-cba927b6-919b-4d99-8499-6f1d9e2b273c,press.coach,premium,,,66,29,5,,,
-4f51d262-aa4b-4968-b6df-68cbc616de97,press.college,premium,,,66,29,5,,,
-48d8c959-9274-45e9-bf7a-6dcb82341b92,press.computer,resell,,,66,29,5,"Sav.com, LLC",10/07/2024 21:49,10/07/2026 21:49
-7ae59cfc-8329-4f50-b096-4abef605a38f,press.condos,premium,,,66,29,5,,,
-3a281654-c051-435e-ad4c-1fa16ce3838d,press.construction,premium,,,66,29,5,,,
-9b86265c-c079-4bf5-838c-d933d5bc4164,press.consulting,premium,,,66,29,5,,,
-4ae09dd8-d9de-4f52-bed1-9b08d095608e,press.contractors,premium,,,66,29,5,,,
-40e018fc-9f8b-4278-a062-fea7cb1e14ea,press.cool,premium,,,66,29,5,,,
-d537b6fa-65ed-42a7-be4f-77792eea93c1,press.country,premium,,,66,29,5,,,
-a2d79b8f-0f1d-4146-8e5e-34e7fb0b52a7,press.coupons,premium,,,66,29,5,,,
