@@ -1,22 +1,22 @@
-# Entertainment One-Word Domains (46,522)
+# Entertainment Keyword Domains (66,961)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-46%2C522%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C961%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of entertainment one-word domains from Unique Domains.
+These domains are entertainment-related names spread across 505 TLDs, including examples like perform.page, fame.style, circus.me, and visual.one. Updated daily. This selection contains 66,961 domains, with a median ask of $2,180, so comparison should focus on extension fit, brand clarity, and renewal risk.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **46,522 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **66,961 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 46,522 domains
+**Public extract:** 1,000 rows · **Live catalog:** 66,961 domains · **Median ask:** $2,179.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Entertainment`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                |
-| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| theater.ninja       | available | $42.98     | —             | 72             | 88     | 7      | namecheap                                |
-| entertainment.xyz   | resell    | $57,494.25 | $20.99        | 56             | 88     | 13     | Go Australia Domains, LLC                |
-| theater.zone        | premium   | $128.70    | $128.70       | 72             | 88     | 7      | namecheap                                |
-| theater.gg          | available | $82.98     | —             | 72             | 88     | 7      | namecheap                                |
-| theater.pro         | resell    | —          | —             | 72             | 88     | 7      | GKG.NET, INC.                            |
-| theater.tech        | premium   | $781.25    | $3,125        | 72             | 88     | 7      | name.com                                 |
-| film.forex          | available | $19.99     | —             | 84             | 36     | 4      | name.com                                 |
-| theater.io          | resell    | —          | —             | 72             | 88     | 7      | Dynadot Inc                              |
-| theater.store       | premium   | $312.50    | $1,250        | 72             | 88     | 7      | name.com                                 |
-| film.desi           | available | $22.98     | —             | 84             | 36     | 4      | namecheap                                |
-| entertainment.net   | resell    | —          | —             | 56             | 88     | 13     | Internet Domain Service BS Corp          |
-| theater.space       | premium   | $812.50    | $3,250        | 72             | 88     | 7      | namecheap                                |
-| movie.paris         | available | $51.98     | —             | 86             | 32     | 5      | namecheap                                |
-| entertainment.io    | resell    | —          | —             | 56             | 88     | 13     | Dynadot15 LLC                            |
-| theater.site        | premium   | $312.50    | $1,250        | 72             | 88     | 7      | name.com                                 |
-| movie.moi           | available | $39.99     | —             | 86             | 32     | 5      | name.com                                 |
-| entertainment.gg    | resell    | —          | —             | 56             | 88     | 13     | Enrapture Limited (https://enrapture.gg) |
-| theater.online      | premium   | $781.25    | $3,125        | 72             | 88     | 7      | name.com                                 |
-| movie.kiwi          | available | $35.68     | —             | 86             | 32     | 5      | namecheap                                |
-| entertainment.cloud | resell    | —          | —             | 56             | 88     | 13     | Tucows Domains Inc.                      |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                   |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------- |
+| theater.ninja     | available | $42.98     | —             | 72             | 88     | 7      | namecheap                   |
+| entertainment.xyz | resell    | $57,494.25 | $20.99        | 56             | 88     | 13     | Go Australia Domains, LLC   |
+| theater.zone      | premium   | $128.70    | $128.70       | 72             | 88     | 7      | namecheap                   |
+| theater.gg        | available | $82.98     | —             | 72             | 88     | 7      | namecheap                   |
+| amusement.pro     | resell    | $368       | $33.99        | 70             | 72     | 9      | Spaceship, Inc.             |
+| theater.tech      | premium   | $781.25    | $3,125        | 72             | 88     | 7      | name.com                    |
+| amusement.zone    | available | $14.99     | $46.99        | 70             | 72     | 9      | name.com                    |
+| amusement.it      | resell    | $3,345.35  | $25.99        | 70             | 72     | 9      | name.com                    |
+| theater.store     | premium   | $312.50    | $1,250        | 72             | 88     | 7      | name.com                    |
+| amusement.so      | available | $64.98     | —             | 70             | 72     | 9      | namecheap                   |
+| audience.pro      | resell    | —          | —             | 68             | 100    | 8      | Dynadot Inc                 |
+| theater.space     | premium   | $812.50    | $3,250        | 72             | 88     | 7      | namecheap                   |
+| amusement.ninja   | available | $9.99      | $34.99        | 70             | 72     | 9      | name.com                    |
+| audience.org      | resell    | —          | —             | 68             | 100    | 8      | GoDaddy.com, LLC            |
+| theater.site      | premium   | $312.50    | $1,250        | 72             | 88     | 7      | name.com                    |
+| amusement.gg      | available | $70.98     | —             | 70             | 72     | 9      | namecheap                   |
+| audience.app      | resell    | —          | —             | 68             | 100    | 8      | Squarespace Domains II LLC. |
+| theater.online    | premium   | $781.25    | $3,125        | 72             | 88     | 7      | name.com                    |
+| amusement.expert  | available | $11.99     | $77.99        | 70             | 72     | 9      | name.com                    |
+| theater.so        | resell    | —          | —             | 72             | 88     | 7      | NameCheap                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 46,522 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 66,961 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is broad by design: entertainment-related domains appear across 505 TLDs, with examples ranging from perform.page and fame.style to circus.me and visual.one. That breadth creates two very different profiles. Some names read like brandable, founder-friendly options when the word and extension reinforce each other. Others are more speculative extension bets where meaning is weaker or renewal risk may matter more. With a median ask of $2,180 across 66,961 domains, the best comparisons are usually simple: does the keyword clearly fit the extension, is the name easy to say and remember, and does the holding cost make sense relative to the asking price?
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer names where the keyword and TLD make sense together
+- Use the $2,180 median ask as a rough pricing anchor
+- Favor clear, memorable words over awkward extension matches
+- Check renewal economics before paying for niche TLDs
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Entertainment One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Entertainment Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
