@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Entertainment Keyword Domains"
+title: "One-Word Entertainment Domain Names"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-05-26"
-date-released: "2026-05-26"
-url: "https://unique.domains/domains/sector/Entertainment"
+version: "2026-08-06"
+date-released: "2026-08-06"
+url: "https://unique.domains/domains/sector/entertainment"
 repository-code: "https://github.com/UniqueDomains/entertainment-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of entertainment one-word domains from Unique Domains."
