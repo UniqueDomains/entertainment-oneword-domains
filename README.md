@@ -1,10 +1,10 @@
-# One-Word Entertainment Domain Names (220,090)
+# One-Word Entertainment Domain Names (221,223)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-220%2C090%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-221%2C223%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word entertainment domain names spanning over 500 TLDs, including extensions like .casino, .kids, .house, and .review. The median asking price across this selection is about $746. Updated daily to reflect newly available and expiring listings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **220,090 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **221,223 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 220,090 domains · **Median ask:** $681.03 · **High-demand under $2,500:** 709
+**Public extract:** 1,000 rows · **Live catalog:** 221,223 domains · **Median ask:** $679.64 · **High-demand under $2,500:** 709
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/entertainment`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 220,090 live domains                       |
+| 1,000-row public sample | 221,223 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 709 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
