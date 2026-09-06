@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                  |
-| act.theater    | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| art.film       | premium   | $6,500    | $6,500        | high           | medium | 3      | namecheap                                    |
-| art.theatre    | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                     |
-| bar.tienda     | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL               |
-| art.lol        | premium   | $845      | $845          | high           | medium | 3      | namecheap                                    |
-| bar.theater    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| fun.baby       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| art.mov        | premium   | $1,298.70 | $1,298.70     | high           | medium | 3      | namecheap                                    |
-| fun.actor      | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| fun.cool       | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
-| fun.boo        | premium   | $623.75   | —             | high           | medium | 3      | name.com                                     |
-| fun.juegos     | available | $478.98   | —             | high           | medium | 3      | namecheap                                    |
-| fun.land       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
-| fun.guitars    | premium   | $832      | $832          | high           | medium | 3      | namesilo                                     |
-| fun.theatre    | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                     |
-| fun.lol        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| fun.hiphop     | premium   | $640      | $116          | high           | medium | 3      | namesilo                                     |
-| club.movie     | available | $69.99    | —             | high           | low    | 4      | name.com                                     |
-| fun.show       | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| fun.actor    | available | $19.99    | —             | high           | medium | 3      | name.com                                                  |
+| bar.tienda   | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL                            |
+| fun.boo      | premium   | $623.75   | —             | high           | medium | 3      | name.com                                                  |
+| fun.theatre  | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                                  |
+| fun.baby     | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| fun.monster  | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
+| lab.audio    | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                                  |
+| fun.cool     | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| fun.mov      | premium   | $623.75   | —             | high           | medium | 3      | name.com                                                  |
+| fair.theater | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| fun.lol      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| fair.film    | premium   | $116      | $116          | high           | low    | 4      | namesilo                                                  |
+| fame.theater | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| fun.show     | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| fair.mov     | premium   | $161.25   | —             | high           | low    | 4      | name.com                                                  |
+| gala.red     | available | $14.99    | —             | high           | low    | 4      | name.com                                                  |
+| fun.space    | resell    | —         | —             | high           | medium | 3      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
+| film.shop    | premium   | $12,500   | —             | high           | low    | 4      | name.com                                                  |
+| game.theatre | available | $509.99   | $529.99       | high           | medium | 4      | namesilo                                                  |
+| pop.shop     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com LLC                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
