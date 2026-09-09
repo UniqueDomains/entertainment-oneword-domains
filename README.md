@@ -16,7 +16,7 @@ This is a curated set of one-word entertainment domain names spanning over 500 T
 
 **Public extract:** 1,000 rows · **Live catalog:** 233,363 domains · **Median ask:** $648.08 · **High-demand under $2,500:** 708
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/entertainment`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| sports.theater  | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                  |
-| fun.actor       | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| fun.boo         | premium   | $623.75   | —             | high           | medium | 3      | name.com                                     |
-| fun.theatre     | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                     |
-| bar.tienda      | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL               |
-| fun.guitars     | premium   | $832      | $832          | high           | medium | 3      | namesilo                                     |
-| fair.cool       | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| fun.baby        | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| fun.hiphop      | premium   | $640      | $116          | high           | medium | 3      | namesilo                                     |
-| fair.movie      | available | $69.99    | —             | high           | low    | 4      | name.com                                     |
-| fun.cool        | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
-| fun.monster     | premium   | $625      | —             | high           | medium | 3      | name.com                                     |
-| fair.theater    | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| fun.land        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
-| fun.mov         | premium   | $623.75   | —             | high           | medium | 3      | name.com                                     |
-| fair.theatre    | available | $509.99   | $529.99       | high           | low    | 4      | namesilo                                     |
-| fun.lol         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                              |
-| fun.productions | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
-| fame.film       | available | $65.99    | $65.99        | high           | low    | 4      | namesilo                                     |
-| fun.show        | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| delight.casino | available | $12.79    | $159.99       | high           | low    | 7      | namesilo                                                  |
+| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
+| act.movie      | available | $69.99    | —             | high           | low    | 3      | name.com                                                  |
+| act.actor      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| act.theater    | available | $19.99    | —             | high           | medium | 3      | name.com                                                  |
+| act.monster    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| act.boo        | premium   | $1,248.75 | —             | high           | low    | 3      | name.com                                                  |
+| act.theatre    | available | $620      | —             | high           | medium | 3      | namecheap                                                 |
+| art.zone       | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
+| act.film       | premium   | $6,250    | —             | high           | low    | 3      | name.com                                                  |
+| art.theatre    | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                                  |
+| bar.show       | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| act.mov        | premium   | $1,248.75 | —             | high           | low    | 3      | name.com                                                  |
+| bar.actor      | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| box.show       | resell    | —         | —             | medium         | high   | 3      | DNSPod, Inc.                                              |
+| act.space      | premium   | $350      | $1,400        | high           | low    | 3      | namecheap                                                 |
+| bar.movie      | available | $69.99    | —             | high           | low    | 3      | name.com                                                  |
+| fun.cool       | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| art.actor      | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
+| bar.theater    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Entertainment Domain Names*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Entertainment Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
