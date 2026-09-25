@@ -1,10 +1,10 @@
-# One-Word Entertainment Domain Names (130,301)
+# One-Word Entertainment Domain Names (113,610)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-130%2C301%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-113%2C610%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word entertainment domain names spanning over 500 TLDs, including extensions like .casino, .kids, .house, and .review. The median asking price across this selection is about $746. Updated daily to reflect newly available and expiring listings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **130,301 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **113,610 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 130,301 domains · **Median ask:** $518.36 · **High-demand under $2,500:** 373
+**Public extract:** 1,000 rows · **Live catalog:** 113,610 domains · **Median ask:** $440.89 · **High-demand under $2,500:** 304
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/entertainment`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price     | renewal_price | attractiveness | demand | length | registrar                 |
-| ----------------- | --------- | ------------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| show.accountants  | available | $43.99        | —             | high           | low    | 4      | name.com                  |
-| show.me           | resell    | $5,749,994.25 | $27.99        | high           | low    | 4      | GoDaddy.com, LLC          |
-| show.accountant   | premium   | $455          | $65           | high           | low    | 4      | namecheap                 |
-| show.airforce     | available | $103.99       | $103.99       | high           | low    | 4      | namesilo                  |
-| show.xyz          | resell    | $343,721.20   | $20.99        | high           | low    | 4      | Dynadot LLC               |
-| show.actor        | premium   | $128.70       | $128.70       | high           | low    | 4      | namecheap                 |
-| show.apartments   | available | $72.98        | —             | high           | low    | 4      | namecheap                 |
-| leisure.lat       | resell    | $1.99         | —             | high           | low    | 7      | Go Daddy, LLC             |
-| show.adult        | premium   | $322.40       | $322.40       | high           | low    | 4      | namecheap                 |
-| show.archi        | available | $24.99        | —             | high           | low    | 4      | name.com                  |
-| entertainment.xyz | resell    | $57,494.25    | $20.99        | high           | high   | 13     | Go Australia Domains, LLC |
-| show.attorney     | premium   | $260          | $260          | high           | low    | 4      | namecheap                 |
-| show.army         | available | $19.99        | —             | high           | low    | 4      | name.com                  |
-| film.so           | resell    | —             | —             | high           | low    | 4      | NameCheap                 |
-| show.band         | premium   | $1,300        | $1,300        | high           | low    | 4      | namecheap                 |
-| show.associates   | available | $21.99        | —             | high           | low    | 4      | name.com                  |
-| show.agency       | resell    | —             | —             | high           | low    | 4      | Spaceship, Inc.           |
-| show.bar          | premium   | $1,462.50     | $2,925        | high           | low    | 4      | namecheap                 |
-| show.auction      | available | $4.99         | —             | high           | low    | 4      | name.com                  |
-| show.ai           | resell    | —             | —             | high           | low    | 4      | Lemonev                   |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| gaming.financial  | available | $29.99    | —             | high           | low    | 6      | name.com                                            |
+| actor.movie       | available | $69.99    | —             | high           | low    | 5      | name.com                                            |
+| film.so           | resell    | —         | —             | high           | low    | 4      | NameCheap                                           |
+| actor.coach       | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                            |
+| actor.theater     | available | $19.99    | —             | high           | low    | 5      | name.com                                            |
+| actor.show        | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| actor.film        | premium   | $6,250    | —             | high           | low    | 5      | name.com                                            |
+| music.accountants | available | $43.99    | —             | high           | medium | 5      | name.com                                            |
+| music.beer        | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 14                                   |
+| actor.mov         | premium   | $623.75   | —             | high           | low    | 5      | name.com                                            |
+| music.adult       | available | $166.98   | —             | high           | medium | 5      | namecheap                                           |
+| music.berlin      | resell    | —         | —             | high           | medium | 5      | —                                                   |
+| music.accountant  | premium   | $437.50   | —             | high           | medium | 5      | name.com                                            |
+| music.airforce    | available | $103.99   | $103.99       | high           | medium | 5      | namesilo                                            |
+| music.bid         | resell    | —         | —             | high           | medium | 5      | TuringSign Inc. d/b/a Cosmotown                     |
+| music.actor       | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo                                            |
+| music.auto        | available | $1,999.99 | $2,199        | high           | medium | 5      | namesilo                                            |
+| music.bingo       | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                    |
+| music.associates  | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo                                            |
+| music.car         | available | $1,999.99 | $2,199        | high           | medium | 5      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 130,301 live domains                       |
+| 1,000-row public sample | 113,610 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 373 high-demand names under $2,500         |
+| Basic exported fields   | 304 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
