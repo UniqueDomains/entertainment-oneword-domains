@@ -1,10 +1,10 @@
-# One-Word Entertainment Domain Names (287,939)
+# One-Word Entertainment Domain Names (292,161)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-287%2C939%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-292%2C161%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word entertainment domain names spanning over 500 TLDs, including extensions like .casino, .kids, .house, and .review. The median asking price across this selection is about $746. Updated daily to reflect newly available and expiring listings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **287,939 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **292,161 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 287,939 domains · **Median ask:** $382.44 · **High-demand under $2,500:** 1,245
+**Public extract:** 1,000 rows · **Live catalog:** 292,161 domains · **Median ask:** $376.77 · **High-demand under $2,500:** 1,226
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/entertainment`
@@ -25,7 +25,7 @@ This is a curated set of one-word entertainment domain names spanning over 500 T
 <p align="center">
   <a href="https://unique.domains/domains/sector/entertainment?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./entertainment.csv">CSV</a> / <a href="./entertainment.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                 |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| fun.archi         | available | $13.14     | $83           | high           | medium | 3      | spaceship                 |
-| show.family       | resell    | $9.99      | —             | high           | low    | 4      | Sav.com, LLC              |
-| fun.adult         | premium   | $322.40    | $322.40       | high           | medium | 3      | namecheap                 |
-| fun.democrat      | available | $25.20     | $25.20        | high           | medium | 3      | cloudflare                |
-| amusement.io      | resell    | $10,247.65 | $59.99        | high           | low    | 9      | NameCheap, Inc.           |
-| fun.catering      | premium   | $54.36     | $108.60       | high           | medium | 3      | porkbun                   |
-| fun.flowers       | available | $93.35     | $103.40       | high           | medium | 3      | spaceship                 |
-| television.team   | resell    | $7.99      | —             | high           | low    | 10     | NameCheap, Inc.           |
-| fun.cleaning      | premium   | $102.67    | $102.67       | high           | medium | 3      | spaceship                 |
-| fun.gmbh          | available | $35.20     | $35.20        | high           | medium | 3      | cloudflare                |
-| entertainment.xyz | resell    | $57,494.25 | $20.99        | high           | low    | 13     | Go Australia Domains, LLC |
-| fun.cloud         | premium   | $2,587.70  | $5,175.20     | high           | medium | 3      | spaceship                 |
-| fun.juegos        | available | $309.47    | $309.47       | high           | medium | 3      | porkbun                   |
-| fun.bot           | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.           |
-| fun.condos        | premium   | $102.67    | $102.67       | high           | medium | 3      | spaceship                 |
-| fun.organic       | available | $66.20     | $66.20        | high           | medium | 3      | cloudflare                |
-| fun.life          | resell    | —          | —             | high           | medium | 3      | —                         |
-| fun.dealer        | premium   | $1,604.45  | $2,070.20     | high           | medium | 3      | spaceship                 |
-| fun.ryukyu        | available | $17.98     | $22.98        | high           | medium | 3      | namecheap                 |
-| fun.lol           | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.           |
+| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| fun.actor         | available | $34.20      | $34.20        | high           | medium | 3      | cloudflare                                              |
+| show.xyz          | resell    | $343,721.20 | $20.99        | high           | low    | 4      | Dynadot Inc                                             |
+| fun.accountant    | premium   | $517.70     | $67.48        | high           | medium | 3      | spaceship                                               |
+| fun.cars          | available | $1,999.99   | $2,199        | high           | medium | 3      | namesilo                                                |
+| entertainment.xyz | resell    | $57,494.25  | $20.99        | high           | low    | 13     | Go Australia Domains, LLC                               |
+| fun.bar           | premium   | $6,210      | $6,210        | high           | medium | 3      | namesilo                                                |
+| fun.hiv           | available | $184.90     | $184.90       | high           | medium | 3      | spaceship                                               |
+| fun.ag            | resell    | —           | —             | high           | medium | 3      | GrepApps Technology Inc.                                |
+| fun.boo           | premium   | $516.67     | $516.67       | high           | medium | 3      | spaceship                                               |
+| fun.new           | available | $412.46     | $412.46       | high           | medium | 3      | porkbun                                                 |
+| fun.blue          | resell    | —           | —             | high           | medium | 3      | Unstoppable Domains Inc                                 |
+| fun.channel       | premium   | $545.26     | $545.26       | high           | medium | 3      | porkbun                                                 |
+| fun.plumbing      | available | $58.16      | $58.16        | high           | medium | 3      | spaceship                                               |
+| fun.center        | resell    | —           | —             | high           | medium | 3      | Spaceship, Inc.                                         |
+| fun.deal          | premium   | $1,035.20   | $1,035.20     | high           | medium | 3      | spaceship                                               |
+| fun.theatre       | available | $535.22     | $535.22       | high           | medium | 3      | dynadot                                                 |
+| fun.company       | resell    | —           | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| fun.green         | premium   | $517.70     | $517.70       | high           | medium | 3      | spaceship                                               |
+| film.democrat     | available | $5.38       | $26.08        | high           | low    | 4      | spaceship                                               |
+| fun.cool          | resell    | —           | —             | high           | medium | 3      | Squarespace Domains II LLC                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 287,939 live domains                                 |
+| 1,000-row public sample | 292,161 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 1,245 high-demand names under $2,500                 |
+| Basic exported fields   | 1,226 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/entertainment?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_entertainment_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
