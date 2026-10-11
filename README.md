@@ -1,10 +1,10 @@
-# One-Word Entertainment Domain Names (317,359)
+# One-Word Entertainment Domain Names (320,488)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-317%2C359%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-320%2C488%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word entertainment domain names spanning over 500 TLDs, including extensions like .casino, .kids, .house, and .review. The median asking price across this selection is about $746. Updated daily to reflect newly available and expiring listings.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **317,359 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **320,488 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 317,359 domains · **Median ask:** $356.08 · **High-demand under $2,500:** 1,213
+**Public extract:** 1,000 rows · **Live catalog:** 320,488 domains · **Median ask:** $354.17 · **High-demand under $2,500:** 1,211
 
-**Last updated:** 2026-10-10
+**Last updated:** 2026-10-11
 **Canonical page:** `https://unique.domains/domains/sector/entertainment`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                 |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| fun.accountants   | available | $117.99    | $117.99       | high           | medium | 3      | namesilo                  |
-| film.now          | resell    | $625       | —             | high           | medium | 4      | Dynadot Inc               |
-| fun.adult         | premium   | $256.88    | $256.88       | high           | medium | 3      | spaceship                 |
-| fun.archi         | available | $14.98     | $147.98       | high           | medium | 3      | namecheap                 |
-| show.family       | resell    | $9.99      | —             | high           | low    | 4      | Sav.com, LLC              |
-| fun.attorney      | premium   | $128.70    | $128.70       | high           | medium | 3      | namecheap                 |
-| fun.car           | available | $1,999.99  | $2,199        | high           | medium | 3      | namesilo                  |
-| show.solutions    | resell    | $5.99      | —             | high           | low    | 4      | GoDaddy.com, LLC          |
-| fun.bayern        | premium   | $246.68    | $33.87        | high           | medium | 3      | dynadot                   |
-| fun.lgbt          | available | $10.55     | $64.37        | high           | medium | 3      | spaceship                 |
-| cinema.porn       | resell    | $154.98    | —             | high           | low    | 6      | GoDaddy.com, LLC          |
-| fun.condos        | premium   | $118.80    | $118.80       | high           | medium | 3      | namesilo                  |
-| fun.maison        | available | $13.59     | $47.30        | high           | medium | 3      | dynadot                   |
-| amusement.io      | resell    | $10,247.65 | $59.99        | high           | low    | 9      | NameCheap, Inc.           |
-| fun.dealer        | premium   | $1,604.45  | $2,070.20     | high           | medium | 3      | spaceship                 |
-| fun.organic       | available | $17.99     | $85.99        | high           | medium | 3      | namesilo                  |
-| amusement.pro     | resell    | $368       | $33.99        | high           | low    | 9      | Sav.com, LLC              |
-| fun.diy           | premium   | $910       | $1,300        | high           | medium | 3      | namecheap                 |
-| fun.ryukyu        | available | $17.98     | $22.98        | high           | medium | 3      | namecheap                 |
-| entertainment.xyz | resell    | $57,494.25 | $20.99        | high           | low    | 13     | Go Australia Domains, LLC |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| fun.actor         | available | $8.48      | $35.39        | high           | medium | 3      | spaceship                                               |
+| film.health       | resell    | $19.99     | —             | high           | medium | 4      | Dynadot Inc                                             |
+| fun.boo           | premium   | $545.26    | $545.26       | high           | medium | 3      | porkbun                                                 |
+| fun.moi           | available | $21.11     | $21.11        | high           | medium | 3      | porkbun                                                 |
+| entertainment.xyz | resell    | $57,494.25 | $20.99        | high           | low    | 13     | Go Australia Domains, LLC                               |
+| fun.cam           | premium   | $1,995     | $16.52        | high           | medium | 3      | namesilo                                                |
+| fun.theatre       | available | $500.20    | $500.20       | high           | medium | 3      | cloudflare                                              |
+| fun.ceo           | resell    | —          | —             | high           | medium | 3      | NameCheap, Inc.                                         |
+| fun.channel       | premium   | $516.67    | $516.67       | high           | medium | 3      | spaceship                                               |
+| fun.viajes        | available | $99.99     | $99.99        | high           | medium | 3      | namesilo                                                |
+| fun.click         | resell    | —          | —             | high           | medium | 3      | Dynadot, LLC                                            |
+| fun.dog           | premium   | $220       | $220          | high           | medium | 3      | dynadot                                                 |
+| film.cooking      | available | $32.49     | $32.49        | high           | medium | 4      | namesilo                                                |
+| fun.company       | resell    | —          | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| fun.eco           | premium   | $8,250     | $61.74        | high           | medium | 3      | dynadot                                                 |
+| film.cricket      | available | $25.98     | $31.98        | high           | medium | 4      | namecheap                                               |
+| fun.cool          | resell    | —          | —             | high           | medium | 3      | Squarespace Domains II LLC                              |
+| fun.florist       | premium   | $118.80    | $118.80       | high           | medium | 3      | namesilo                                                |
+| film.democrat     | available | $7.25      | $7.25         | high           | medium | 4      | namesilo                                                |
+| fun.kids          | resell    | —          | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 317,359 live domains                                 |
+| 1,000-row public sample | 320,488 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 1,213 high-demand names under $2,500                 |
+| Basic exported fields   | 1,211 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Entertainment Domain Names*. Version 2026-10-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Entertainment Domain Names*. Version 2026-10-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
