@@ -191,6 +191,7 @@ add22417-1d6d-4a52-b953-eaab4500beb9,theater.bar,premium,3105,3105,high,medium,7
 c1e12b02-25ad-41df-b6f1-07fdae66aa88,theater.graphics,premium,512,512,high,medium,7,namesilo,,,31/10/2026 07:17
 1f8d81fb-d819-4e10-8bc2-fcc207193ccd,show.storage,available,509.99,529.99,high,high,4,namesilo,,,05/11/2026 13:33
 a60ee89b-5545-43aa-aba0-dfc82d11c73f,entertainment.porn,available,,,high,low,13,,,,23/10/2026 09:25
+af38040c-69cf-4cfc-a0b3-257b2f5ce447,cinema.fun,premium,6900,6900,high,high,6,namesilo,,,06/11/2026 01:00
 71bfb283-8a9c-4cd4-af5a-46b66a631a01,entertainment.black,available,15.73,51.95,high,medium,13,spaceship,,,22/10/2026 19:32
 ec980573-d8db-4572-a379-fdab56efb7d2,theater.casino,available,7.71,148.95,high,medium,7,dynadot,,,31/10/2026 07:17
 7ec21aa7-2925-4cd2-be0e-91e2c8445b79,entertainment.buzz,premium,440,110,high,medium,13,dynadot,,,22/10/2026 19:32
@@ -199,7 +200,6 @@ ec980573-d8db-4572-a379-fdab56efb7d2,theater.casino,available,7.71,148.95,high,m
 5aa4e893-fd60-4fa0-8fb7-95f4f70ab804,entertainment.delivery,available,5.03,58,high,medium,13,dynadot,,,22/10/2026 19:32
 06a6c1bb-d8c2-4f95-b793-98a82d2238e5,entertainment.fish,premium,78.54,78.54,high,medium,13,namesilo,,,22/10/2026 19:32
 1c8cd590-ad4d-4712-b9fd-1395d07793af,entertainment.cheap,available,8.5,36.49,high,medium,13,unstoppable,,,22/10/2026 19:32
-af38040c-69cf-4cfc-a0b3-257b2f5ce447,cinema.fun,premium,5000.2,5500,high,medium,6,unstoppable,,,30/10/2026 22:43
 7fee0726-c1a5-4e0a-a028-fc901b7c7a87,theater.sexy,available,2749.99,2749.99,high,medium,7,namesilo,,,31/10/2026 07:17
 05e27c40-f137-4239-9470-0d08348c80da,theater.sydney,available,58,58,high,medium,7,namesilo,,,31/10/2026 07:17
 daf1592e-6148-4993-8be6-f5d68a5dba43,entertainment.voyage,available,58.99,58.99,high,medium,13,namesilo,,,22/10/2026 19:32
@@ -224,7 +224,7 @@ ff9c7637-2b82-420e-9594-2188183d49e7,entertainment.credit,available,80.2,80.2,hi
 a52d42c3-f649-4fec-8e8e-eb92f8defbb5,show.stream,premium,2587.7,103.7,high,high,4,spaceship,,,05/11/2026 13:33
 06c320ee-6db1-4c70-a0da-c25f43d93db1,theater.limo,available,54.99,54.99,high,medium,7,namesilo,,,31/10/2026 07:17
 919f41cf-49a3-4da0-a0f4-416c5d1fcf26,theater.movie,available,47.99,349.99,high,medium,7,namesilo,,,31/10/2026 07:17
-4ccafaea-5b87-413d-8b44-aaf7d79b4211,cinema.actor,premium,118.8,118.8,high,medium,6,namesilo,,,30/10/2026 22:43
+4ccafaea-5b87-413d-8b44-aaf7d79b4211,cinema.actor,premium,118.8,118.8,high,high,6,namesilo,,,06/11/2026 01:00
 7844cdb5-59f6-47d6-8f72-433adf92d9b8,theater.reviews,premium,242,242,high,medium,7,namesilo,,,31/10/2026 07:17
 8f2608f0-6009-470c-8d2d-78cf76cc2174,show.diet,available,93.35,103.4,high,high,4,spaceship,,,05/11/2026 13:33
 4fc3f719-693f-4853-99b6-c53f4f30a718,entertainment.toys,premium,118.8,118.8,high,medium,13,namesilo,,,22/10/2026 19:32
@@ -283,6 +283,7 @@ e327dd58-90c6-43d6-9aea-fcb6414da23f,theater.football,available,20.9,20.9,high,m
 a81f7ff1-9e40-4cc8-b816-082aa25e8db5,theater.now,premium,640,640,high,medium,7,namesilo,,,31/10/2026 07:17
 f64c56f0-d06b-4c0b-a257-e24cd5edbccb,entertainment.diet,available,93.35,103.4,high,medium,13,spaceship,,,22/10/2026 19:32
 5984feb1-ab3b-48a3-a9c4-5662967f74ad,entertainment.hamburg,available,69.98,73.98,high,medium,13,namecheap,,,22/10/2026 19:32
+76f67939-c43d-42a7-817a-c59131685657,cinema.mov,premium,167.7,167.7,high,high,6,namecheap,,,06/11/2026 01:00
 478d639d-f6e7-47ef-a59d-6e56fb3f29f3,entertainment.eco,premium,3622.7,59.71,high,medium,13,spaceship,,,22/10/2026 19:32
 a1d63532-facf-47b6-b0eb-903a65d3ce10,entertainment.vision,premium,68.51,68.51,high,medium,13,spaceship,,,22/10/2026 19:32
 9e3ba40b-ab8b-4aaf-ba24-56c669f44a07,show.jetzt,available,18.83,18.83,high,high,4,spaceship,,,05/11/2026 13:33
@@ -294,7 +295,6 @@ dbf4bb4a-c5a7-475b-af37-e9242a8dfb22,theater.shopping,premium,512,512,high,mediu
 00478f17-4160-4d62-b083-a8d3414a3cde,entertainment.gift,available,14.99,14.99,high,medium,13,namesilo,,,22/10/2026 19:32
 868ed164-401b-4e19-a0dd-0cd62c9bc776,entertainment.press,premium,2587.7,5175.2,high,medium,13,spaceship,,,22/10/2026 19:32
 d4c667ea-695a-4053-83ad-4194959cca20,entertainment.life,resell,,,high,medium,13,"Spaceship, Inc.",27/07/2023 15:15,27/07/2027 15:15,22/10/2026 19:32
-76f67939-c43d-42a7-817a-c59131685657,cinema.mov,premium,167.7,167.7,high,medium,6,namecheap,,,30/10/2026 22:43
 3789c45f-0f03-454d-8f82-506a30f7f85a,show.clinic,premium,118.8,118.8,high,high,4,namesilo,,,05/11/2026 13:33
 d30213a2-21a7-4f32-8a9f-4b288e018772,entertainment.democrat,available,7.25,7.25,high,medium,13,namesilo,,,22/10/2026 19:32
 c5367f0a-cb9f-4bcc-9e60-01f5d296c111,amusement.buzz,premium,31.25,31.25,high,medium,9,spaceship,,,27/10/2026 00:24
@@ -350,6 +350,7 @@ fc1b366e-d718-4cbb-8254-b1a207f95225,entertainment.phd,premium,159.2,164.77,high
 ccbe2dc3-3aa4-4b33-adfe-78e0abeaf571,amusement.xxx,available,53.72,101.87,high,medium,9,dynadot,,,27/10/2026 00:24
 28144a76-186d-4c7f-8e79-175ce09a4279,theater.diy,premium,640,640,high,medium,7,namesilo,,,31/10/2026 07:17
 d2882c5c-363d-411e-b3eb-136abb5f92df,theater.investments,available,12.99,129.99,high,medium,7,namesilo,,,31/10/2026 07:17
+cf4d4ac7-995a-4a78-ba7b-691ca5dde7ea,cinema.boo,premium,516.67,516.67,high,high,6,spaceship,,,06/11/2026 01:00
 b3e768bc-d60f-461f-82ee-32e66736727e,entertainment.surgery,premium,102.67,102.67,high,medium,13,spaceship,,,22/10/2026 19:32
 526eb3bd-951f-48b5-be62-daf8075dd568,theater.partners,premium,220,220,high,medium,7,dynadot,,,31/10/2026 07:17
 3e495de2-e83f-4176-a8db-916b3ca63ed3,entertainment.broker,available,13.5,29.18,high,medium,13,unstoppable,,,22/10/2026 19:32
@@ -363,7 +364,6 @@ a0bdc44b-876b-437f-bf00-881db999fbe4,entertainment.legal,premium,118.8,118.8,hig
 01370ed9-39d8-4883-98db-2bb5685369df,entertainment.moda,premium,118.8,118.8,high,medium,13,namesilo,,,22/10/2026 19:32
 5032531d-0a03-40ab-95d9-e63f3b92957e,show.poker,premium,68.51,68.51,high,high,4,spaceship,,,05/11/2026 13:33
 896be5d1-7dd5-46ee-9859-8d2bdeebdf9f,amusement.country,available,2298,2450,high,medium,9,namecheap,,,27/10/2026 00:24
-cf4d4ac7-995a-4a78-ba7b-691ca5dde7ea,cinema.boo,premium,516.67,516.67,high,medium,6,spaceship,,,30/10/2026 22:43
 3fcb21a8-1e1c-4201-9079-a8d2eec97f76,fun.mov,premium,516.67,516.67,high,high,3,spaceship,,,02/11/2026 05:02
 27335050-1f25-461a-82de-d0a4d3de2e93,fun.boo,premium,499.2,545.26,high,high,3,unstoppable,,,02/11/2026 05:02
 17aa3f1e-cd70-47ce-ad12-8a3df31915cd,entertainment.bike,available,12.99,38.99,high,medium,13,namesilo,,,22/10/2026 19:32
@@ -423,7 +423,6 @@ c49fc4ec-dc62-4a2c-ac71-137558f76827,show.uno,premium,1035.2,1035.2,high,high,4,
 4077905b-50ac-42f8-8f1e-30a4b60ef603,show.diamonds,available,42.2,42.2,high,high,4,cloudflare,,,05/11/2026 13:33
 80a7e597-596e-4369-a7a3-46cccbea8bd9,entertainment.forum,premium,103.7,103.7,high,medium,13,spaceship,,,22/10/2026 19:32
 dd077647-be0e-460c-b8d7-3de715a7b07e,show.wiki,premium,672.95,672.95,high,high,4,spaceship,,,05/11/2026 13:33
-c9de1124-2250-41a2-a56c-9721dee9283d,cinema.stream,available,,,high,low,6,,,,31/10/2026 09:06
 e4f12182-9f2f-417b-8d29-99596a7ec5e1,entertainment.doctor,available,14.49,116.99,high,medium,13,namesilo,,,22/10/2026 19:32
 577488cc-5c2f-417d-8e16-4d797184165c,television.theatre,available,538.98,620,high,medium,10,namecheap,,,23/10/2026 09:22
 ec6ed698-a629-4418-8a27-a7589fe8daeb,amusement.agency,available,3.6,27.29,high,medium,9,porkbun,,,27/10/2026 00:24
@@ -510,6 +509,7 @@ fcd891eb-e753-458f-a658-becea26fb66c,theater.futbol,available,5.38,13.66,high,me
 74a2f789-1c32-4f26-8340-b5a8ebc21b25,amusement.hockey,available,59.99,59.99,high,medium,9,namesilo,,,27/10/2026 00:24
 91b882d6-b165-4699-9187-314bdb90ef1c,theater.security,available,1999.99,2049.99,high,medium,7,namesilo,,,31/10/2026 07:17
 89c20285-8756-487b-a8bb-956d757aebbe,amusement.viajes,available,80.47,80.47,high,medium,9,dynadot,,,27/10/2026 00:24
+94ef5a3b-54e6-4633-aaca-16ef32d774f1,cinema.me,premium,4140,16.52,high,high,6,namesilo,,,06/11/2026 01:00
 7d5728e0-e673-4e6f-9075-518d4b432117,amusement.car,available,2060.25,2060.25,high,medium,9,porkbun,,,27/10/2026 00:24
 559332fb-2ccf-4a99-8ffd-93b3001d9e08,amusement.boo,available,10.2,10.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 e45d8360-a241-4a23-b780-c0d4feb78636,entertainment.courses,available,2.19,38.99,high,medium,13,namesilo,,,22/10/2026 19:32
@@ -528,7 +528,6 @@ d949c415-ae2c-4bbe-8764-398035acbddd,show.consulting,available,8.48,67.98,high,h
 125e177c-f34d-4971-a3c9-2961b847fa42,amusement.graphics,available,23.99,23.99,high,medium,9,namesilo,,,27/10/2026 00:24
 250441b5-07a9-4ec0-b968-465642f318b5,entertainment.club,premium,3450,17.7,high,medium,13,namesilo,,,22/10/2026 19:32
 df1e7fab-3681-4048-a575-d57e23323da4,amusement.cat,available,18.83,25.04,high,medium,9,spaceship,,,27/10/2026 00:24
-94ef5a3b-54e6-4633-aaca-16ef32d774f1,cinema.me,premium,4140,16.52,high,medium,6,namesilo,,,30/10/2026 22:43
 17beae9b-fa13-4c21-9a58-c3f03addc9b8,theater.cheap,available,8.5,29.18,high,medium,7,unstoppable,,,31/10/2026 07:17
 1812c793-184a-4b2c-b081-0a5885f72906,amusement.forsale,premium,78.54,78.54,high,medium,9,namesilo,,,27/10/2026 00:24
 1bc84038-915a-4ecd-a742-a52b4d594b4f,show.bingo,available,53.99,53.99,high,high,4,namesilo,,,05/11/2026 13:33
@@ -549,6 +548,7 @@ d0b84405-14ab-4ab1-9c3b-23f8ea11e737,amusement.jetzt,available,23.99,23.99,high,
 4e0f4610-3f22-4e4d-9d8f-f7192256727e,entertainment.dad,premium,133.72,133.72,high,medium,13,spaceship,,,22/10/2026 19:32
 d11e54e0-831d-4bd8-8576-f372f19b4b09,amusement.day,available,10.55,10.55,high,medium,9,spaceship,,,27/10/2026 00:24
 86a84eb8-f9e1-463a-9a47-cc3130e457ce,entertainment.realty,available,280.2,280.2,high,medium,13,cloudflare,,,22/10/2026 19:32
+81694dc9-1d92-436c-b239-1208c74faa19,cinema.channel,premium,545.26,545.26,high,high,6,porkbun,,,06/11/2026 01:00
 43bf5f19-26da-402c-b5f9-04f9f7d1852f,film.school,resell,,,high,medium,4,"Name.com, Inc.",28/08/2018 16:12,28/08/2027 16:12,22/10/2026 14:47
 1ebd140d-8b8c-4281-9e2e-3d21a6d11766,theater.dance,premium,118.8,118.8,high,medium,7,namesilo,,,31/10/2026 07:17
 3eddca68-6c95-4a61-89c9-719ed078b86d,film.diy,premium,72.65,103.7,high,medium,4,spaceship,,,22/10/2026 14:47
@@ -560,13 +560,13 @@ b4d34dab-7b87-4232-a3c8-4f5d9301f7ab,theater.photo,premium,103.7,103.7,high,medi
 9e93cf28-c2b0-40d1-963f-6c1e242e82bd,show.lease,premium,118.8,118.8,high,high,4,namesilo,,,05/11/2026 13:33
 d28d55f1-da40-4bde-aad6-25d9fd01b1fe,theater.army,available,17.48,53.98,high,medium,7,namecheap,,,31/10/2026 07:17
 9fdd7374-88ef-4999-9450-45ae73d2c212,show.sucks,premium,2658.67,2658.67,high,high,4,namesilo,,,05/11/2026 13:33
-81694dc9-1d92-436c-b239-1208c74faa19,cinema.channel,premium,516.67,516.67,high,medium,6,spaceship,,,30/10/2026 22:43
 1018a30a-6ba5-4842-940e-d4c6fc53acdf,theater.website,premium,550,1100,high,medium,7,dynadot,,,31/10/2026 07:17
 bc67c9b7-d129-4356-bf52-f47d362f02f1,entertainment.style,available,16.99,38.99,high,medium,13,namesilo,,,22/10/2026 19:32
 c42619cc-e6d9-4cd6-99fc-3058625c03a6,amusement.wtf,available,7,28.2,high,medium,9,unstoppable,,,27/10/2026 00:24
 fd072260-a8da-4e07-b3c0-041fed3c62b7,entertainment.tienda,available,59.99,59.99,high,medium,13,namesilo,,,22/10/2026 19:32
 e340cde7-44f0-4a14-82ae-0851dbeb823e,amusement.shiksha,available,14.99,51.99,high,medium,9,namesilo,,,27/10/2026 00:24
 043be7c8-d1ea-4ddb-8336-8c4f94cf426f,theater.mom,available,1.24,26,high,medium,7,spaceship,,,31/10/2026 07:17
+02ac476f-1907-4d32-b2c9-a6469224c20e,cinema.press,premium,4140,4140,high,high,6,namesilo,,,06/11/2026 01:00
 ff455ae1-0dfd-45b3-a4b0-a858cc7a83ff,amusement.trading,available,19.48,19.48,high,medium,9,dynadot,,,27/10/2026 00:24
 59362136-3143-441d-8478-82f936d9aee2,amusement.cab,available,25.2,25.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 b7026b14-3d4d-4507-b6b2-a0e54d8089a4,amusement.rocks,available,6.93,17.8,high,medium,9,spaceship,,,27/10/2026 00:24
@@ -585,7 +585,7 @@ c991ebdb-17cb-42cc-a284-3e97a2f366b1,amusement.engineering,available,16.99,79.99
 9ff82afd-c70a-42ab-aa7c-816c9eb2d16e,amusement.beer,available,1.5,26.97,high,medium,9,dynadot,,,27/10/2026 00:24
 d1667d39-266e-4e60-a1d5-1f09480e594b,amusement.juegos,available,,,high,low,9,,,,27/10/2026 09:00
 5028381b-a10b-46c6-ab5a-27854e6c5d42,show.flights,premium,512,512,high,high,4,namesilo,,,05/11/2026 13:33
-02ac476f-1907-4d32-b2c9-a6469224c20e,cinema.press,premium,4140,4140,high,medium,6,namesilo,,,30/10/2026 22:43
+3687b701-b008-42b8-bd86-de0040e2a1fd,cinema.rodeo,premium,83,10.55,high,high,6,spaceship,,,06/11/2026 01:00
 998bb715-36a2-463b-8b03-ebb4979abc7d,amusement.fit,available,1.75,26.08,high,medium,9,spaceship,,,27/10/2026 00:24
 fe4e63cf-5d74-4aeb-bbf7-bbae189716a6,entertainment.support,available,21.2,21.2,high,medium,13,cloudflare,,,22/10/2026 19:32
 7e5bf2bd-56c1-4d80-badd-f87bd351bd9f,amusement.host,premium,273.44,546.35,high,medium,9,porkbun,,,27/10/2026 00:24
@@ -597,8 +597,8 @@ e0b54a4b-85d4-4d30-95ca-7cc5dde186a1,theater.qpon,premium,3450,23.54,high,medium
 cfddafec-2604-48c5-8e25-980ce6905246,show.solar,premium,242,242,high,high,4,namesilo,,,05/11/2026 13:33
 0e3fa538-09ff-4d94-ba13-e1b0072468aa,amusement.camp,available,62.99,62.99,high,medium,9,namesilo,,,27/10/2026 00:24
 872aea32-3abf-4cdb-989c-044d14f7e84f,show.lgbt,premium,640,640,high,high,4,namesilo,,,05/11/2026 13:33
-3687b701-b008-42b8-bd86-de0040e2a1fd,cinema.rodeo,premium,96,11.8,high,medium,6,namesilo,,,30/10/2026 22:43
 96efafee-6e8a-42cd-81c3-a46e2d4292bd,film.viajes,available,94.98,124.48,high,medium,4,namecheap,,,22/10/2026 14:47
+cd35f1c7-b5d3-4b65-a6d4-e527437b326e,cinema.reise,available,87.02,87.02,high,high,6,porkbun,,,06/11/2026 01:00
 10d5465a-e566-46f1-98cb-757cb7fef12f,amusement.fans,premium,116,116,high,medium,9,namesilo,,,27/10/2026 00:24
 dc88dafd-550e-4ec6-b1d1-cb5ef48359b5,entertainment.rent,available,17.99,59.99,high,medium,13,namesilo,,,22/10/2026 19:32
 1c092d72-cbbc-4956-a52f-7b86da154820,entertainment.tools,available,18,36.49,high,medium,13,unstoppable,,,22/10/2026 19:32
@@ -621,13 +621,13 @@ cd5ca3c3-3a33-4bea-a286-4e7c0654f0c3,amusement.vodka,available,33.98,43.98,high,
 3c7bbae7-3f9b-4055-a1cb-69762b68d3dd,movie.game,premium,1729,1729,high,medium,5,namesilo,,,05/11/2026 16:33
 af9c12b0-579d-4f80-ad6c-168a59032602,theater.ooo,premium,6900,119.99,high,medium,7,namesilo,,,31/10/2026 07:17
 498c7339-afb5-4d06-b78a-e65d54f0e756,film.you,premium,258.95,258.95,high,medium,4,spaceship,,,22/10/2026 14:47
-cd35f1c7-b5d3-4b65-a6d4-e527437b326e,cinema.reise,available,77.83,77.83,high,medium,6,spaceship,,,30/10/2026 22:43
 5d5e62eb-1daf-4e8e-9728-91da51cabc1a,show.university,premium,102.67,102.67,high,high,4,spaceship,,,05/11/2026 13:33
 4093743f-4f86-462f-868c-0b1ce2651509,theater.reise,available,27.89,97.99,high,medium,7,namesilo,,,31/10/2026 07:17
 758fac8e-c425-4276-9ef2-2cf782183e2c,amusement.guru,available,2.98,61.48,high,medium,9,namecheap,,,27/10/2026 00:24
 f8ecb5df-5bcf-486c-8481-1105e0191dcc,film.space,premium,10000.2,13800,high,medium,4,unstoppable,,,22/10/2026 14:47
 9909ab7b-00db-46d8-b1ac-0cf09ab1ec59,theater.cool,premium,207.2,207.2,high,medium,7,spaceship,,,31/10/2026 07:17
 f3ac9a5e-36d9-48a1-99f3-527c8cb7afc7,show.ngo,available,15.96,15.96,high,high,4,porkbun,,,05/11/2026 13:33
+0b7555d8-540f-4567-aa28-c1b706ea6c2b,cinema.game,available,310.98,547.98,high,high,6,namecheap,,,06/11/2026 01:00
 3f63b999-4e9d-4ad3-a87c-54e9d6d8b18a,entertainment.security,available,1863.2,2000.18,high,medium,13,spaceship,,,22/10/2026 19:32
 babb1c47-5f8a-4f16-bef8-a9f2bca1b6d3,amusement.surf,available,2.19,32.49,high,medium,9,namesilo,,,27/10/2026 00:24
 99f05266-714c-4f33-b40c-b8b92b4d0111,theater.green,premium,258.95,258.95,high,medium,7,spaceship,,,31/10/2026 07:17
@@ -637,20 +637,22 @@ babb1c47-5f8a-4f16-bef8-a9f2bca1b6d3,amusement.surf,available,2.19,32.49,high,me
 4b425524-d46c-474b-9af8-229619ff3f31,theater.auto,available,1999.99,2199,high,medium,7,namesilo,,,31/10/2026 07:17
 26ad0c39-4cdc-4aff-b837-f3fb0b44b88d,amusement.new,available,412.2,412.2,high,medium,9,spaceship,,,27/10/2026 00:24
 dd692a58-158d-44bd-990c-c7244e382919,amusement.coupons,available,5.5,42.2,high,medium,9,unstoppable,,,27/10/2026 00:24
+e868385b-4c15-402b-9707-21d7576f9d4b,cinema.condos,available,58.99,58.99,high,high,6,namesilo,,,06/11/2026 01:00
 a691e3d0-437b-42c6-bffd-0cafa3beb7f1,show.icu,premium,390,780,high,high,4,namecheap,,,05/11/2026 13:33
 728f8afb-8d90-4faf-943f-dd3b00635a11,theater.express,available,11.5,31.25,high,medium,7,unstoppable,,,31/10/2026 07:17
 fb5895a6-11c5-4929-b504-b33eb0271e10,amusement.watch,available,5.99,44.49,high,medium,9,namesilo,,,27/10/2026 00:24
 7a2ed73e-aecc-416b-adde-e0369e70ec40,show.exposed,premium,440,440,high,high,4,dynadot,,,05/11/2026 13:33
 2ed4a1b4-4aae-4d8b-89bf-14b1a61d9726,amusement.gold,available,9.99,99.99,high,medium,9,namesilo,,,27/10/2026 00:24
 f2e4d73f-46d3-496e-a9be-e79f147936e0,amusement.eco,available,47.81,59.71,high,medium,9,spaceship,,,27/10/2026 00:24
+d1a6d491-2600-4f56-a551-f680e2c210a1,cinema.site,premium,1293.95,5175.2,high,high,6,spaceship,,,06/11/2026 01:00
 c80b02b1-7e63-4829-9c78-5eb0663814fd,entertainment.bar,premium,576,576,high,medium,13,namesilo,,,22/10/2026 19:32
 b39c8a5a-2f43-4477-8942-d34363059c96,entertainment.sex,premium,272.8,272.8,high,medium,13,dynadot,,,22/10/2026 19:32
 9c68dd92-6535-4152-8b3d-7f7b85f36642,theater.nexus,premium,257.92,257.92,high,medium,7,spaceship,,,31/10/2026 07:17
+38877866-a04f-4b26-83a2-ebaf2b5c7cf6,cinema.country,available,2140.22,2140.22,high,high,6,dynadot,,,06/11/2026 01:00
 106a78b7-b1c7-41fb-841a-dc8924b848b7,entertainment.host,premium,1552.7,3105.2,high,medium,13,spaceship,,,22/10/2026 19:32
 cb2a3a74-2d83-4dce-9854-9ad1ce2e91e5,film.watch,premium,400.5,414.2,high,medium,4,unstoppable,,,22/10/2026 14:47
 cfe2f663-a3d2-40ba-bc30-c9200b4ecf8c,amusement.christmas,available,1.8,49.98,high,medium,9,namecheap,,,27/10/2026 00:24
 e3d68ed9-d5c9-4789-87f7-734a5a16ce16,theater.clothing,available,35.98,39.98,high,medium,7,namecheap,,,31/10/2026 07:17
-0b7555d8-540f-4567-aa28-c1b706ea6c2b,cinema.game,available,309.99,429.99,high,medium,6,namesilo,,,30/10/2026 22:43
 d9f64306-76e7-406d-97fd-0b5063e451fe,fun.webcam,premium,,,high,high,3,,,,02/11/2026 05:02
 97ef2f81-194a-4148-9995-763b921ae152,entertainment.top,resell,,,high,medium,13,成都西维数码科技有限公司,31/01/2016 18:02,31/01/2027 18:02,22/10/2026 19:32
 a0bb864f-d6b8-4272-a53f-f494a354cfec,theater.law,available,95.99,95.99,high,medium,7,namesilo,,,31/10/2026 07:17
@@ -660,26 +662,24 @@ f8b48f5a-c718-44c2-ae58-75f530799115,show.moda,premium,118.8,118.8,high,high,4,n
 7ad77016-b943-43bd-99fe-f48d1d34b4db,film.foundation,premium,207.2,207.2,high,medium,4,spaceship,,,22/10/2026 14:47
 6a627979-ac2d-4b16-9d0e-a4879751dafd,performance.digital,resell,,,high,low,11,,,,20/10/2026 03:19
 7b859cdb-333e-4fc1-bec1-6e6edcf5cc04,theater.theatre,available,509.99,529.99,high,medium,7,namesilo,,,31/10/2026 07:17
+b5ac04fc-5900-42b6-8d2d-fcb84736224d,cinema.express,available,9.98,54.98,high,high,6,namecheap,,,06/11/2026 01:00
 fd418caa-fd0f-46e0-a258-76dcb52cc4a7,amusement.to,available,39.98,39.98,high,medium,9,namecheap,,,27/10/2026 00:24
 071c879d-5fe3-42dd-b028-86605ee98fb3,show.gifts,premium,220,220,high,high,4,dynadot,,,05/11/2026 13:33
 46ef2139-fa32-4d96-ae15-e1a99facc212,show.living,premium,302.5,302.5,high,high,4,namesilo,,,05/11/2026 13:33
 5dd783fd-4448-4fca-9f8c-d85967df13b1,amusement.my,available,2.98,38.98,high,low,9,namecheap,,,22/10/2026 11:44
 88722e0c-4c2c-4778-86a4-441fc5afb76e,performance.cricket,premium,448,53.92,high,low,11,namesilo,,,20/10/2026 03:19
 fe30c120-39c9-4384-ad4f-0af0447ea1a4,film.software,premium,414.2,414.2,high,medium,4,spaceship,,,22/10/2026 14:47
-e868385b-4c15-402b-9707-21d7576f9d4b,cinema.condos,available,53.72,53.72,high,medium,6,dynadot,,,30/10/2026 22:43
 6d0bff57-ba9e-420c-8ba6-8f66b9bc9024,entertainment.bet,premium,500.5,517.7,high,medium,13,unstoppable,,,22/10/2026 19:32
 0b0150b6-cd5b-4668-a04b-1c3d7b15f560,theater.diamonds,available,54.99,54.99,high,medium,7,namesilo,,,31/10/2026 07:17
 f9a25ff2-3c16-474e-8a74-a30af744fe9e,show.club,premium,2729.67,16.9,high,high,4,porkbun,,,05/11/2026 13:33
 72b6a5cc-fc41-48d2-a2bb-1d6dda5093da,entertainment.healthcare,premium,242,242,high,medium,13,namesilo,,,22/10/2026 19:32
-d1a6d491-2600-4f56-a551-f680e2c210a1,cinema.site,premium,1293.95,5175.2,high,medium,6,spaceship,,,30/10/2026 22:43
 3c507d70-461d-4fe3-8fa7-f5b40d037cf7,show.fitness,premium,828.2,828.2,high,high,4,spaceship,,,05/11/2026 13:33
 ad8e63b4-864f-440a-bc69-d2b243752fe3,film.meme,premium,672.95,672.95,high,medium,4,spaceship,,,22/10/2026 14:47
-38877866-a04f-4b26-83a2-ebaf2b5c7cf6,cinema.country,available,2064.2,2064.2,high,medium,6,spaceship,,,30/10/2026 22:43
 d97deb90-b980-4f1b-aada-bf21f3dba1d3,television.fm,available,88.99,88.99,high,medium,10,namesilo,,,23/10/2026 09:22
 b8a30a7d-a0ed-4dfe-b3f8-0fe2ad393ca8,amusement.digital,available,2.98,55.98,high,medium,9,namecheap,,,27/10/2026 00:24
 a28a7618-c023-443f-8c42-263cb48c11c8,film.hosting,available,279.65,341.75,high,medium,4,spaceship,,,22/10/2026 14:47
-15bff0d8-d355-4b16-9912-c50b88f97d5c,cinema.law,available,83,83,high,medium,6,spaceship,,,30/10/2026 22:43
-b5ac04fc-5900-42b6-8d2d-fcb84736224d,cinema.express,available,12.49,39.99,high,medium,6,namesilo,,,30/10/2026 22:43
+15bff0d8-d355-4b16-9912-c50b88f97d5c,cinema.law,available,83,83,high,high,6,spaceship,,,06/11/2026 01:00
+f75aa991-e429-4bef-a8f8-9e791487bab2,cinema.cheap,available,5.66,29.35,high,high,6,porkbun,,,06/11/2026 01:00
 aeab2e9a-3823-4834-8321-f6549979c1f9,amusement.free,premium,116,116,high,medium,9,namesilo,,,27/10/2026 00:24
 c4c51039-4e13-419b-b5f2-40560b642bea,film.day,premium,499.2,516.67,high,medium,4,unstoppable,,,22/10/2026 14:47
 a8b3ae61-3908-46ec-a521-1cdbfe66adb2,film.limited,premium,108.9,108.9,high,medium,4,dynadot,,,22/10/2026 14:47
@@ -688,13 +688,13 @@ a58298df-a789-421c-ac1b-58134ee7d6f4,theater.kiwi,premium,78,78,high,medium,7,na
 f8cd2b73-6192-4426-a0e4-bd5a1078e584,film.gifts,premium,68.51,68.51,high,medium,4,spaceship,,,22/10/2026 14:47
 6f9561f6-f749-46f6-950d-47f4ab9e849f,entertainment.rehab,premium,207.2,207.2,high,medium,13,spaceship,,,22/10/2026 19:32
 8fce5e4f-3c8d-4850-9b1b-f04b9ca5f287,movie.theater,premium,414.2,414.2,high,medium,5,spaceship,,,05/11/2026 16:33
+b8fcf1df-fbd2-4f9a-be2b-194f85532756,cinema.new,available,412.46,412.46,high,high,6,porkbun,,,06/11/2026 01:00
 295e4713-3323-4be9-ba8c-6f9193abdb3c,show.sex,premium,641.9,641.9,high,high,4,spaceship,,,05/11/2026 13:33
 14d0e7ab-53db-4885-b3ec-c83cabca40f6,amusement.reisen,available,19.05,19.05,high,medium,9,porkbun,,,27/10/2026 00:24
 2747bd13-700a-4481-9f80-6381f16f5491,amusement.earth,premium,71.4,71.4,high,medium,9,namesilo,,,27/10/2026 00:24
 834dcec5-e1ff-44a1-a07b-a5164871b797,entertainment.clinic,available,20.99,64.99,high,medium,13,namesilo,,,22/10/2026 19:32
 814de2c3-c6ea-45db-901e-ba30f115f2c9,theater.fans,premium,116,116,high,medium,7,namesilo,,,31/10/2026 07:17
-58acefce-9204-43d2-9bf7-9fc9061deebf,cinema.construction,available,38.99,38.99,high,medium,6,namesilo,,,30/10/2026 22:43
-f75aa991-e429-4bef-a8f8-9e791487bab2,cinema.cheap,available,8.5,29.18,high,medium,6,unstoppable,,,30/10/2026 22:43
+58acefce-9204-43d2-9bf7-9fc9061deebf,cinema.construction,available,8.78,35.53,high,high,6,dynadot,,,06/11/2026 01:00
 5e26a12d-2293-4b8a-9a21-9544f4c0a722,show.dealer,premium,2015,2600,high,high,4,namecheap,,,05/11/2026 13:33
 0d41a178-805d-458d-b3ff-4e47d6082563,film.email,premium,128.7,128.7,high,medium,4,namecheap,,,22/10/2026 14:47
 ce061781-1181-4103-801a-6f645f8e578c,amusement.monster,available,1.18,13.97,high,medium,9,spaceship,,,27/10/2026 00:24
@@ -705,18 +705,20 @@ ce061781-1181-4103-801a-6f645f8e578c,amusement.monster,available,1.18,13.97,high
 d603c85d-36a0-4a79-b42b-f425c3aa6b1a,amusement.srl,available,31.99,31.99,high,medium,9,namesilo,,,27/10/2026 00:24
 9a6b25ae-05ac-4cce-a32f-e7d5b81359f0,amusement.lighting,available,18.2,18.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 cef95b65-d708-49d7-bf46-632842e5dbe3,show.gratis,available,18.83,18.83,high,high,4,spaceship,,,05/11/2026 13:33
-b8fcf1df-fbd2-4f9a-be2b-194f85532756,cinema.new,available,412.2,412.2,high,medium,6,spaceship,,,30/10/2026 22:43
 46b17643-709a-41cd-9e73-24b77a9ebf40,show.host,premium,2587.7,5175.2,high,high,4,spaceship,,,05/11/2026 13:33
 8dbd6410-b280-4c8c-8d0f-70a5f410fbf5,amusement.zone,available,30.2,30.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 875f40b9-c6f7-4626-84b7-f3cf954c55db,film.rsvp,premium,648.7,648.7,high,medium,4,namecheap,,,22/10/2026 14:47
 50655553-b3dd-4e78-af26-bf97929a41ef,show.hosting,premium,1729,1729,high,high,4,namesilo,,,05/11/2026 13:33
+33441d01-80c4-49f7-859d-220d31fe6574,cinema.reviews,premium,102.67,102.67,high,high,6,spaceship,,,06/11/2026 01:00
 d3adaff3-f59a-47bf-b3a0-275171731056,leisure.movie,available,46,279.65,high,low,7,unstoppable,,,08/10/2026 12:54
 d0f7e017-af6a-4f23-a9e1-eac5d3e0be47,television.berlin,available,79.98,89.98,high,medium,10,namecheap,,,23/10/2026 09:22
 943d9f5c-5c57-44d9-af6c-d5c67ea9ff8a,amusement.london,available,31.99,31.99,high,medium,9,namesilo,,,27/10/2026 00:24
 daea65a0-f9ea-40b2-a8f8-c54108069b9d,entertainment.how,premium,42.9,42.9,high,medium,13,dynadot,,,22/10/2026 19:32
+a21ff793-b9f4-4929-90dc-4437844440b9,cinema.gmbh,available,59.99,59.99,high,high,6,namesilo,,,06/11/2026 01:00
 4e4d625c-218e-434e-a5bd-6c9c82045ef5,theater.sale,premium,118.8,118.8,high,medium,7,namesilo,,,31/10/2026 07:17
 18f6524a-20dc-416f-8e60-693158d2ae10,show.car,available,1863.2,2064.2,high,high,4,spaceship,,,05/11/2026 13:33
 32f7ecff-be38-44d6-a413-8eb1166963ec,amusement.place,available,17.8,17.8,high,medium,9,spaceship,,,27/10/2026 00:24
+3c1c0491-6e29-45fa-9337-20e2f78a77f3,cinema.hot,premium,3450,3450,high,high,6,namesilo,,,06/11/2026 01:00
 72fc299d-0795-447e-a11c-f22242465916,film.uno,premium,6500,6500,high,medium,4,namecheap,,,22/10/2026 14:47
 d7e52676-4bdb-44c2-8f1a-efce746be27a,entertainment.games,premium,51.43,102.67,high,medium,13,spaceship,,,22/10/2026 19:32
 3dcd3411-774d-4e17-b382-6f80b1103e4d,amusement.tax,available,7.96,54.02,high,medium,9,spaceship,,,27/10/2026 00:24
@@ -731,13 +733,12 @@ e4958a38-2b91-4697-bff7-25b1bb0b7e56,show.app,premium,,,high,high,4,InterNetX Gm
 58a6f601-9f49-4e71-8346-13bac3427803,theater.blue,available,19.99,24.99,high,medium,7,namesilo,,,31/10/2026 07:17
 a446caa7-901f-4f6c-9665-09b6835058dd,entertainment.flowers,available,93.35,103.4,high,medium,13,spaceship,,,22/10/2026 19:32
 de9e0dd3-d5b5-48ea-8afc-6de8367ae344,film.art,available,,,high,low,4,,,,23/10/2026 09:27
-33441d01-80c4-49f7-859d-220d31fe6574,cinema.reviews,premium,118.8,118.8,high,medium,6,namesilo,,,30/10/2026 22:43
+cee324b8-ea71-4e76-bcad-a42fc1dc1191,cinema.guitars,available,100.2,100.2,high,high,6,cloudflare,,,06/11/2026 01:00
 bebe7c32-38ae-4ec3-8d3f-580c7f7c77c5,show.graphics,premium,102.67,102.67,high,high,4,spaceship,,,05/11/2026 13:33
-a21ff793-b9f4-4929-90dc-4437844440b9,cinema.gmbh,available,36.43,36.43,high,medium,6,spaceship,,,30/10/2026 22:43
 150a24d1-467f-44c1-8af5-b00983f92931,amusement.giving,available,7.48,35.98,high,medium,9,namecheap,,,27/10/2026 00:24
 36204df4-1155-464c-b510-3d1ccedb60f0,fun.qpon,premium,3450,23.54,high,high,3,namesilo,,,02/11/2026 05:02
-3c1c0491-6e29-45fa-9337-20e2f78a77f3,cinema.hot,premium,3450,3450,high,medium,6,namesilo,,,30/10/2026 22:43
 c9fc462f-1199-451d-86a0-46d5ac338b3b,amusement.hot,premium,116,116,high,medium,9,namesilo,,,27/10/2026 00:24
+43d58a76-ba71-41c0-8760-0d723562ce2b,cinema.republican,available,7.25,7.25,high,high,6,namesilo,,,06/11/2026 01:00
 a9a18384-0e02-4418-87aa-1f5e05b8e34a,theater.lgbt,premium,1092.85,2183.84,high,medium,7,porkbun,,,31/10/2026 07:17
 5ba49027-3a20-4622-802c-7de3318c40f9,fun.deal,premium,1035.2,1035.2,high,high,3,spaceship,,,02/11/2026 05:02
 93abb557-d038-4d01-8962-9a0eeea92d0b,amusement.blue,available,13.98,36.48,high,medium,9,namecheap,,,27/10/2026 00:24
@@ -750,6 +751,7 @@ c568412d-9f44-4e00-8f8e-301b8e0732ca,amusement.realty,available,109.99,299,high,
 165d421a-73a6-46f8-8010-f515078620f7,theater.education,premium,78.54,78.54,high,medium,7,namesilo,,,31/10/2026 07:17
 83df651c-cafb-4758-a5de-58ce46fa36e0,show.expert,premium,828.2,828.2,high,high,4,spaceship,,,05/11/2026 13:33
 475e6787-6bfc-448d-baf4-34ce2ec0f638,amusement.delivery,available,48.2,48.2,high,medium,9,cloudflare,,,27/10/2026 00:24
+623620ac-2655-46c5-8a9e-75340b2ae139,cinema.catering,available,31.25,31.25,high,high,6,spaceship,,,06/11/2026 01:00
 60d2392d-4500-45e9-a889-b91193249d79,entertainment.cab,available,25.2,25.2,high,medium,13,cloudflare,,,22/10/2026 19:32
 fdc16f09-80aa-471c-9251-c4e9cfab072f,performance.dance,available,9.85,25.9,high,low,11,dynadot,,,20/10/2026 03:19
 eefea8de-20f6-4854-83ec-5701264afe76,television.party,premium,5500,110,high,medium,10,dynadot,,,23/10/2026 09:22
@@ -757,7 +759,7 @@ eefea8de-20f6-4854-83ec-5701264afe76,television.party,premium,5500,110,high,medi
 ecd48b30-a1d1-4082-9d92-45567acb7fec,amusement.cooking,available,26.26,26.26,high,medium,9,porkbun,,,27/10/2026 00:24
 0adb2775-fd74-4169-afae-9ab9c563c432,amusement.deals,available,30.2,30.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 0b1a187d-e3d6-4dae-9eb5-a81cccece103,film.talk,premium,1035.2,1035.2,high,medium,4,spaceship,,,22/10/2026 14:47
-cee324b8-ea71-4e76-bcad-a42fc1dc1191,cinema.guitars,available,93.35,103.4,high,medium,6,spaceship,,,30/10/2026 22:43
+ddb34c33-f989-4d23-afb6-3ffb3bbf89b7,cinema.vin,available,46.2,46.2,high,high,6,cloudflare,,,06/11/2026 01:00
 11a08fb5-ab1b-4ec1-ad91-fb355320ec85,movie.berlin,available,79.98,89.98,high,medium,5,namecheap,,,05/11/2026 16:33
 988dc9a4-d986-4545-a58d-080a84068745,amusement.software,available,10.55,33.32,high,medium,9,spaceship,,,27/10/2026 00:24
 a6acf93d-3a2e-4cce-8320-fad2ec461716,theater.broker,available,13.5,32.44,high,medium,7,unstoppable,,,31/10/2026 07:17
@@ -768,19 +770,19 @@ e90fe16e-7186-4e94-bf6e-45e0a5b7cb1b,movie.onl,premium,302.5,640,high,medium,5,n
 316afa08-4283-4eec-a5db-bed09c6953aa,film.qpon,premium,2750,21.94,high,medium,4,dynadot,,,22/10/2026 14:47
 d469014b-d703-44cc-928e-e3f1f2f7ea0f,film.democrat,available,5.38,26.08,high,medium,4,spaceship,,,22/10/2026 14:47
 37e42d28-9866-4828-bf54-fe64786a9da7,movie.events,premium,512,512,high,medium,5,namesilo,,,05/11/2026 16:33
-43d58a76-ba71-41c0-8760-0d723562ce2b,cinema.republican,available,7.25,7.25,high,medium,6,namesilo,,,30/10/2026 22:43
 9d6ea47f-2436-4ddc-807a-4686e0e9a9ff,entertainment.land,available,5.38,33.32,high,medium,13,spaceship,,,22/10/2026 19:32
 ba0415d1-8c71-46cc-9909-dfc8e7975c62,television.vegas,available,18.99,43.99,high,medium,10,namesilo,,,23/10/2026 09:22
 98f10b44-51c5-415b-80ce-198dbef33667,film.flights,premium,68.51,68.51,high,medium,4,spaceship,,,22/10/2026 14:47
 26b57ef0-a0e7-4806-9b56-c281fb3ad443,amusement.college,available,10.3,52.01,high,medium,9,porkbun,,,27/10/2026 00:24
 ccdbfcbc-8ea6-44d2-baa1-e6b1ae100320,television.host,premium,1552.7,3105.2,high,medium,10,spaceship,,,23/10/2026 09:22
-623620ac-2655-46c5-8a9e-75340b2ae139,cinema.catering,available,31.25,31.25,high,medium,6,spaceship,,,30/10/2026 22:43
+ea3f384c-2eb4-448f-82be-326fda07ec13,cinema.melbourne,available,58,58,high,high,6,namesilo,,,06/11/2026 01:00
 d6d96cb2-f450-40ff-92dc-7472da21f46e,performance.motorcycles,resell,,,high,low,11,Porkbun LLC,22/12/2025 15:01,22/12/2026 23:59,20/10/2026 03:19
 8e9e85f0-f4f2-4eeb-b326-590d3d4371eb,amusement.ag,available,89.99,79.99,high,medium,9,namesilo,,,27/10/2026 00:24
+7cef93da-75cd-4767-90c0-d14b412dd16e,cinema.page,premium,499.2,648.7,high,high,6,unstoppable,,,06/11/2026 01:00
 3216ab78-9823-4ecd-9f55-27ebb015ca1e,theater.parts,premium,102.67,102.67,high,medium,7,spaceship,,,31/10/2026 07:17
 a1a12b7d-8bba-4380-8a29-c557c148ba86,entertainment.airforce,available,103.99,103.99,high,medium,13,namesilo,,,22/10/2026 19:32
+a11ba869-bf0d-4251-990b-90165ad50b0c,cinema.ryukyu,available,17.98,22.98,high,high,6,namecheap,,,06/11/2026 01:00
 fc911be9-de5e-49f5-81a5-7529e61d210d,theater.fun,premium,2500.2,3450,high,medium,7,unstoppable,,,31/10/2026 07:17
-ddb34c33-f989-4d23-afb6-3ffb3bbf89b7,cinema.vin,available,6.69,53.04,high,medium,6,porkbun,,,30/10/2026 22:43
 a9ca91b4-09ea-4fef-9cf9-508a3f42cfae,entertainment.archi,available,18.5,147.98,high,medium,13,unstoppable,,,22/10/2026 19:32
 df8e4229-85d6-4f2a-bbda-94c87f013041,entertainment.mba,available,17,30.2,high,medium,13,unstoppable,,,22/10/2026 19:32
 d5bca016-6b29-4654-876f-0c22fa491215,film.place,resell,,,high,medium,4,1API GmbH,24/09/2014 16:00,24/09/2027 16:00,22/10/2026 14:47
@@ -789,12 +791,14 @@ e51955ae-e4cf-4c30-b268-cbbdd39921a5,entertainment.furniture,premium,854,854,hig
 1ae03321-9442-45a8-9c5f-36e9ccbea3ff,fun.bar,premium,3260.45,4657.7,high,high,3,spaceship,,,02/11/2026 05:02
 d4db9d75-c5e4-437e-b7fe-9ac737d1cb0f,amusement.zip,premium,32.18,32.18,high,medium,9,porkbun,,,27/10/2026 00:24
 d0403402-d345-48dd-88d2-de1b22d5a0eb,fun.pw,premium,2500,2587.5,high,high,3,unstoppable,,,02/11/2026 05:02
+56fca72e-669c-48ed-bdfb-46f5df3b2582,cinema.hockey,available,59.99,59.99,high,high,6,namesilo,,,06/11/2026 01:00
 40e6ada3-50bb-466c-a23c-dadc38e417a4,theater.surgery,premium,102.67,102.67,high,medium,7,spaceship,,,31/10/2026 07:17
 83acfb06-3c85-477d-84eb-684590868b6d,amusement.berlin,available,54.07,54.07,high,medium,9,dynadot,,,27/10/2026 00:24
 dae34d8d-90f8-4a82-a29f-d5a2cb7b5b13,film.blue,resell,,,high,medium,4,Unstoppable Domains Inc,04/03/2023 15:15,04/03/2027 15:15,22/10/2026 14:47
 586e142f-429d-4b07-90a7-4a00c91a1698,film.webcam,available,,,high,low,4,,,,23/10/2026 09:27
 ee9f29dc-d26c-4029-b979-7613bb703756,theater.cfd,premium,63.25,126.5,high,medium,7,dynadot,,,31/10/2026 07:17
 a1a5fa28-9ede-4ad8-930d-cccb79dcc97d,television.news,premium,1107,1107,high,medium,10,namesilo,,,23/10/2026 09:22
+8fde09d0-e157-4723-8c32-d86a61db39ad,cinema.car,available,1999.99,2199,high,high,6,namesilo,,,06/11/2026 01:00
 266a405a-2a4c-4762-a527-5754d2f4226f,amusement.faith,premium,517.7,67.48,high,medium,9,spaceship,,,27/10/2026 00:24
 94e42042-c476-484d-9f1d-556945a19820,game.guitars,available,108.98,159.98,high,high,4,namecheap,,,01/11/2026 21:37
 d937eeab-8bfa-4211-af6a-f9bc78f72dbf,entertainment.wtf,premium,207.2,207.2,high,medium,13,spaceship,,,22/10/2026 19:32
@@ -803,16 +807,14 @@ d937eeab-8bfa-4211-af6a-f9bc78f72dbf,entertainment.wtf,premium,207.2,207.2,high,
 c90870ec-7255-49f5-b7b6-a9b6580bef60,entertainment.singles,available,9,27.11,high,medium,13,unstoppable,,,22/10/2026 19:32
 6c8163ee-3932-4d24-97cf-1077bae2fdb9,entertainment.blog,premium,517.7,2070.2,high,medium,13,spaceship,,,22/10/2026 19:32
 5a0fc79a-a333-4d87-a21c-78690158b8ad,entertainment.foo,premium,76.7,76.7,high,medium,13,namecheap,,,22/10/2026 19:32
-ea3f384c-2eb4-448f-82be-326fda07ec13,cinema.melbourne,available,58,58,high,medium,6,namesilo,,,30/10/2026 22:43
-7cef93da-75cd-4767-90c0-d14b412dd16e,cinema.page,premium,648.7,648.7,high,medium,6,namecheap,,,30/10/2026 22:43
 000c10dc-13be-4eb2-9f28-47f9024d1e7a,entertainment.art,premium,3450,83.3,high,medium,13,namesilo,,,22/10/2026 19:32
 1b8afcde-2393-4d2c-8eff-71d033f31f47,show.day,premium,545.26,545.26,high,high,4,porkbun,,,05/11/2026 13:33
 eb04b027-8f39-4493-95a6-340f49d2a97b,theater.energy,available,90.2,90.2,high,medium,7,cloudflare,,,31/10/2026 07:17
 2445956c-5290-417e-b3a2-6137b5a55656,entertainment.lease,premium,207.2,207.2,high,medium,13,spaceship,,,22/10/2026 19:32
 f51f5966-c844-4903-bbe1-9c6eb3c7f61a,theater.vacations,premium,102.67,102.67,high,medium,7,spaceship,,,31/10/2026 07:17
-a11ba869-bf0d-4251-990b-90165ad50b0c,cinema.ryukyu,available,17.98,22.98,high,medium,6,namecheap,,,30/10/2026 22:43
 1a75872e-edfd-42ef-b406-d09c3d24e87d,television.cricket,available,23.59,23.59,high,medium,10,namesilo,,,23/10/2026 09:22
 f132c16b-e988-4158-ab6f-d524dc2f5bca,show.memorial,available,134.99,134.99,high,high,4,namesilo,,,05/11/2026 13:33
+bc55a327-893a-462d-95f2-9e7d584c4e55,cinema.gifts,premium,207.2,207.2,high,high,6,spaceship,,,06/11/2026 01:00
 317d955e-6e77-4bb5-b7ea-f1504a5d0c84,show.condos,premium,102.67,102.67,high,high,4,spaceship,,,05/11/2026 13:33
 d215fbdd-d771-409b-8185-57a7b09f444a,theater.cards,premium,102.67,102.67,high,medium,7,spaceship,,,31/10/2026 07:17
 f0dbc726-88fe-4ff9-aeb8-ebd727400b84,theater.shoes,available,64.99,64.99,high,medium,7,namesilo,,,31/10/2026 07:17
@@ -821,7 +823,6 @@ bf1b72e1-5499-4331-b117-3e1991defafb,theater.food,premium,362.45,517.7,high,medi
 6dbea84e-456e-49a4-b2bb-2513ad8af764,theater.giving,available,7.48,35.98,high,medium,7,namecheap,,,31/10/2026 07:17
 d5494ff8-34c8-42ce-8857-28cdd8bb4a25,film.zone,resell,,,high,medium,4,Porkbun LLC,08/02/2025 17:35,08/02/2027 17:35,22/10/2026 14:47
 ffd3b7dd-1c27-4d1c-ab71-3e6fc14e2305,film.courses,premium,6500,6500,high,medium,4,namecheap,,,22/10/2026 14:47
-56fca72e-669c-48ed-bdfb-46f5df3b2582,cinema.hockey,available,47.81,47.81,high,medium,6,spaceship,,,30/10/2026 22:43
 a148f449-c42c-4d12-a0bf-ef862e129581,film.shopping,available,8.24,24.83,high,medium,4,dynadot,,,22/10/2026 14:47
 5d013237-a664-4722-967a-2ca323d1742d,show.fund,premium,78.54,78.54,high,high,4,namesilo,,,05/11/2026 13:33
 7f307d09-841a-430a-a97c-887d0f176a0d,performance.lighting,resell,,,high,low,11,Dynadot Inc,15/04/2021 16:32,15/04/2027 16:32,20/10/2026 03:19
@@ -829,26 +830,25 @@ d8fe9d45-86eb-4ac6-b771-12299c86af38,theater.video,premium,51.43,102.67,high,med
 bf164cb8-4649-421c-aa89-90295c21d50c,fun.accountant,premium,517.7,67.48,high,high,3,spaceship,,,02/11/2026 05:02
 3abff164-0576-4839-b0da-0cef19a0a84e,performance.solutions,resell,,,high,low,11,Dynadot Inc,18/08/2019 09:43,18/08/2027 09:43,20/10/2026 03:19
 b848fe88-459c-454a-b2a6-c5f19d512801,theater.family,premium,118.8,118.8,high,medium,7,namesilo,,,31/10/2026 07:17
-8fde09d0-e157-4723-8c32-d86a61db39ad,cinema.car,available,1863.2,2064.2,high,medium,6,spaceship,,,30/10/2026 22:43
 cb439d86-5719-47b4-8efc-5eae5df70ffe,amusement.tech,premium,258.95,1035.2,high,medium,9,spaceship,,,27/10/2026 00:24
 428d8424-1523-4c2a-a8db-bce45fbbd04a,amusement.racing,available,10.18,10.18,high,medium,9,cloudflare,,,27/10/2026 00:24
 693bc17d-4e82-4f10-be39-fd510e353496,television.land,available,5.38,33.32,high,medium,10,spaceship,,,23/10/2026 09:22
-cef9ab7b-0ac6-41b2-945a-3d81e88e2e08,cinema.florist,available,25.2,25.2,high,medium,6,cloudflare,,,30/10/2026 22:43
+cef9ab7b-0ac6-41b2-945a-3d81e88e2e08,cinema.florist,available,8.24,26.26,high,high,6,porkbun,,,06/11/2026 01:00
 f5fff03b-b86d-4e44-bd3f-ae80e55796f5,theater.study,premium,51.95,51.95,high,medium,7,spaceship,,,31/10/2026 07:17
 1aabd21f-0f0e-4f8b-a2ed-f76f77a88104,entertainment.im,resell,,,high,medium,13,,,09/06/2027 00:59,22/10/2026 19:32
 0fb0e987-b323-4752-905e-3e61c8e271cb,show.review,premium,5175.2,103.7,high,high,4,spaceship,,,05/11/2026 13:33
 661c0c4f-7d5d-4090-95a3-ad81575c41a7,theater.black,available,27.99,64.99,high,medium,7,namesilo,,,31/10/2026 07:17
 62936e58-dcd8-4fbe-9cd4-8c644e88b74f,amusement.store,premium,68.75,273.44,high,medium,9,porkbun,,,27/10/2026 00:24
 fc657291-9c26-443c-ac79-3fb1aad25065,show.meme,premium,362.45,362.45,high,high,4,spaceship,,,05/11/2026 13:33
+50ebb98a-83e3-45e8-895e-d3735439885f,cinema.theatre,available,538.98,620,high,high,6,namecheap,,,06/11/2026 01:00
 89a7a257-3ac2-4c4a-bf5a-9283296d26f4,fun.dance,premium,,,high,high,3,"GoDaddy.com, LLC",03/04/2025 00:36,03/04/2027 00:36,02/11/2026 05:02
 836b90be-e7ed-4cb1-9f95-7662f4511c70,theater.hospital,available,45.74,45.74,high,medium,7,spaceship,,,31/10/2026 07:17
 918dc9e9-7bdc-4235-b46c-7b067c7b67f2,fun.immo,premium,128.7,128.7,high,high,3,namecheap,,,02/11/2026 05:02
-16b9ce1d-d3d8-4554-ae2e-a2f0b59d940b,cinema.pet,available,20.2,20.2,high,medium,6,cloudflare,,,30/10/2026 22:43
+16b9ce1d-d3d8-4554-ae2e-a2f0b59d940b,cinema.pet,available,20.2,20.2,high,high,6,cloudflare,,,06/11/2026 01:00
 590dbf2f-bc18-4365-9703-e46ca85ea48d,entertainment.cooking,available,26.97,26.97,high,medium,13,dynadot,,,22/10/2026 19:32
 2406d870-b45b-4948-ad04-030faa2d6f20,entertainment.rodeo,available,12.99,12.99,high,medium,13,namesilo,,,22/10/2026 19:32
 8d6f6e56-7113-4a0f-92c2-9379dff362d8,theater.hosting,available,300.2,300.2,high,medium,7,cloudflare,,,31/10/2026 07:17
 9577eb0f-f703-4313-ace2-108b89bf5630,film.nyc,available,,,high,low,4,,,,23/10/2026 09:27
-bc55a327-893a-462d-95f2-9e7d584c4e55,cinema.gifts,premium,207.2,207.2,high,medium,6,spaceship,,,30/10/2026 22:43
 01b223b0-9d00-429c-ab20-55e27fdf5002,theater.news,premium,1000.5,1035.2,high,medium,7,unstoppable,,,31/10/2026 07:17
 72a07bb4-574e-48d8-94b6-684a98e5fe4c,entertainment.flights,available,20.9,46.78,high,medium,13,spaceship,,,22/10/2026 19:32
 f2337a54-37e0-4e7e-840a-1bb86310b546,movie.ski,premium,4140,4140,high,medium,5,namesilo,,,05/11/2026 16:33
@@ -864,32 +864,35 @@ e36776f4-e7be-4641-9d05-0ab240805906,show.lawyer,premium,242,242,high,high,4,nam
 e5237e24-8c60-48ab-a1ed-48325b1c141c,film.computer,available,22.5,31.25,high,medium,4,unstoppable,,,22/10/2026 14:47
 7b397f23-f2d1-4c50-97f9-3b0921e3fc68,amusement.accountant,available,20.88,20.88,high,medium,9,spaceship,,,27/10/2026 00:24
 aa590aed-6786-4bf0-a3cb-a2da6529aaa5,show.audio,available,104.99,114.99,high,high,4,namesilo,,,05/11/2026 13:33
-50ebb98a-83e3-45e8-895e-d3735439885f,cinema.theatre,available,465.95,500.18,high,medium,6,spaceship,,,30/10/2026 22:43
 5e701598-1001-4c01-9539-e270707067b2,film.institute,premium,102.67,102.67,high,medium,4,spaceship,,,22/10/2026 14:47
 c58bd5ca-8019-4ba3-afe0-ae2d9e2e772b,movie.photos,premium,118.8,118.8,high,medium,5,namesilo,,,05/11/2026 16:33
 823e183c-83a2-4a32-bdaa-f7589237b443,amusement.party,premium,448,53.92,high,medium,9,namesilo,,,27/10/2026 00:24
 35ecaca3-495c-415d-a1d0-e52fc15e3b29,film.today,resell,,,high,medium,4,"Sav.com, LLC - 18",02/10/2025 15:15,02/10/2027 15:15,22/10/2026 14:47
 a27f5232-6f34-49c6-ac49-7b3d9ec1976f,show.financial,premium,102.67,102.67,high,high,4,spaceship,,,05/11/2026 13:33
 7e4b1729-3f4e-48d6-98a1-c2a9581daf1a,fun.creditcard,premium,,,high,high,3,Squarespace Domains II LLC,05/03/2021 02:12,05/03/2027 02:12,02/11/2026 05:02
+0f613b13-4a89-4b24-94ba-47bf7d433c66,cinema.forex,available,13.5,83,high,high,6,unstoppable,,,06/11/2026 01:00
 e4df8e58-15ab-40ab-bdfe-3314339ecd9b,television.holiday,available,64.99,64.99,high,medium,10,namesilo,,,23/10/2026 09:22
 7d27804a-b8ad-44bf-a810-7c9078bd6a05,theater.actor,premium,68.51,68.51,high,medium,7,spaceship,,,31/10/2026 07:17
 907ab85e-f339-40b3-ae21-f7d017d97225,film.ltda,premium,66.3,66.3,high,medium,4,namecheap,,,22/10/2026 14:47
 fde88a35-b451-4926-b667-aca317d71589,theater.men,premium,362.45,51.95,high,medium,7,spaceship,,,31/10/2026 07:17
 2ad2f7ac-d4e7-4e88-94cf-8af43378a25b,amusement.navy,available,33.32,33.32,high,medium,9,spaceship,,,27/10/2026 00:24
 bd0b223a-5d9e-4431-8af5-11469d7f979f,show.bike,available,12.99,38.99,high,high,4,namesilo,,,05/11/2026 13:33
-75b1b9b1-0d91-43d7-bb0b-576f117b8b65,cinema.tickets,available,359.99,488.88,high,medium,6,namesilo,,,30/10/2026 22:43
+61e9219f-0906-4676-841f-7bfe6a074e55,cinema.how,premium,185.47,185.47,high,high,6,spaceship,,,06/11/2026 01:00
+75b1b9b1-0d91-43d7-bb0b-576f117b8b65,cinema.tickets,available,359.99,488.88,high,high,6,namesilo,,,06/11/2026 01:00
 6d2133a4-9fdf-4225-886f-a04f06d9ccb4,amusement.construction,available,30.2,30.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 f994c950-5775-403a-aef2-82f88ada3386,television.download,premium,3450,116,high,medium,10,namesilo,,,23/10/2026 09:22
+80b56e06-0d07-47f5-89e4-8ca2de6116e0,cinema.racing,premium,109.69,109.69,high,high,6,porkbun,,,06/11/2026 01:00
 28609a67-8a36-475c-936f-7322443e6bcb,theater.capital,premium,207.2,207.2,high,medium,7,spaceship,,,31/10/2026 07:17
 81777156-85e8-4614-bb83-71d825255c64,movie.love,premium,13800,13800,high,medium,5,namesilo,,,05/11/2026 16:33
 f183dd2d-1a26-4d21-b59e-85d21f4cc035,movie.jetzt,available,23.99,23.99,high,medium,5,namesilo,,,05/11/2026 16:33
 419d2792-710e-44d3-8f9c-88a4f1799367,film.protection,available,2064.2,2064.2,high,medium,4,spaceship,,,22/10/2026 14:47
-bc152095-3f43-40e1-bbf8-399b920a4eb8,cinema.villas,available,69.98,82.98,high,medium,6,namecheap,,,30/10/2026 22:43
+bc152095-3f43-40e1-bbf8-399b920a4eb8,cinema.villas,available,59.99,59.99,high,high,6,namesilo,,,06/11/2026 01:00
 a8b8f3de-e862-4934-8980-1167b09dd890,fun.cars,available,2070,2950,high,high,3,namecheap,,,02/11/2026 05:02
 0c2ff593-9b52-40ac-8901-e7ce157ad4df,television.camera,available,58.99,58.99,high,medium,10,namesilo,,,23/10/2026 09:22
 f4dd860f-868f-4e57-bf43-1725042eeb27,amusement.lifestyle,available,5.49,39.99,high,medium,9,namesilo,,,27/10/2026 00:24
 bfd7e0c5-c362-45cb-9d63-363b5bbd4156,film.coach,resell,,,high,medium,4,"NameCheap, Inc.",03/09/2015 18:12,03/09/2027 18:12,22/10/2026 14:47
 58240fa7-9f6d-467a-b1d3-fdd7ec46e6c8,entertainment.capital,premium,128.7,128.7,high,medium,13,namecheap,,,22/10/2026 19:32
+d4027e41-17cf-4221-a5e2-f97f89da830c,cinema.review,premium,3450,116,high,high,6,namesilo,,,06/11/2026 01:00
 d80c82dc-6532-4709-a943-e2fc38ee1263,amusement.healthcare,available,68.2,68.2,high,medium,9,cloudflare,,,27/10/2026 00:24
 12b6d8fe-2555-4b8d-be02-51cf8d75f2ba,film.cool,premium,440,440,high,medium,4,dynadot,,,22/10/2026 14:47
 0eec8353-4567-41dd-aa1a-f2537b9775b8,show.rodeo,premium,96,11.8,high,high,4,namesilo,,,05/11/2026 13:33
@@ -897,7 +900,6 @@ d80c82dc-6532-4709-a943-e2fc38ee1263,amusement.healthcare,available,68.2,68.2,hi
 ff490798-ae04-4686-b45f-baa5b5594dd7,leisure.theater,available,51.95,51.95,high,low,7,spaceship,,,08/10/2026 12:54
 860736dd-20b4-436e-9f24-c719e419e08a,television.luxury,premium,520,520,high,medium,10,namecheap,,,23/10/2026 09:22
 fd4bd7f4-7554-4ccc-a2b9-452ddee83c4b,show.sydney,available,58,58,high,high,4,namesilo,,,05/11/2026 13:33
-0f613b13-4a89-4b24-94ba-47bf7d433c66,cinema.forex,available,10.55,83,high,medium,6,spaceship,,,30/10/2026 22:43
 38192834-62a2-4031-862b-302ab52c75ae,film.energy,available,5.38,93.35,high,medium,4,spaceship,,,22/10/2026 14:47
 610cbdfc-1adc-401f-9e6a-84f2d9aae68b,amusement.center,available,4.34,26.08,high,medium,9,spaceship,,,27/10/2026 00:24
 1c771a18-7642-487e-b767-5588969e023e,amusement.soccer,available,10.92,23.76,high,medium,9,dynadot,,,27/10/2026 00:24
@@ -908,53 +910,51 @@ fd4bd7f4-7554-4ccc-a2b9-452ddee83c4b,show.sydney,available,58,58,high,high,4,nam
 951d4865-5476-4dbe-a218-0a5c8b08c417,movie.soy,premium,309.67,309.67,high,medium,5,spaceship,,,05/11/2026 16:33
 7446dd0e-1ec4-47c7-9206-4a9523b440ae,show.voyage,available,61.98,73.98,high,high,4,namecheap,,,05/11/2026 13:33
 d8e467f1-5e69-43d3-a66d-9961b3dcad09,entertainment.glass,available,85.48,109.98,high,medium,13,namecheap,,,22/10/2026 19:32
-61e9219f-0906-4676-841f-7bfe6a074e55,cinema.how,premium,185.47,185.47,high,medium,6,spaceship,,,30/10/2026 22:43
+36150099-4826-4a19-82f8-dd2ee7269dc9,cinema.lighting,available,18.2,18.2,high,high,6,cloudflare,,,06/11/2026 01:00
 2bb2469b-a70f-4530-8d0c-d6e3421e7ab6,fun.luxe,premium,242,17.7,high,high,3,namesilo,,,02/11/2026 05:02
 cca72060-1f16-47d3-b742-54003cfd2b4c,fun.rest,premium,3105,3105,high,high,3,namesilo,,,02/11/2026 05:02
 34afccf2-e86b-419c-b460-3c821e83ae96,film.prof,premium,649.2,671.92,high,medium,4,unstoppable,,,22/10/2026 14:47
+f2e2c13a-0ac6-4a28-9b73-3d93e81f18d0,cinema.fitness,available,8.99,41.99,high,high,6,namesilo,,,06/11/2026 01:00
 b4011e7e-11c2-40db-a157-5315abfd33d9,fun.yoga,premium,,,high,high,3,"GoDaddy.com, LLC",26/08/2020 19:08,26/08/2027 19:08,02/11/2026 05:02
 c0838464-9a40-4a4f-95ac-d5111ebb060e,amusement.report,available,10.5,19.87,high,medium,9,unstoppable,,,27/10/2026 00:24
 75574607-453e-4dba-836f-1861e0e810f5,theater.rocks,available,6.93,17.8,high,medium,7,spaceship,,,31/10/2026 07:17
 21db7c48-c9d4-4ce5-aa7d-781dc9ffbd45,amusement.dev,premium,49.2,57.82,high,medium,9,unstoppable,,,27/10/2026 00:24
-80b56e06-0d07-47f5-89e4-8ca2de6116e0,cinema.racing,premium,109.69,109.69,high,medium,6,porkbun,,,30/10/2026 22:43
+c9815fff-89bf-472b-8f3f-57918a5fc837,cinema.bid,premium,448,53.92,high,high,6,namesilo,,,06/11/2026 01:00
+e9847b3e-5551-4a2f-b45b-6dc08d58e979,cinema.phd,premium,649.2,671.92,high,high,6,unstoppable,,,06/11/2026 01:00
 4ef0c713-ace7-46f1-ad0a-52e98ca56c52,fun.green,premium,273.41,546.35,high,high,3,porkbun,,,02/11/2026 05:02
 01cd5c35-00cf-4a44-bdde-9da9d8a96d41,entertainment.investments,available,6.98,185.48,high,medium,13,namecheap,,,22/10/2026 19:32
 4a70ae9a-b41a-47a5-b8ee-cc5f44aa9a5b,amusement.vin,available,8.5,59.99,high,medium,9,unstoppable,,,27/10/2026 00:24
-d4027e41-17cf-4221-a5e2-f97f89da830c,cinema.review,premium,2587.7,103.7,high,medium,6,spaceship,,,30/10/2026 22:43
+97faf258-964b-4aa2-8562-1cf6ccd370ea,cinema.blog,premium,1293.95,5175.2,high,high,6,spaceship,,,06/11/2026 01:00
 81615d10-0b6c-42ef-95aa-91677ad83e0d,theater.engineer,premium,33.05,66.02,high,medium,7,porkbun,,,31/10/2026 07:17
 89f98805-2d8c-415d-877e-881af5f4cfb1,amusement.systems,available,10.55,28.15,high,medium,9,spaceship,,,27/10/2026 00:24
 b7c59e7f-2ee8-4e47-8d58-03d902898c89,entertainment.skin,available,1.24,13.97,high,medium,13,spaceship,,,22/10/2026 19:32
 fc3f1181-3382-4cda-a9db-80c280facfe0,entertainment.luxury,available,26,26,high,medium,13,spaceship,,,22/10/2026 19:32
-f8adedaf-9e7e-42cc-b272-d1f04e9007d9,cinema.money,available,16.99,35.99,high,medium,6,namesilo,,,30/10/2026 22:43
+f8adedaf-9e7e-42cc-b272-d1f04e9007d9,cinema.money,available,16.99,35.99,high,high,6,namesilo,,,06/11/2026 01:00
 e28ddf45-69ea-4206-b320-a1311442aefb,entertainment.date,premium,310.7,51.95,high,medium,13,spaceship,,,22/10/2026 19:32
 18fbff3d-a6e7-4812-b446-d9dce531fb1f,amusement.tel,available,10.62,10.62,high,medium,9,namesilo,,,27/10/2026 00:24
+8ba0c25c-13ee-424a-b58d-9896b21856c9,cinema.rich,available,78.99,160.71,high,high,6,porkbun,,,06/11/2026 01:00
 d3f0b437-40b3-45b7-8474-de3496f17592,recreation.mov,premium,61.27,61.27,high,low,10,spaceship,,,01/10/2026 15:30
 ff040200-ed0d-4e1b-8c24-f35a2d14b6fa,amusement.ceo,available,10.19,129.99,high,medium,9,namesilo,,,27/10/2026 00:24
 ebb08d51-f1ce-4baa-bc24-39bf947dfddc,performance.paris,available,,,high,low,11,,,,20/10/2026 09:29
 121c0b91-e735-44cf-9f3f-67a765683260,performance.company,resell,,,high,low,11,Dynadot Inc,01/04/2021 23:40,01/04/2027 23:40,20/10/2026 03:19
 9f307194-73ff-4e01-9b9f-0b0c8a16b822,film.plumbing,available,58.16,58.16,high,medium,4,spaceship,,,22/10/2026 14:47
-36150099-4826-4a19-82f8-dd2ee7269dc9,cinema.lighting,available,23.99,23.99,high,medium,6,namesilo,,,30/10/2026 22:43
 af456aca-7979-48cc-bece-a4b71719c0f0,entertainment.luxe,premium,2660,17.7,high,medium,13,namesilo,,,22/10/2026 19:32
-882e4584-537f-408d-aaae-c4f2a29483f0,cinema.hiv,available,191.75,191.75,high,medium,6,dynadot,,,30/10/2026 22:43
+882e4584-537f-408d-aaae-c4f2a29483f0,cinema.hiv,available,191.75,191.75,high,high,6,dynadot,,,06/11/2026 01:00
 4893c40d-821f-4613-afdf-0d46d804838b,performance.berlin,available,79.98,89.98,high,low,11,namecheap,,,20/10/2026 03:19
 8f37e2d1-74be-41fe-b3e2-28e5d759d2b4,game.theatre,available,538.98,620,high,high,4,namecheap,,,01/11/2026 21:37
 712f6971-2f15-42e3-b55e-75984adc6824,television.guitars,available,100.2,100.2,high,medium,10,cloudflare,,,23/10/2026 09:22
-f2e2c13a-0ac6-4a28-9b73-3d93e81f18d0,cinema.fitness,available,2.79,33.32,high,medium,6,spaceship,,,30/10/2026 22:43
 253b6d29-8aef-44ff-8fe6-4eb80cab0141,television.blackfriday,available,114.99,114.99,high,medium,10,namesilo,,,23/10/2026 09:22
 e1a08389-49cb-48b7-980f-a0797cbbcbd5,amusement.boutique,available,2.27,26.08,high,medium,9,spaceship,,,27/10/2026 00:24
 d2b14a01-acff-4e0d-8caf-008f80b8343d,show.dentist,available,51.95,51.95,high,high,4,spaceship,,,05/11/2026 13:33
 50746423-f9b6-40bb-9feb-cb076c37c56e,performance.estate,available,15.99,38.99,high,low,11,namesilo,,,20/10/2026 03:19
 59dd400c-fba1-49c2-b0b0-16f20174ad5d,entertainment.holdings,available,64.99,64.99,high,medium,13,namesilo,,,22/10/2026 19:32
-c9815fff-89bf-472b-8f3f-57918a5fc837,cinema.bid,premium,448,53.92,high,medium,6,namesilo,,,30/10/2026 22:43
 54e059f3-ba74-4406-99fd-3a3ba8ff8c14,movie.observer,premium,854,854,high,medium,5,namesilo,,,05/11/2026 16:33
 3261e11e-ad3a-4049-bd83-af4bb5374b15,entertainment.claims,available,17.99,64.99,high,medium,13,namesilo,,,22/10/2026 19:32
 bee9c4d5-900f-4fc3-bb70-68c210750e84,film.best,premium,926.16,926.16,high,medium,4,spaceship,,,22/10/2026 14:47
 27249c19-f91a-49ea-891a-0e806a1155a9,theater.tienda,available,5.57,49.44,high,medium,7,dynadot,,,31/10/2026 07:17
-e9847b3e-5551-4a2f-b45b-6dc08d58e979,cinema.phd,premium,671.92,671.92,high,medium,6,spaceship,,,30/10/2026 22:43
 121f0757-f675-46a2-a931-f4574da94fd3,amusement.today,available,5.99,32.99,high,medium,9,namesilo,,,27/10/2026 00:24
 f15f91f9-adef-452d-a24a-16fa4973f9bb,television.financial,available,15.73,46.78,high,medium,10,spaceship,,,23/10/2026 09:22
 8e7cb6c6-08d7-48c3-a319-fbe5a14b0a9f,entertainment.deal,premium,116,116,high,medium,13,namesilo,,,22/10/2026 19:32
-97faf258-964b-4aa2-8562-1cf6ccd370ea,cinema.blog,premium,1375,5500,high,medium,6,dynadot,,,30/10/2026 22:43
 0fc66d69-1b13-4f8d-aeb5-7161c8a2d313,theater.pet,available,20.2,20.2,high,medium,7,cloudflare,,,31/10/2026 07:17
 ed2511ad-5672-421f-8015-ec24bb48fb70,entertainment.studio,premium,1107,1107,high,medium,13,namesilo,,,22/10/2026 19:32
 4f0707ec-1b9a-47a3-908c-fe8f3bc039c6,theater.design,premium,2070.2,2070.2,high,medium,7,spaceship,,,31/10/2026 07:17
@@ -965,12 +965,12 @@ a4c0c88e-c6c3-4048-a422-01fe1307d2dd,film.contact,available,11.59,11.59,high,med
 0dd0dd83-3d92-4ca5-8732-4d00cc354a06,amusement.game,available,309.99,429.99,high,medium,9,namesilo,,,27/10/2026 00:24
 715549fd-9060-4579-8546-6ac4986274f9,movie.business,premium,854,854,high,medium,5,namesilo,,,05/11/2026 16:33
 922f1343-345b-425c-b379-736e521b392c,entertainment.hiv,available,184.9,184.9,high,medium,13,spaceship,,,22/10/2026 19:32
-8ba0c25c-13ee-424a-b58d-9896b21856c9,cinema.rich,available,79,160.72,high,medium,6,dynadot,,,30/10/2026 22:43
 bbc4f577-0daf-4a6b-a704-4d649956ab55,movie.graphics,premium,,,high,medium,5,"GoDaddy.com, LLC",12/02/2014 21:02,12/02/2027 21:02,05/11/2026 16:33
 f2ac48c5-e745-46cc-8f23-da06c9db1760,entertainment.financial,premium,242,242,high,medium,13,namesilo,,,22/10/2026 19:32
 49438859-c3da-4e62-b057-9ac492a5c05a,film.vodka,premium,242,29.5,high,medium,4,namesilo,,,22/10/2026 14:47
 f7c4006b-5be9-4c98-8804-384dfdc9d800,film.ventures,resell,,,high,medium,4,Dynadot Inc,03/06/2025 20:07,03/06/2027 20:07,22/10/2026 14:47
 a7350d99-460f-4916-b083-2b47cb2f8853,show.hiv,available,195.99,195.99,high,high,4,namesilo,,,05/11/2026 13:33
+e49abf1d-b84d-4bc6-b49a-80b47c330475,cinema.marketing,available,32.2,32.2,high,high,6,cloudflare,,,06/11/2026 01:00
 04901b11-7e9a-4229-b742-a3a177aca90c,movie.you,premium,517.7,517.7,high,medium,5,spaceship,,,05/11/2026 16:33
 1e262353-e81b-481e-8373-03e442c8f7de,movie.giving,available,6.41,22.39,high,medium,5,spaceship,,,05/11/2026 16:33
 160c3732-a7a2-4765-86fe-716ad80ef90b,film.click,resell,,,high,medium,4,Porkbun LLC,25/11/2014 16:00,25/11/2027 16:00,22/10/2026 14:47
@@ -981,6 +981,7 @@ f9f40145-44c7-47c3-b0af-e16a29338eff,show.ski,premium,118.8,118.8,high,high,4,na
 1da4a7e4-9017-4a02-a516-705c5d0c7952,entertainment.fan,premium,102.67,102.67,high,medium,13,spaceship,,,22/10/2026 19:32
 bf10024d-e850-42b7-a359-5aa292c0327d,entertainment.domains,premium,880,880,high,medium,13,dynadot,,,22/10/2026 19:32
 1b8fe20d-8ac4-41ca-980e-2f098eea64f5,film.auction,resell,,,high,medium,4,"GoDaddy.com, LLC",21/06/2024 01:05,21/06/2027 01:05,22/10/2026 14:47
+80105a88-2839-45b7-aaa5-d6cbde6a02e0,cinema.soccer,available,25.99,25.99,high,high,6,namesilo,,,06/11/2026 01:00
 306ebf82-a9cb-4548-ad07-2b0ee84af191,performance.lifestyle,available,1.24,31.25,high,low,11,spaceship,,,20/10/2026 03:19
 73470912-2464-4b6d-a7a4-963f0b6817de,theater.finance,available,20,51.95,high,medium,7,unstoppable,,,31/10/2026 07:17
 ae2f614e-d64d-4e35-bad8-49998c237405,television.church,resell,11.99,,high,medium,10,"Global Domains International, Inc. DBA DomainCostClub.com",25/05/2026 13:07,25/05/2027 13:07,23/10/2026 09:22
@@ -996,6 +997,5 @@ ae2f614e-d64d-4e35-bad8-49998c237405,television.church,resell,11.99,,high,medium
 33f7fac8-adeb-4288-b384-875e7cbed6c3,video.boo,premium,1091.09,1091.09,high,high,5,porkbun,,,31/10/2026 00:44
 af94704b-9a36-4723-ab08-ed8429a995e9,performance.how,premium,39.2,53.3,high,low,11,unstoppable,,,20/10/2026 03:19
 b22bde2b-c431-45be-b0dc-bde34f25d719,streaming.theatre,available,465.95,500.18,high,low,9,spaceship,,,06/10/2026 23:56
-e49abf1d-b84d-4bc6-b49a-80b47c330475,cinema.marketing,available,8.99,41.99,high,medium,6,namesilo,,,30/10/2026 22:43
 8286d861-e255-44ca-856b-bed4a083deb7,fun.lifestyle,premium,724.7,1035.2,high,high,3,spaceship,,,02/11/2026 05:02
 0b0d0bb4-a586-4afc-9b5b-f5dac2964520,theater.villas,premium,242,242,high,medium,7,namesilo,,,31/10/2026 07:17
